@@ -4,4 +4,4 @@ En ny skjematype vil få tildelt noen anbefalte systemutfylte felt med metadata 
                     
 Disse vil ikke være synlig ved utfylling av skjema, men først ved eksport av data.
 
-Det anbefales å tenke nøye gjennom hvilke metadata det er behov for fra starten av.
+Det anbefales å tenke nøye gjennom hvilke metadata det er behov for fra starten av, siden man ikke kan gjøre endringer på en publisert versjon.
