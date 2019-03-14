@@ -1,6 +1,6 @@
 # eFORSK endringslogg
 
-Her finnes en oversikt over hva som i grove trekk har endret seg i funksjonalitet mellom versjonene.
+Her finnes en oversikt over hva som i grove trekk har endret seg i funksjonalitet mellom versjonene. Hei!
 
 ## Versjon 0.9 (mars 2019)
 
