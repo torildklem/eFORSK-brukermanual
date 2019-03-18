@@ -8,7 +8,7 @@ Administrasjon
 *	Endre registeroppsett
 *	Endre tilgangsenheter
 *	Endre skjematyper
-*	Endre forskningsobjekttyper
+*	Endre typer av forskningsobjekt
 
 Skjema
 *	Lese egne skjema

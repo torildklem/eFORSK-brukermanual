@@ -2,7 +2,7 @@
 
 Skjemaer i eFORSK må opprettes på et objekt. I eFORSK kalles dette for forskningsobjekter.
 
-Personer fra Personregisteret ligger inne som standard for forskningsobjekt, men registeransvarlig kan også opprette andre forskningsobjekttyper når data man samler inn ikke kommer fra mennesker. Andre typer kan for eksempel være legemidler, lab-rotter eller lignende. I disse tilfellene kan man ikke bestille skjema til utfyllelse via ePROM.
+Personer fra Personregisteret ligger inne som standard for forskningsobjekt, men registeransvarlig kan også opprette andre typer av forskningsobjekt når data man samler inn ikke kommer fra mennesker. Andre typer kan for eksempel være legemidler, lab-rotter eller lignende. I disse tilfellene kan man ikke bestille skjema til utfyllelse via ePROM.
 
 Ved opprettelse av en skjematype låses dette til en spesifikk forskningsobjekttype og kan ikke endres senere.
 

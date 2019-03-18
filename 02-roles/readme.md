@@ -1,5 +1,7 @@
 # Roller i eFORSK
 
+Roller sier noe om hvilke operasjoner man har tilgang til i forhold til enheten man er logget inn på.
+
 ## Registeransvarlig
 Registeransvarlig har tilgang til alle funksjoner i eFORSK og er den eneste som kan endre registerinnstillinger og bygge skjematyper.
 
