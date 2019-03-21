@@ -1,11 +1,11 @@
-# Registeransvarlig
+# Ansvarlig
 
-Registeransvarlig har tilgang til alle funksjoner i eFORSK og er den
-eneste som kan endre registerinnstillinger og bygge skjematyper.
+En bruker med rollen *ansvarlig* har tilgang til alle funksjoner i eFORSK og er den
+eneste som kan endre databaseoppsett og bygge skjematyper.
 
 ## Tilganger og rettigheter:
 Administrasjon
-*	Endre registeroppsett
+*	Endre databaseoppsett
 *	Endre tilgangsenheter
 *	Endre skjematyper
 *	Endre typer av forskningsobjekt

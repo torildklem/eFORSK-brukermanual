@@ -1,7 +1,7 @@
 # Leser anonymisert
 
-Leser anonymisert kan kun lese ikke-identifiserbar data fra 
-registeret og kan ikke registrere ny data.
+En bruker med rollen *leser anonymisert* kan kun lese ikke-identifiserbar data fra 
+databasen og kan ikke registrere ny data.
 
 ## Tilganger og rettigheter:
 

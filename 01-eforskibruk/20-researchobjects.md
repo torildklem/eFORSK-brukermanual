@@ -2,14 +2,18 @@
 
 Skjemaer i eFORSK må opprettes på et objekt. I eFORSK kalles dette for forskningsobjekter.
 
-Personer fra Personregisteret ligger inne som standard for forskningsobjekt, men registeransvarlig kan også opprette andre typer av forskningsobjekt når data man samler inn ikke kommer fra mennesker. Andre typer kan for eksempel være legemidler, lab-rotter eller lignende. I disse tilfellene kan man ikke bestille skjema til utfyllelse via ePROM.
+Personer fra Personregisteret ligger inne som standard for forskningsobjekt, 
+men en bruker med rollen *ansvarlig* kan også opprette andre typer av forskningsobjekt når data man samler inn ikke kommer fra mennesker. 
+Andre typer kan for eksempel være legemidler, lab-rotter eller lignende. 
+I disse tilfellene kan man ikke bestille skjema til utfyllelse via ePROM.
 
 Ved opprettelse av en skjematype låses dette til en spesifikk forskningsobjekttype og kan ikke endres senere.
 
-Under "Forskningsobjekter" kan man søke opp objekter det er registrert data på i registeret, se detaljer om disse og hvilke skjema som er registrert. 
+Under "Forskningsobjekter" kan man søke opp objekter det er registrert data på i databasen, se detaljer om disse og hvilke skjema som er registrert. 
 
 ## Samtykke
-Lovverk krever at personer i Personregisteret må samtykke i at data om de kan lagres i eFORSK. Samtykket vil tilhøre personen i registeret. Informasjonen ligger globalt og gjelder alle skjema registrert på personen uansett tilgangsenhet, og alle enheter kan oppdatere samtykket.
+Lovverk krever at personer i Personregisteret må samtykke i at data om de kan lagres i eFORSK. Samtykket vil tilhøre personen i databasen. 
+Informasjonen ligger globalt og gjelder alle skjema registrert på personen uansett tilgangsenhet, og alle enheter kan oppdatere samtykket.
 
 Samtykkenivåer:
 * **Ikke forespurt** - Grunntilstand
@@ -21,4 +25,4 @@ Samtykkenivåer:
 
 Samtykke kan etterspørres automatisk ved bestilling av skjemautfyllelse (ePROM) eller settes på direkte på forskningsobjektet. Man kan gå inn på personen og gi/endre samtykke når som helst.
 
-Om samtykke håndteres utenfor registeret må administrator begrunne dette.
+Om samtykke håndteres utenfor databasen må administrator begrunne dette.

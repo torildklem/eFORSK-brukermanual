@@ -13,5 +13,5 @@ som forespør disse dataene i avsendernavnet.
 ## Samtykkeforespørsel
 
 I tilfelle skjemaet bestilles med samtykkeforespørsel, vil en tekst presenteres sammen med forespørsel om signatur. 
-Det er viktig at denne teksten reflekterer hvilket samtykke som kreves for å ligge i registeret.
-Denne teksten spesifiseres under "Administrasjon/Registeroppsett".
+Det er viktig at denne teksten reflekterer hvilket samtykke som kreves for å ligge i databasen.
+Denne teksten spesifiseres under "Administrasjon/Databaseoppsett".

@@ -1,8 +1,8 @@
 # Dataansvarlig
 
-Dataansvarlig har tilgang til alle funksjoner som omhandler data-
+En bruker med rollen *dataansvarlig* har tilgang til alle funksjoner som omhandler data-
 innsamling og -behandling, men har ikke rettigheter til å administrere
-registeret (for eksempel kan ikke opprette/endre skjematyper).
+databasen (for eksempel kan ikke opprette/endre skjematyper).
 
 ## Tilganger og rettigheter:
 Skjema

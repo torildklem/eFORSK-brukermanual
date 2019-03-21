@@ -16,7 +16,7 @@ Alle felt vil ha et variabelnavn som brukes ved eksport, og en visningstekst som
 ### Randomiseringsfelt
 Et randomiseringsfelt fungerer på samme måte som et valgfelt, hvor man kan opprette flere alternativer. Forskjellen ligger i grensesnittet ved utfylling av skjema; man får en knapp for randomisering som gir et tilfeldig valgt alternativ. Denne handlingen kan ikke angres.
 
-I de tilfellene et randomiseringsfelt er lagt til en skjematype som kan bestilles utfylt (ePROM), så vil ikke feltet være synlig for vedkommende som skal fylle ut. Feltet vil bli randomisert ved bestilling. I de tilfellene hvor det er papirbesvarelse, så vil feltet bli randomisert ved leveranse tilbake til registeret.
+I de tilfellene et randomiseringsfelt er lagt til en skjematype som kan bestilles utfylt (ePROM), så vil ikke feltet være synlig for vedkommende som skal fylle ut. Feltet vil bli randomisert ved bestilling. I de tilfellene hvor det er papirbesvarelse, så vil feltet bli randomisert ved leveranse tilbake til databasen.
 
 ### Systemutfylte felt
 Man har også muligheten til å legge til systemutfylte felt. Et systemutfylt felt vil automatisk fylles ut ved opprettelse, endring eller ferdigstillelse. Vedkommende som fyller ut skjema har ikke muligheten til å fylle ut eller endre disse feltene. Dette er typisk brukt for metadata som skjemaID, pasientalder, kjønn og lignende.

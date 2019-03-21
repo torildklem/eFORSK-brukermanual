@@ -1,7 +1,7 @@
 # Registrar
 
-Registrar har begrenset tilgang til funksjoner som omhandler data-
-innsamling og -behandling. En registrar kan kun lese og endre egne
+En bruker med rollen *registrar* har begrenset tilgang til funksjoner som omhandler data-
+innsamling og -behandling. En *registrar* kan kun lese og endre egne
 registrerte skjema, og kun se eksistens (ikke data) av andres skjema.
 
 ## Tilganger og rettigheter:

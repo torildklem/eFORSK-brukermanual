@@ -1,6 +1,6 @@
 # Leser
 
-Leser kan kun lese data fra registeret og kan ikke registrere ny data.
+En bruker med rollen *leser* kan kun lese data fra databasen og kan ikke registrere ny data.
 
 ## Tilganger og rettigheter:
 
