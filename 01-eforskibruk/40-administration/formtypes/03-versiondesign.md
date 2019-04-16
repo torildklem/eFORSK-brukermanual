@@ -11,7 +11,7 @@ Informasjonstekst kan legges til hvor man ønsker i skjemaet, eksempelvis for en
 ## Felter
 Feltene er det som skal besvares i et skjema. Felttypene som støttes er **tallfelt**, **avkrysningsfelt**, **datofelt**, **tekstfelt**, **valgfelt** og **randomiseringsfelt**. 
 
-eFORSK har ikke en egen felttype for **flervalgsfelt**, da analyse av eksportert data blir vanskelig om et svar på en variabel kan inneholde flere verdier. Men, man kan lage illusjonen av et flervalgsfelt ved å ha en gruppe som har et avkrysningsfelt for hvert valg. I kommende versjon av eFORSK kan man legge på regelen "Vis som flervalgsfelt" på gruppen som gjør at den vises mer som ett felt.
+Det finnes ikke en egen felttype for **flervalgsfelt**, da analyse av eksportert data blir vanskelig om et svar på en variabel inneholder flere verdier. Men, man kan lage illusjonen av et flervalgsfelt ved å ha en gruppe med avkrysningsfelt for hvert alternativ. I en kommende versjon av eFORSK kan man på gruppen legge på regelen "Vis som flervalgsfelt", som gjør at den vises mer som ett felt.
 
 Alle felt vil ha et variabelnavn som brukes ved eksport, og en visningstekst som gjør det enkelt for bruker å vite hva som skal fylles ut.
 
