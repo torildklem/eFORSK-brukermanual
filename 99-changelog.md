@@ -2,7 +2,7 @@
 
 Her finnes en oversikt over hva som i grove trekk har endret seg i funksjonalitet mellom versjonene.
 
-## Versjon 1.0 (juni 2019)
+## Versjon 1.0 (planlagt for juni 2019)
 
 Under utvikling!
 
