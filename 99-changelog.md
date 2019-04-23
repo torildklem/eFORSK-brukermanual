@@ -9,6 +9,3 @@ Under utvikling, planlagt ferdig juni 2019.
 ## Versjon 0.9 (mars 2019)
 
 Dette er første versjon av eFORSK, til bruk for piloteringsprosjekter.
-
-#### Kjente feil
-* Småfeil ved bruk av nettleseren Edge, det anbefales å bruke Chrome for denne versjonen.
