@@ -11,4 +11,4 @@ Under utvikling, planlagt ferdig juni 2019.
 Dette er første versjon av eFORSK, til bruk for piloteringsprosjekter.
 
 #### Kjente feil
-* Feil ved bruk av nettleseren Edge: manglende filnavn ved nedlastning av metadata, og mulig visning av teksten "null" i noen skjematyper
+* Småfeil ved bruk av nettleseren Edge, det anbefales å bruke Chrome for denne versjonen.
