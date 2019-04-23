@@ -1,6 +1,6 @@
 # eFORSK endringslogg
 
-Her finnes en oversikt over hva som i grove trekk har endret seg i funksjonalitet mellom versjonene.
+Her finnes en oversikt over hva som har endret seg i funksjonalitet mellom versjonene.
 
 ## Versjon 1.0
 
