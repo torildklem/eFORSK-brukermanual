@@ -1,6 +1,6 @@
 # Hovedskjematype og underskjematype
 
-Hvis et skjema av en skjematype (B) krever eksistens av et skjema av en annen skjematype (A), er det god praksis å opprette skjematypen B som en underskjematype av skjematypen A. Man får da et metadatafelt på skjematype B med den unike nøkkelen til skjematype A som kan være nyttig ved dataaggregering.
+Hvis et skjema av en skjematype (B) krever eksistensen av et skjema av en annen skjematype (A), er det god praksis å opprette skjematypen B som en underskjematype av skjematypen A. Man får da et metadatafelt på skjematype B med den unike nøkkelen til skjematype A som kan være nyttig ved dataaggregering.
 
 I noen prosjekt kan det være ønskelig med oppfølgingsskjema, og dette kan løses ved å opprette en underskjematype av en hovedskjematype.
 
