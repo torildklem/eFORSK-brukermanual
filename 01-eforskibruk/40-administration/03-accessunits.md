@@ -1,7 +1,7 @@
 # Tilgangsenheter
 
-Tilgangsenhetene er en hierarkisk liste over enheter man kan logges inn på i databasen. En tilgangsenhet har tilgang til data registrert på seg selv, på barn, og videre arvinger nedover i hierarkiet. En tilgangsenhet kan ikke se data registrert på sin foreldre (og forfedre) oppover i hiearkiet. Tilgang høyere opp i tilgangstreet vil si tilgang til å mer data, tilgang laverene ned vil begrense tilgangen til data.
+Tilgangsenhetene er en hierarkisk liste over enheter man kan logges inn pÃ¥ i databasen. En tilgangsenhet har tilgang til data registrert pÃ¥ seg selv, pÃ¥ barn, og videre arvinger nedover i hierarkiet. En tilgangsenhet kan ikke se data registrert pÃ¥ sin foreldre (og forfedre) oppover i hiearkiet. Tilgang hÃ¸yere opp i tilgangstreet vil si tilgang til Ã¥ mer data, tilgang laverene ned vil begrense tilgangen til data.
 
-En tilgangsenhet har ikke tilgang til å se data i kladd tilgangsenheter nedover i hiearkiet. Data må ferdigstilles eller være til kontroll for at dem skal være synlig på andre enn tilgangsenheten dem er opprettet på.
+En tilgangsenhet har ikke tilgang til Ã¥ se data i kladd tilgangsenheter nedover i hiearkiet. Data mÃ¥ ferdigstilles eller vÃ¦re til kontroll for at dem skal vÃ¦re synlig pÃ¥ andre enn tilgangsenheten dem er opprettet pÃ¥.
 
-En database av enkleste form vil kun ha en stykk tilgangsenhet, man trenger da ikke å ha noen kunnskap om tilganger og hierarki.
+En database av enkleste form vil kun ha en stykk tilgangsenhet, man trenger da ikke Ã¥ ha noen kunnskap om tilganger og hierarki.
