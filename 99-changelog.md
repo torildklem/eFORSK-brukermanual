@@ -10,7 +10,7 @@ Under utvikling, planlagt ferdig juni 2019.
 * ePROM
   * Mulighet for å legge bestillinger frem i tid
   * Mulighet for eksport av orderer til regneark
-  * *Personinitisert utfyllelse (tilgjengelig kun ved forespørsel)*
+  * *Personinitiert utfyllelse (tilgjengelig kun ved forespørsel)*
   * Automatiserte bestillinger (tilgjengelig kun ved forespørsel)
   * Mulighet for å etterspørre samtykke ved bestilling selv om samtykke allerede foreligger
 * Import av skjemadata (tilgjengelig kun ved forespørsel)
