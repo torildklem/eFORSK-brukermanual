@@ -22,6 +22,8 @@ Når en versjon er publisert kan det opprettes nye skjemaer av denne versjonen, 
 
 Når en verjson er avpublisert kan det ikke opprettes nye skjemaer eller bestilles utfyllelse av versjonen. Allerede opprettede skjemaer kan man fortsatt endre på, og eventuelle svar på skjemabestillinger vil fortsette å komme inn. Bruker man personinitiert ePROM må man sørge for at lenken til skjemaet ikke blir distribuert mer. Avpubliserte versjoner kan publiseres på nytt eller låses.
 
-### Låst *(ikke utviklet ennå)*
+### Låst *(ikke laget ennå)*
+
+*Det er ikke bestemt når eFORSK får denne muligheten*
 
 Når en versjon er låst, kan man verken opprette nye skjemaer, bestille utfyllelse eller endre på eksisterende skjemaer. Tilstanden er låst. Eventuelle svar på skjemabestillinger vil fortsatt komme inn, ønsker man ikke dette må man sørge for at alle ubesvarte bestillinger har løpt ut på tid. Merk at bestillinger som har blitt sendt som papirskjema i posten ikke har en utløpstid. Bruker man personinitiert ePROM må man sørge for at lenken til skjemaet ikke blir distribuert mer. Låste versjoner kan publiseres på nytt eller avpubliseres.
