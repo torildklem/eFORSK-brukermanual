@@ -20,7 +20,7 @@ Når en versjon er publisert kan det opprettes nye skjemaer av denne versjonen, 
 
 ### Avpublisert
 
-Når en verjson er avpublisert kan det ikke opprettes nye skjemaer eller bestilles utfyllelse av versjonen. Allerede opprettede skjemaer kan man fortsatt endre på, og eventuelle svar på skjemabestillinger vil fortsette å komme inn. Avpubliserte versjoner kan publiseres på nytt eller låses.
+Når en verjson er avpublisert kan det ikke opprettes nye skjemaer eller bestilles utfyllelse av versjonen. Allerede opprettede skjemaer kan man fortsatt endre på, og eventuelle svar på skjemabestillinger vil fortsette å komme inn. Bruker man personinitiert ePROM må man sørge for at lenken til skjemaet ikke blir distribuert mer. Avpubliserte versjoner kan publiseres på nytt eller låses.
 
 ### Låst *(ikke utviklet ennå)*
 
