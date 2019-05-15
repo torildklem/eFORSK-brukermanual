@@ -24,4 +24,4 @@ Når en verjson er avpublisert kan det ikke opprettes nye skjemaer eller bestill
 
 ### Låst *(ikke utviklet ennå)*
 
-Når en versjon er låst, kan man verken opprette nye skjemaer, bestille utfyllelse eller endre på eksisterende skjemaer. Tilstanden er låst. Eventuelle svar på skjemabestillinger vil fortsatt komme inn, ønsker man ikke dette må man sørge for at alle ubesvarte bestillinger har løpt ut på tid. Merk at bestillinger som har blitt sendt som papirskjema i posten ikke har en utløpstid. Låste versjoner kan publiseres på nytt eller avpubliseres.
+Når en versjon er låst, kan man verken opprette nye skjemaer, bestille utfyllelse eller endre på eksisterende skjemaer. Tilstanden er låst. Eventuelle svar på skjemabestillinger vil fortsatt komme inn, ønsker man ikke dette må man sørge for at alle ubesvarte bestillinger har løpt ut på tid. Merk at bestillinger som har blitt sendt som papirskjema i posten ikke har en utløpstid. Bruker man personinitiert ePROM må man sørge for at lenken til skjemaet ikke blir distribuert mer. Låste versjoner kan publiseres på nytt eller avpubliseres.
