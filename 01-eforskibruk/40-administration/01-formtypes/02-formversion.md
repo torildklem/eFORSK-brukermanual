@@ -14,14 +14,14 @@ Versjonene får navn V*X*, der *X* er versjonsnummeret. Det anbefales å i tille
 
 Det er kun i status kladd at innholdet i en versjon kan endres. Når en versjon har forlatt status kladd kan den aldri returnere tilbake til denne statusen, versjonen blir altså låst for endringer.
 
-## Publisert
+### Publisert
 
 Når en versjon er publisert kan det opprettes nye skjemaer av denne versjonen, og bestilles utfyllelse hvis ePROM er aktivert og godkjent. En publisert versjon kan avpubliseres eller låses.
 
-## Avpublisert
+### Avpublisert
 
 Når en verjson er avpublisert kan det ikke opprettes nye skjemaer eller bestilles utfyllelse av versjonen. Allerede opprettede skjemaer kan man fortsatt endre på, og eventuelle svar på skjemabestillinger vil fortsette å komme inn. Avpubliserte versjoner kan publiseres på nytt eller låses.
 
-## Låst *(ikke utviklet ennå)*
+### Låst *(ikke utviklet ennå)*
 
-Når en versjon er låst, kan man verken opprette nye skjemaer, bestille utfyllelse eller endre på eksisterende skjemaer. Tilstanden er låst. Eventuelle svar på skjemabestillinger vil fortsatt komme inn. Låste versjoner kan publiseres på nytt eller avpubliseres.
+Når en versjon er låst, kan man verken opprette nye skjemaer, bestille utfyllelse eller endre på eksisterende skjemaer. Tilstanden er låst. Eventuelle svar på skjemabestillinger vil fortsatt komme inn, ønsker man ikke dette må man sørge for at alle ubesvarte bestillinger har løpt ut på tid. Merk at bestillinger som har blitt sendt som papirskjema i posten ikke har en utløpstid. Låste versjoner kan publiseres på nytt eller avpubliseres.
