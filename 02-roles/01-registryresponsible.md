@@ -1,6 +1,6 @@
-# Ansvarlig
+# Databaseansvarlig
 
-En bruker med rollen *ansvarlig* har tilgang til alle funksjoner i eFORSK og er den
+En bruker med rollen *databaseansvarlig* har tilgang til alle funksjoner i eFORSK og er den
 eneste som kan endre databaseoppsett og bygge skjematyper.
 
 ## Tilganger og rettigheter:
