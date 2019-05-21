@@ -2,7 +2,7 @@
 
 Roller sier noe om hvilke operasjoner man har tilgang til i forhold til enheten man er logget inn på.
 
-## Datanaseansvarlig
+## Databaseansvarlig
 Databaseansvarlig har tilgang til alle funksjoner i eFORSK og er den eneste som kan endre databaseoppsett og bygge skjematyper.
 
 ## Dataansvarlig
