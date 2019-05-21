@@ -2,8 +2,8 @@
 
 Roller sier noe om hvilke operasjoner man har tilgang til i forhold til enheten man er logget inn på.
 
-## Ansvarlig
-Ansvarlig har tilgang til alle funksjoner i eFORSK og er den eneste som kan endre databaseoppsett og bygge skjematyper.
+## Datanaseansvarlig
+Databaseansvarlig har tilgang til alle funksjoner i eFORSK og er den eneste som kan endre databaseoppsett og bygge skjematyper.
 
 ## Dataansvarlig
 Dataansvarlig har tilgang til alle funksjoner som omhandler data- innsamling og -behandling, men har ikke rettigheter til å administrere databasen (for eksempel kan ikke opprette/endre skjematyper). 
