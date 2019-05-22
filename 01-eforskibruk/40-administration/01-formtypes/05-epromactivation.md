@@ -1,6 +1,6 @@
 # ePROM aktivering
 
-Aktiverer man ePROM vil det i øyeblikket skjemaet publiseres blir kopiert opp i ePROM løsningen.
+Aktiverer man ePROM vil det i øyeblikket skjemaet publiseres bli kopiert opp i ePROM løsningen.
 I testmodus kan man umiddelbart bestille ePROM av skjematypen, mens utenfor testmodus må det testes og godkjennes 
 av eFORSK administrator før det kan bestilles.
 
