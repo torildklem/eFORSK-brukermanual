@@ -23,6 +23,8 @@ Skulle en verdi i kolonnen ikke ha en gyldig verdi for feltet, får man ikke mul
 Eksempelvis vil et tallfelt som har satt minimumsverdi 0, ikke godta en kolonne som skulle inneholde et negativt tall.
 Hvis tall i kolonnen har flere desimaler enn hva tallfeltet er satt opp for, blir det avrundet ved import.
 
+Det er ikke mulig å importere data til systemutfylte felter. Disse vil fylles ut av systemet ved importering. Unntaket her er forskningsobjektets ID som kreves for å koble mot riktig forskningsobjekt.
+
 ## Store datamengder 
 
 Store mengder skjemaer som skal importeres bør deles opp i flere filer slik at hver fil ikke inneholder mer enn et par tusen skjema.
