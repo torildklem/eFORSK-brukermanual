@@ -1,9 +1,12 @@
 # ePROM bestillingsjobber
 
-Denne funksjonen er ikke tilgjengelig som standard i eFORSK og må etterspørres for å få den aktivert.
+Denne funksjonen er ikke tilgjengelig som standard i eFORSK og må etterspørres for å få den aktivert. Merk at man her kan få bestilt store mengder skjemaer til utfyllelse som medfører en **kostnad**, når man lager bestillingsjobber har man selv ansvaret for at dem settes opp riktig og at dem ikke bestiller mer enn dem skal.
 
+## Hva er bestilingsjobber
+
+Istedenfor å manuelt bestille skjemautfyllelse, kan man automatisere prosessen. 
 Hvis man ønsker at det automatisk skal bestilles skjemautfyllelse fra personer 
-for eksempel 30 dager etter at et skjema ferdigstilles, må man sette opp en bestillingsjobb. 
+eksempelvis 30 dager etter at et skjema ferdigstilles, må man sette opp en bestillingsjobb. 
 
 I utgangspunktet 
 kan man sette opp at et skjema av hvilken som helst skjematype trigger bestiller skjemautfyllelse av hvilken 
@@ -27,7 +30,11 @@ En bestillingsjobb har tre statuser:
 * **Aktivert i testmodus**: Denne statusen eksisterer slik at man kan se hvordan bestillingsjobben planlegger bestillinger på sine testskjemaer.
 * **Aktivert**: I denne statusen vil bestillingsjobben planlegge bestillinger både i og utenfor testmodus.
 
+Endrer man status, vil det startes en prosess med å planlegge og/eller avbryte bestillinger. Mens dette skjer, har man ikke mulighet til å gjøre nye statusendringer eller konfigurasjon. Tiden dette tar avhenger av hvor man skjemaer man har i sin database.
+
 ## Bestillinger
+
+Bestillinger fra bestillingsjobber gjøres fortløpende etter at et skjema lagres. Det vil si at om man manuelt fyller ut skjema i eFORSK, importerer data eller får svar på en bestillelse om skjemautfyllelse (via ePROM), vil bestillingsjobbene sjekke om dette er et triggerskjema som oppfyller kravene som skal føre til en bestilling.  Merk at det kan ta noen sekunder etter at et skjema er lagret før bestillingsjobben er ferdig med å planlegge bestillinger.
 
 En bestilling opprettet av en bestillingsjobb planlegges tidligst en time frem i tid, slik at man etter aktivering av en bestillingsjobb har tid til å sjekke at bestillingene har blitt planlagt som tenkt.
 
