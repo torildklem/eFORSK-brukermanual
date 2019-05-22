@@ -19,14 +19,24 @@ av en tilknyttet skjematype:
 
 ### Skjematype som trigger bestilling
 
+Skjemaer av skjematypen som er satt opp til å trigge bestilling overvåkes av bestillingsjobben. Oppfylles kravene som konfigureres her, vil bestillingsjobben planlegge bestilling.
+
+Lager man en jobb der man ikke ønsker at eksisterende skjema skal bli triggerskjema, kan man spesifisere at triggerskjema må være opprettet fra og med et tidspunkt.
+
+Videre kan man også velge at triggerskjemaet må ha noen gitte verdier i valgfelt eller avkrysningsfelt. Eksempelvis kan man si at kun skjemaer med svar "Ja" på spørsmål om "Ønsker pasient videre oppfølging?" skal være et triggerskjema.
+
 ### Skjemaversjon som bestilles
 
+Her kan man velge når skjemautfyllelse skal bestilles i forhold til triggerskjemaet. Merk at hvis skjemaversjon som bestilles er av en underskjematype, og skjematypen som trigger bestilling ikke er foreldreskjematypen til denne, vil et foreldreskjema opprettes som kladd ved besvarelse av bestillingen.
+
 ### Gjentagende bestilling
+
+Man kan sette opp inntil 10 gjentagende bestillinger på et triggerskjema, som da kan føre til totalt 11 bestillinger. Som standard kreves det svar på en bestilling før den neste planlegges. Man kan også velge at det ikke kreves besvarelse, da vil alle gjentagende bestillinger planlegges samtidig.
 
 ## Aktivering
 
 En bestillingsjobb har tre statuser:
-* **Stoppet**: Kun i denne statusen kan jobben endres (konfigureres). Går man fra en annen status til stoppet, vil alle bestillinger som er planlagt av jobben avbrytes. Bestillinger som allerede er bestilt røres ikke.
+* **Stoppet**: Kun her kan jobben endres (konfigureres). Går man fra en annen status til "stoppet", vil alle bestillinger som er planlagt av jobben avbrytes. Bestillinger som allerede er bestilt røres ikke.
 * **Aktivert i testmodus**: Denne statusen eksisterer slik at man kan se hvordan bestillingsjobben planlegger bestillinger på sine testskjemaer.
 * **Aktivert**: I denne statusen vil bestillingsjobben planlegge bestillinger både i og utenfor testmodus.
 
@@ -41,3 +51,5 @@ En bestilling opprettet av en bestillingsjobb planlegges tidligst en time frem i
 Planlagte bestillinger vil bestilles av eFORSK hver hele time, det oppgitte bestillingstidspunktet er altså bare det tidligst mulige tidspunktet for bestilling.
 
 Man kan manuelt avbryte en planlagt bestilling av bestillingsjobben ved klikk på avbryt knappen ved siden av bestillingen. Bestillingen  skal da forbli avbrutt selv om man stopper bestillingsjobben og aktiverer den igjen.
+
+Slettes triggerskjemaet, vil alle planlagte bestillinger basert på denne avbrytes.
