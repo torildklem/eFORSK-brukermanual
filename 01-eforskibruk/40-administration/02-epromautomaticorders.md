@@ -1,6 +1,6 @@
 # ePROM bestillingsjobber
 
-Denne funksjonen er ikke tilgjengelig som standard i eFORSK og må etterspørres for å få den aktivert. Merk at man her kan få bestilt store mengder skjemaer til utfyllelse som medfører en **kostnad**, når man lager bestillingsjobber har man selv ansvaret for at dem settes opp riktig og at dem ikke bestiller mer enn dem skal.
+Denne funksjonen er ikke tilgjengelig som standard i eFORSK og må etterspørres for aktivering. Merk at man her kan få bestilt store mengder skjemaer til utfyllelse som medfører en **kostnad**, når man lager bestillingsjobber har man selv ansvaret for at dem settes opp riktig og at dem ikke bestiller mer enn dem skal.
 
 ## Hva er bestillingsjobber
 
