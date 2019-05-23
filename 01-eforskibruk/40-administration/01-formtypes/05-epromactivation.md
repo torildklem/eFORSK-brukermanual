@@ -1,8 +1,12 @@
 # ePROM aktivering
 
-Aktiverer man ePROM vil det i øyeblikket skjemaet publiseres bli kopiert opp i ePROM løsningen.
+Aktiverer man ePROM vil det i øyeblikket skjemaet publiseres bli kopiert til den eksterne ePROM-løsningen.
 I testmodus kan man umiddelbart bestille ePROM av skjematypen, mens utenfor testmodus må det testes og godkjennes 
 av eFORSK administrator før det kan bestilles.
+
+## Papirskjema
+
+Skal man støtte papirutsendelse av skjemaet må det aktivt velges, da dette medfører kostnader for etablering, utsendelse og innskanning. Prosessen med å få klargjort papirskjemaet vil ta flere uker. Digital utsendelse kan likevel godkjennes og tas i bruk i påvente av at papirskjemaet klargjøres.
 
 ## Informasjonstekst til mottaker og avsendernavn
 
