@@ -15,3 +15,10 @@ som forespør disse dataene i avsendernavnet.
 I tilfelle skjemaet bestilles med samtykkeforespørsel, vil en tekst presenteres sammen med forespørsel om signatur. 
 Det er viktig at denne teksten reflekterer hvilket samtykke som kreves for å ligge i databasen.
 Denne teksten spesifiseres under "Administrasjon/Databaseoppsett".
+
+## Personinitialisert utfylling
+
+Huker man av for personinitalisert utfylling vil man få en lenke som kan distribueres til forskningsobjekter man ønsker skal besvare skjemaet.
+Her trenger det altså ikke å foreligge bestilling fra eFORSK for å få inn svar. Merk at det vil være en lenke for testmodus og en lenke for ikke-testmodus. Det er viktig å distribuere riktig lenke.
+
+Denne funksjonen er ikke tilgjengelig som standard i eFORSK og må etterspørres for aktivering.
