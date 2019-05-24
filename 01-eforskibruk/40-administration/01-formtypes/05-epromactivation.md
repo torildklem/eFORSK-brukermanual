@@ -26,3 +26,8 @@ Huker man av for personinitalisert utfylling vil man få en lenke som kan distri
 Her trenger det altså ikke å foreligge bestilling fra eFORSK for å få inn svar. Merk at det vil være en lenke for testmodus og en lenke for ikke-testmodus. Det er viktig å distribuere riktig lenke.
 
 Denne funksjonen er ikke tilgjengelig som standard i eFORSK og må etterspørres for aktivering.
+
+## Bruk av standardskjematyper
+
+Har man koblet inn en standardskjematype (eksempelvis EQ5D) i sin skjematype, vil ePROM skjematypen bli en sammensatt skjematype med noe spesiell utforming. Dette kan sees ved å bruke "ePROM forhåndsvisning" funksjonen.
+
