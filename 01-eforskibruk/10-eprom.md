@@ -8,3 +8,8 @@ Skjemaet vil bli opprettet i databasen når personen besvarer skjemaet.
 I samme prosess må vedkommende velge å samtykke til at data lagres i databasen, hvis samtykke ikke allerede foreligger. 
 
 Under "ePROM" kan man søke opp bestillinger og se status på disse.
+
+## Testmodus
+
+Man kan teste bestilling av skjemautfyllelse i testmodus. Personer man kan bestille utfyllelse av kan man finne under egen artikkel om testmodus i brukermanualen.
+Utsendelse av papirskjema er naturligvis vanskelig å teste. Her vil man i testmodus etter en stund få et tilfeldig generert svar tilbake. Laster man ned den skannede PDF-fila, vil denne ikke være utfylt.
