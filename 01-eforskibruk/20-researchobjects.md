@@ -1,15 +1,15 @@
-# Forskningsobjekt
+# Forskningsobjekter
 
-Skjemaer i eFORSK må opprettes på et objekt. I eFORSK kalles dette for forskningsobjekter.
+Skjemaer i eFORSK tilhører det vi kaller forskningsobjekter. Forskningsobjekter tilhører en forskningsobjekttype.
 
-Personer fra Personregisteret ligger inne som standard for forskningsobjekt, 
-men en bruker med rollen *ansvarlig* kan også opprette andre typer av forskningsobjekt når data man samler inn ikke kommer fra mennesker. 
+Personer fra Personregisteret ligger inne som standardtype for forskningsobjekt, 
+men en bruker med rollen *databaseansvarlig* kan også opprette andre typer av forskningsobjekt når data man samler inn ikke kommer fra mennesker. 
 Andre typer kan for eksempel være legemidler, lab-rotter eller lignende. 
-I disse tilfellene kan man ikke bestille skjema til utfyllelse via ePROM.
+Bruker man ikke standardtypen personer fra Personregisteret kan man ikke bestille skjema til utfyllelse via ePROM.
 
-Ved opprettelse av en skjematype låses dette til en spesifikk forskningsobjekttype og kan ikke endres senere.
+Ved opprettelse av en skjematype låses den til en spesifikk forskningsobjekttype og kan ikke endres senere.
 
-Under "Forskningsobjekter" kan man søke opp objekter det er registrert data på i databasen, se detaljer om disse og hvilke skjema som er registrert. 
+Under "Forskningsobjekter" kan man se de siste forskningsobjektene som er behandlet skjema på i databasen, samt søke opp eller opprette nye forskningsobjekter. 
 
 ## Samtykke
 Lovverk krever at personer i Personregisteret må samtykke i at data om de kan lagres i eFORSK. Samtykket vil tilhøre personen i databasen. 
