@@ -26,11 +26,11 @@ Her følger noen testpersoner som kan søkes opp i testmodus:
 * 07013911368 Gunnar Jensen
 * 14099963345 Johan Simon Ueland (død)
 
-Testpersoner med helsenorge.no konto (<a href="https://minhelse.hn2.test.nhn.no/" target="_blank">gå til helsenorge.no i testmodus</a>):
+Testpersoner med helsenorge.no konto (<a href="https://minhelse.hn2.test.nhn.no/" target="_blank">åpne helsenorge.no i testmodus</a>):
 
 * *Kommer*
 
-Testpersoner med Digipost konto (<a href="https://www.difitest.digipost.no/" target="_blank">gå til Digipost i testmodus</a>):
+Testpersoner med Digipost konto (<a href="https://www.difitest.digipost.no/" target="_blank">åpne Digipost i testmodus</a>):
 
 * *Kommer*
 
