@@ -33,3 +33,5 @@ Testpersoner med helsenorge.no konto (<a href="https://minhelse.hn2.test.nhn.no/
 Testpersoner med Digipost konto (<a href="https://www.difitest.digipost.no/" target="_blank">gå til Digipost i testmodus</a>):
 
 *kommer*
+
+Testpersonene er delt, dem kan derfor ha eksisterende brev og bestillinger i helsenorge.no og Digipost.
