@@ -16,6 +16,7 @@ Under utvikling, planlagt ferdig juni 2019.
 * Diverse rettelser for nettleseren Edge
 * Rettet visning av tidspunkter i systemutfylte felter til å ha korrekt tidssone
 * Roller i Falk på plass
+* Samtykketekst konfigureres nå per skjematypeversjon, og ikke felles for hele databasen
 
 ## Versjon 0.9 (mars 2019)
 
