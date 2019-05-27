@@ -32,6 +32,6 @@ Testpersoner med helsenorge.no konto (<a href="https://minhelse.hn2.test.nhn.no/
 
 Testpersoner med Digipost konto (<a href="https://www.difitest.digipost.no/" target="_blank">gå til Digipost i testmodus</a>):
 
-* *kommer*
+* *Kommer*
 
 Ved pålogging hos helsenorge.no eller Digipost velger man ID-porten og deretter BankID. Engangskode og passord er lik for alle testpersonene, ta kontakt med din superbruker eller eFORSK administrator for å få dette. Testpersonene er delt, dem kan derfor ha eksisterende brev og bestillinger.
