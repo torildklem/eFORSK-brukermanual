@@ -28,10 +28,10 @@ Her følger noen testpersoner som kan søkes opp i testmodus:
 
 Testpersoner med helsenorge.no konto (<a href="https://minhelse.hn2.test.nhn.no/" target="_blank">gå til helsenorge.no i testmodus</a>):
 
-*Kommer*
+* *Kommer*
 
 Testpersoner med Digipost konto (<a href="https://www.difitest.digipost.no/" target="_blank">gå til Digipost i testmodus</a>):
 
-*kommer*
+* *kommer*
 
 Testpersonene er delt, dem kan derfor ha eksisterende brev og bestillinger i helsenorge.no og Digipost.
