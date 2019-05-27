@@ -13,7 +13,7 @@ Testmodus slås av og på oppe i høyre hjørne.
 
 ## Testpersoner
 
-Testpersoner i Personregisteret kan ikke regnes som stabile, da dem kan slettes eller lages på nytt. Der kan derfor skje at man ikke får treff på testpersonene man søker opp.
+Testpersoner i Personregisteret kan ikke regnes som stabile, da dem kan slettes eller lages på nytt. Det kan derfor skje at man ikke får treff på testpersonene man søker opp.
 
 Her følger noen testpersoner som kan søkes opp i testmodus:
 
