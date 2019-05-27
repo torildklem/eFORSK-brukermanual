@@ -34,4 +34,4 @@ Testpersoner med Digipost konto (<a href="https://www.difitest.digipost.no/" tar
 
 * *kommer*
 
-Ved pålogging hos helsenorge.no eller Digipost velger man ID-porten og deretter BankID. Engangskoden er alltid *otp*, og passordet er *qwer1234*. Testpersonene er delt, dem kan derfor ha eksisterende brev og bestillinger.
+Ved pålogging hos helsenorge.no eller Digipost velger man ID-porten og deretter BankID. Engangskode og passord er lik for alle testpersonene, ta kontakt med din superbruker eller eFORSK administrator for å få dette. Testpersonene er delt, dem kan derfor ha eksisterende brev og bestillinger.
