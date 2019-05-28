@@ -8,3 +8,5 @@ Man kan velge å opprette en ny skjematype, kopiere en allerede eksisterende skj
 Man bør planlegge nøye innholdet i skjematypene og avhengigheten i mellom disse. Skal man ha avhengigheter kan man benytte seg av hoved- og under-skjematyper.
 
 Ved bruk av flere standardskjematyper som skal besvares samtidig, eksempelvis EQ5D og RAND12, er det i eFORSK anbefalt å samle disse i en skjematype. Ved bestilling av utfyllelse (via ePROM) kan mottaker da besvare alt samtidig, istedenfor å motta flere separate skjemaer som øker terskelen for å fullføre utfyllelsen.
+
+Husk at ved bruk av standardskjematyper er man selv ansvarlig for å overholde eventuelle lisenser disse måtte ha.
