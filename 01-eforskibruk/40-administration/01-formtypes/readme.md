@@ -3,7 +3,7 @@
 En skjematype er oppsettet og egenskaper av felter og regler det skal registreres på. 
 Man kan velge å opprette en ny skjematype, kopiere en allerede eksisterende skjematype eller importere en standardskjematype.
 
-# Arkitektur
+## Arkitektur
 
 Man bør planlegge nøye innholdet i skjematypene og avhengigheten i mellom disse. Skal man ha avhengigheter kan man benytte seg av hoved- og under-skjematyper.
 
