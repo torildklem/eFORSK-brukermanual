@@ -16,7 +16,7 @@ Det finnes ikke en egen felttype for **flervalgsfelt**, da analyse av eksportert
 Alle felt vil ha et variabelnavn som brukes ved eksport, og en visningstekst som gjør det enkelt for bruker å vite hva som skal fylles ut.
 
 ### Randomiseringsfelt
-Et randomiseringsfelt fungerer på samme måte som et valgfelt, hvor man kan opprette flere alternativer. Forskjellen ligger i grensesnittet ved utfylling av skjema; man får en knapp for randomisering som gir et tilfeldig valgt alternativ. Denne handlingen kan ikke angres.
+Et randomiseringsfelt fungerer på samme måte som et valgfelt, hvor man kan opprette flere alternativer. Forskjellen ligger i grensesnittet ved utfylling av skjema; man får en knapp for randomisering som gir et tilfeldig valgt alternativ (enkel randomisering/myntkast). Denne handlingen kan ikke angres.
 
 I de tilfellene et randomiseringsfelt er lagt til en skjematype som kan bestilles utfylt (ePROM), så vil ikke feltet være synlig for vedkommende som skal fylle ut. Feltet vil bli randomisert ved bestilling. I de tilfellene hvor det er papirbesvarelse, så vil feltet bli randomisert ved leveranse tilbake til databasen.
 
