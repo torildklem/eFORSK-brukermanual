@@ -31,6 +31,8 @@ Videre kan man også velge at triggerskjemaet må ha noen gitte verdier i valgfe
 
 Her kan man velge når skjemautfyllelse skal bestilles i forhold til triggerskjemaet. Merk at hvis skjemaversjon som bestilles er av en underskjematype, og skjematypen som trigger bestilling ikke er foreldreskjematypen til denne, vil et foreldreskjema opprettes som kladd ved besvarelse av bestillingen.
 
+Hvis skjemaversjonen ikke har status publisert, vil skjemabestillinger planlegges som vanlig - men bestillingen vil ikke gjennomføres og resultere i feilmelding. Avpubliserer eller låser man en skjemaversjon for godt, bør man også stoppe bestillingsjobben.
+
 ### Gjentagende bestilling
 
 Man kan sette opp inntil 10 gjentagende bestillinger på et triggerskjema, som da kan føre til totalt 11 bestillinger. Som standard kreves det svar på en bestilling før den neste planlegges. Man kan også velge at det ikke kreves besvarelse, da vil alle gjentagende bestillinger planlegges samtidig.
