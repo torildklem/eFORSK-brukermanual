@@ -14,3 +14,7 @@ Under "ePROM" kan man søke opp bestillinger og se status på disse.
 Man kan teste bestilling av skjemautfyllelse i testmodus. Testpersoner man kan bestille utfyllelse av kan man finne under egen artikkel om testmodus i brukermanualen. Her er det spesielle testpersoner som har fått satt opp helsenorge.no og Digipost konto.
 
 Utsendelse av papirskjema er naturligvis vanskelig å teste. Her vil man i testmodus etter en stund få et tilfeldig generert svar tilbake. Laster man ned den skannede PDF-fila, vil denne ikke være utfylt.
+
+## Papirskjema
+
+Papirskjema blir tolket av en skanner, det er viktig å sammenligne den innskannede PDFen med de tolkede svarene i skjemaet at det faktisk er tolket riktig. Skjema kan gjenåpnes og endres.
