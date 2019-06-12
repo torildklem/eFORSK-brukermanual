@@ -10,6 +10,8 @@ Versjonene får navn V*X*, der *X* er versjonsnummeret. Det anbefales å i tille
 
 ## Versjonsstatus
 
+En versjon har en av følgende statuser:
+
 ### Kladd
 
 Det er kun i status kladd at innholdet i en versjon kan endres. Når en versjon har forlatt status kladd kan den aldri returnere tilbake til denne statusen, versjonen blir altså låst for endringer.
