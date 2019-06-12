@@ -2,9 +2,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 1.0
-
-Under utvikling, planlagt ferdig juni 2019.
+## Versjon 1.0 (17. juni 2019)
 
 * Løsning for flervalgsfelt
 * Mulighet for å legge ePROM bestillinger frem i tid
