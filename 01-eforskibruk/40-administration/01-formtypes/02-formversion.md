@@ -16,14 +16,22 @@ Det er kun i status kladd at innholdet i en versjon kan endres. Når en versjon 
 
 ### Publisert
 
-Når en versjon er publisert kan det opprettes nye skjemaer av denne versjonen, og bestilles utfyllelse hvis ePROM er aktivert og godkjent. En publisert versjon kan avpubliseres eller låses.
+Når en skjematype er publisert kan det opprettes nye skjemaer av denne versjonen. Om ePROM er aktivert for skjematypen, kan man også bestille skjemautfyllelse fra personer i Personregisteret. I testmodus kan man gjøre dette umiddelbart, mens for ikke-test modus må versjonen godkjennes av en administrator først.
+
+Versjoner som er publisert, avpublisert eller låst kan ikke endres; man er nødt til å opprette en ny versjon for å overholde korrekt versjonering av felter og regler.
+
+En publisert versjon kan avpubliseres eller låses.
 
 ### Avpublisert
 
-Når en verjson er avpublisert kan det ikke opprettes nye skjemaer eller bestilles utfyllelse av versjonen. Allerede opprettede skjemaer kan man fortsatt endre på, og eventuelle svar på skjemabestillinger vil fortsette å komme inn. Bruker man personinitiert ePROM, vil lenken til skjemaet ikke fungere lenger. Avpubliserte versjoner kan publiseres på nytt eller låses.
+Når en verjson er avpublisert kan det ikke opprettes nye skjemaer eller bestilles utfyllelse av versjonen. Allerede opprettede skjemaer kan man fortsatt endre på, og eventuelle svar på skjemabestillinger vil fortsette å komme inn. Bruker man personinitiert ePROM, vil lenken til skjemaet ikke fungere lenger. 
+
+Avpubliserte versjoner kan publiseres på nytt eller låses.
 
 ### Låst *(ikke tilgjengelig)*
 
 *Det er ikke bestemt når eFORSK får denne muligheten*
 
-Når en versjon er låst, kan man verken opprette nye skjemaer, bestille utfyllelse eller endre på eksisterende skjemaer. Tilstanden er låst. Eventuelle svar på skjemabestillinger vil fortsatt komme inn, ønsker man ikke dette må man sørge for at alle ubesvarte bestillinger har løpt ut på tid. Merk at bestillinger som har blitt sendt som papirskjema i posten ikke har en utløpstid. Bruker man personinitiert ePROM, vil lenken til skjemaet ikke fungere lenger. Låste versjoner kan publiseres på nytt eller avpubliseres.
+Når en versjon er låst, kan man verken opprette nye skjemaer, bestille utfyllelse eller endre på eksisterende skjemaer. Tilstanden er låst. Eventuelle svar på skjemabestillinger vil fortsatt komme inn, ønsker man ikke dette må man sørge for at alle ubesvarte bestillinger har løpt ut på tid. Merk at bestillinger som har blitt sendt som papirskjema i posten ikke har en utløpstid. Bruker man personinitiert ePROM, vil lenken til skjemaet ikke fungere lenger. 
+
+Låste versjoner kan publiseres på nytt eller avpubliseres.
