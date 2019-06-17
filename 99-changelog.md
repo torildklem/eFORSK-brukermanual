@@ -2,6 +2,13 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Neste versjon (dato ikke bestemt)
+
+* Mulighet for identifiserbar eksport av ePROM bestillinger
+* Mulighet for å låse skjemaversjoner, slik at skjemaer utfylt i versjonen ikke kan endres
+* Mulighet for å se verdien til skjulte elementer på et skjema inne i eFORSK
+* Bedre støtte for varsler: Databaseansvarlig kan nå opprette varsler som vises for alle brukere av databasen.
+
 ## Versjon 1.0 (17. juni 2019)
 
 * Løsning for flervalgsfelt
