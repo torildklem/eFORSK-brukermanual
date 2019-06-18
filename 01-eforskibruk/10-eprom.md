@@ -7,7 +7,7 @@ enten digitalt eller via papirskjema sendt i posten. Digital utfylling er tilpas
 Skjemaet vil bli opprettet i databasen når personen besvarer skjemaet. 
 I samme prosess må vedkommende velge å samtykke til at data lagres i databasen, hvis samtykke ikke allerede foreligger. 
 
-Under "ePROM" kan man søke opp bestillinger og se status på disse.
+Under "ePROM" kan man søke opp bestillinger og se status på disse. En bestilling kan ha status "bestiller" med en spinner ganske lenge (flere timer i verste fall) før man får status "bestilt", man trenger ikke å sitte vente på dette.
 
 ## Testmodus
 
