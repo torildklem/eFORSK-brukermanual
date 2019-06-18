@@ -20,6 +20,10 @@ Brukeren som oppretter et skjema (eller har bestilt det utfylt via ePROM) er den
 #### Personregisteret
 Personregisteret er Norsk Helsenett sin kopi av folkeregisteret, som eFORSK er integrert mot.
 
+#### Skjema
+
+Besvarelse av en skjematype knyttet til et forskningsobjekt.
+
 #### Skjematype
 Et skjema tilhører en skjematype. Det er skjematypen som definerer oppsettet og egenskaper av felter og regler det skal registreres data på.
 
