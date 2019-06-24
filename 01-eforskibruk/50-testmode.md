@@ -28,7 +28,11 @@ Her følger noen testpersoner som kan søkes opp i testmodus:
 
 Testpersoner med helsenorge.no konto (<a href="https://minhelse.hn2.test.nhn.no/" target="_blank">åpne helsenorge.no i testmodus</a>):
 
-* *Kommer*
+* 16059492563
+* 16059498324
+* 17059498010
+* 18059495921
+* 21059496066
 
 Testpersoner med Digipost konto (<a href="https://www.difitest.digipost.no/" target="_blank">åpne Digipost i testmodus</a>):
 
