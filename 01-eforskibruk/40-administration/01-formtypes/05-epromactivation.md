@@ -11,8 +11,10 @@ Skal man støtte papirutsendelse av skjemaet må det aktivt velges, da dette med
 ## Informasjonstekst til mottaker og avsendernavn
 
 Når skjema skal fylles ut av mottaker i ePROM møter man en tekst som bør forklare hvorfor man har mottatt skjemaet
-og hva dataene skal brukes til. "Dette spesifiseres i informasjonstekst til mottaker". Videre kan man spesifisere hvem 
+og hva dataene skal brukes til. Dette spesifiseres i "informasjonstekst til mottaker". Videre kan man spesifisere hvem 
 som forespør disse dataene i avsendernavnet.
+
+I teksten kan man sende med verdier fra systemutfylte felter som blir beregnet ved skjemaopprettelse, eksempelvis alder. Hvis variabelnavnet er "Alder", skrives følgende kode i teksten for å få verdien:  [\_ALDER\_]  (med store bokstaver). Man kan også bruke verdier fra foreldreskjemaet, eksempelvis hvis det er et felt som heter "Sykehusnavn": [\_FORELDRESKJEMA\_SYKEHUSNAVN\_]. Merk av disse ikke erstattes med verdier i forhåndsvisning, men først når man legger inn en bestilling.
 
 ## Samtykkeforespørsel
 
