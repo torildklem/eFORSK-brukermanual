@@ -9,6 +9,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Mulighet for å se verdien til skjulte elementer på et skjema inne i eFORSK
 * Bedre støtte for varsler: Databaseansvarlig kan opprette varsler som vises for alle brukere av databasen. Brukes også for å varsle oppgradering av eFORSK.
 * ePROM Personinitiert utfyllelse tilgjengelig for alle med ePROM aktivert
+* Mulighet for verdier fra felter inn i informasjonstekst til mottaker ved ePROM bestilling
 
 ## Versjon 1.0 (17. juni 2019)
 
