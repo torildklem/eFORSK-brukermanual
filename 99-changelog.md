@@ -11,6 +11,10 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * ePROM Personinitiert utfyllelse tilgjengelig for alle med ePROM aktivert
 * Mulighet for verdier fra felter inn i informasjonstekst til mottaker ved ePROM bestilling
 
+#### Feilretting
+
+* Fikset feil med funksjonen "Slå opp unik nøkkel" på skjema-siden
+
 ## Versjon 1.0 (17. juni 2019)
 
 * Løsning for flervalgsfelt
