@@ -23,6 +23,10 @@ Et randomiseringsfelt kan settes opp til å utføres på tre måter;
 
 I de tilfellene et randomiseringsfelt er lagt til en skjematype som kan bestilles utfylt (ePROM), så vil ikke feltet være synlig for vedkommende som skal fylle ut. Ved valgt utførelse 1 eller 2 vil feltet vil bli randomisert ved bestillingstidspunktet, det vil si at randomiseringen er utført uansett om skjemaet blir besvart eller ei.
 
+For stratifisert blokkrandomisering er utførelse 3 anbefalt, da felter med data for stratifiseringskategoriene må være besvart.
+
+Ved eksportering av skjemadata, vil ikke randomiseringsresultatet bli med før randomiseringen er avsluttet i tilfelle blokkrandomisering og stratifisert blokkrandomisering.
+
 Les mer om randomisering under "Verktøy" i brukermanualen.
 
 ### Systemutfylte felt
