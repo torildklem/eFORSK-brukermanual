@@ -10,4 +10,4 @@ Man kan eksportere både personidentifiserbar og ikke-personidentifiserbar skjem
 Man kan importere data fra eksterne system slik at disse kan benyttes i skjema (under utvikling).
 
 ## Randomisering
-Det er støtte for enkel randomisering, blokkrandomisering og stratifisert blokkrandomisering.
+Det er støtte for enkel randomisering, blokkrandomisering og stratifisert blokkrandomisering (under utvikling).
