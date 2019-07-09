@@ -15,6 +15,9 @@ Det finnes ikke en egen felttype for **flervalgsfelt**, da analyse av eksportert
 
 Alle felt vil ha et variabelnavn som brukes ved eksport, og en visningstekst som gjør det enkelt for bruker å vite hva som skal fylles ut.
 
+### Systemutfylte felt
+Man har også muligheten til å legge til systemutfylte felt. Et systemutfylt felt vil automatisk fylles ut ved opprettelse, endring eller ferdigstillelse. Vedkommende som fyller ut skjema har ikke muligheten til å fylle ut eller endre disse feltene. Dette er typisk brukt for metadata som skjemaets unike nøkkel, alder, kjønn og lignende.
+
 ### Randomiseringsfelt
 Et randomiseringsfelt kan settes opp til å utføres på tre måter;
 1. Manuelt ved klikk på knapp i skjema
@@ -25,12 +28,11 @@ I de tilfellene et randomiseringsfelt er lagt til en skjematype som kan bestille
 
 For stratifisert blokkrandomisering er utførelse 3 anbefalt, da felter med data for stratifiseringskategoriene må være besvart.
 
+En opprettet randomisering kan brukes på tvers av felter og skjematyper. Unntaket her er stratifisert blokkrandomisering, som kun kan brukes innad skjematypen den er opprettet på.
+
 Ved eksportering av skjemadata, vil ikke randomiseringsresultatet bli med før randomiseringen er avsluttet i tilfelle blokkrandomisering og stratifisert blokkrandomisering.
 
 Les mer om randomisering under "Verktøy" i brukermanualen.
-
-### Systemutfylte felt
-Man har også muligheten til å legge til systemutfylte felt. Et systemutfylt felt vil automatisk fylles ut ved opprettelse, endring eller ferdigstillelse. Vedkommende som fyller ut skjema har ikke muligheten til å fylle ut eller endre disse feltene. Dette er typisk brukt for metadata som skjemaets unike nøkkel, alder, kjønn og lignende.
 
 ## Skjemaregler
 Skjemaregler omfavner både validerings- og vis/skjul-regler. Reglene kan på lik linje med felter opprettes på en versjon, og fjernes i senere versjoner.
