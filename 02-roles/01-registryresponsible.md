@@ -28,4 +28,4 @@ Verktøy
 *	Last ned metadata
 *	Eksporter data
 *	Importer data
-* Utføre hurtigrandomisering
+* Behandle randomiseringer (Utføre hurtigrandomisering, avslutte og slette)
