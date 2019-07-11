@@ -2,7 +2,9 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Neste versjon (dato ikke bestemt)
+## Version 1.1 (26. august 2019)
+
+eFORSK lanseres, pilotperiode avsluttes.
 
 * Mulighet for identifiserbar eksport av ePROM bestillinger
 * Mulighet for å låse skjemaversjoner, slik at skjemaer utfylt i versjonen ikke kan endres
