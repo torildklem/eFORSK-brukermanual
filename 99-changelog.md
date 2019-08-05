@@ -12,6 +12,7 @@ eFORSK lanseres, pilotperiode avsluttes.
 * Bedre støtte for varsler: Databaseansvarlig kan opprette varsler som vises for alle brukere av databasen. Brukes også for å varsle oppgradering av eFORSK.
 * ePROM Personinitiert utfyllelse tilgjengelig for alle med ePROM aktivert
 * Mulighet for verdier fra felter inn i informasjonstekst til mottaker ved ePROM bestilling
+* Kan nå slå opp forskningsobjektet med dens unike nøkkel
 
 #### Feilretting
 
