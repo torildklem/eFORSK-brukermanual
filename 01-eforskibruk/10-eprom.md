@@ -15,6 +15,8 @@ Man kan teste bestilling av skjemautfyllelse i testmodus. Testpersoner man kan b
 
 Utsendelse av papirskjema er naturligvis vanskelig å teste. Her vil man i testmodus etter en stund få et tilfeldig generert svar tilbake. Laster man ned den skannede PDF-fila, vil denne ikke være utfylt.
 
-## Papirskjema
+## Papirskjema (fysisk post)
 
 Papirskjema blir tolket av en skanner, det er viktig å sammenligne den innskannede PDFen med de tolkede svarene i skjemaet at det faktisk er tolket riktig. Skjema kan gjenåpnes og endres.
+
+Merk at en ubesvart papirskjemabestilling aldri løper ut på dato, svaret kan komme inn når som helst frem i tid. Et unntak er hvis adressen til mottaker ikke fører frem, bestillingen vil da i eFORSK få statusen "utløpt".
