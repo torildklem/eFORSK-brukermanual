@@ -8,6 +8,8 @@ av eFORSK administrator før det kan bestilles.
 
 Skal man støtte papirutsendelse av skjemaet må det aktivt velges, da dette medfører kostnader for etablering, utsendelse og innskanning. Prosessen med å få klargjort papirskjemaet vil ta flere uker. Digital utsendelse kan likevel godkjennes og tas i bruk i påvente av at papirskjemaet klargjøres.
 
+Scanning og tolkning av svar skjer hos Posten, og denne tolker alt annet enn kryss dårlig. Det vil si at felter med tall og tekst må manuelt sjekkes opp og korrigeres inne i eFORSK etter at svaret er mottatt. Derfor er det ikke anbefalt å aktivere papirskjema på annet enn skjemaer som kun inneholder valgfelt og avkrysningsfelt hvis det forventes mange svar, da det krever etterarbeid å gå igjennom disse. 
+
 ## Informasjonstekst til mottaker og avsendernavn
 
 Når skjema skal fylles ut av mottaker i ePROM møter man en tekst som bør forklare hvorfor man har mottatt skjemaet
