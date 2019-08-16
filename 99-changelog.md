@@ -18,6 +18,7 @@ eFORSK lanseres, pilotperiode avsluttes.
 
 * Rettet feil med funksjonen "Slå opp unik nøkkel" på skjema-siden
 * Rettet feil der skjemastatus og sist oppdaterttidspunkt ikke ble oppdatert ved status "til kontroll" på skjema.
+* Rettet feil med funksjonen "last ned skjematype metadata" under verktøy
 
 ## Versjon 1.0 (17. juni 2019)
 
