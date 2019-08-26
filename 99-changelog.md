@@ -2,7 +2,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Version 1.1 (26. august 2019)
+## Versjon 1.1 (26. august 2019)
 
 eFORSK lanseres, pilotperiode avsluttes.
 
