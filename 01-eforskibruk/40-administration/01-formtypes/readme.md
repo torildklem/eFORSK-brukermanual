@@ -33,4 +33,6 @@ Et typisk eksempel er at skjematypen "Spørreskjema 30 dager etter utskrivelse" 
 
 ### Type forskningsobjekt
 
-Skjemaer som fylles ut av skjematypen må være tilknyttet en forskningsobjekttype. Forskningsobjekttyper settes opp under "Administrasjon". Skal man samle inn data på medisiner, må man opprette en forskningsobjekttype som heter "Medisiner", og deretter velge denne ved opprettelse av skjematypen. Skal man bruke ePROM er man nødt til å velge "Personer fra personregisteret". "Personer fra personregisteret" gir også en del ekstra muligheter for data med systemutfylte felter, for eksempel kjønn og adresse.
+Skjemaer som fylles ut av skjematypen må være tilknyttet en forskningsobjekttype. Forskningsobjekttyper settes opp under "Administrasjon". Skal man samle inn data på medisiner, må man opprette en forskningsobjekttype som heter "Medisiner", og deretter velge denne ved opprettelse av skjematypen. 
+
+Skal man bruke ePROM er man nødt til å velge "Personer fra personregisteret". "Personer fra personregisteret" gir også en del ekstra muligheter for data med systemutfylte felter, for eksempel kjønn og adresse.
