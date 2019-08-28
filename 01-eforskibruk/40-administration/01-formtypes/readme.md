@@ -3,7 +3,7 @@
 En skjematype er oppsettet og egenskaper av felter og regler det skal registreres på. 
 Man kan velge å opprette en ny skjematype, kopiere en allerede eksisterende skjematype eller bruke standardskjematyper.
 
-## Opprettelse (Bygg ny skjematype)
+## Bygg ny skjematype
 
 Når man skal bygge ny skjematype må man gjøre noen valg som ikke kan gjøres om på senere. Unntaket er skjematypens navn, dette kan når som helst endres etter opprettelse.
 
