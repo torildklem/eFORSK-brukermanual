@@ -9,6 +9,8 @@ Når man skal bygge ny skjematype må man gjøre noen valg som ikke kan gjøres 
 
 ### Utgangspunkt
 
+Her har man følgende valg:
+
 #### Ny skjematype
 Her får man et tomt utgangspunkt, kun med noen foreslåtte systemutfylte felter
 
