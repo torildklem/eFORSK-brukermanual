@@ -9,7 +9,7 @@ I samme prosess må vedkommende velge å samtykke til at data lagres i databasen
 
 ## Status på bestillinger
 
-En ePROM kan ha følge statuser:
+En bestilling kan ha følge statuser:
 
 #### Planlagt
 En bestilling vil skje frem i tid. Tidligste tidspunkt for bestilling er gitt under "bestillingstidspunkt". De planlagte bestillingene blir kjørt ca hver hele time, og et maksimum på 1 000 bestillinger blir prosessert hver time. Har man mer enn 1 000 bestillinger med passert planlagt bestillingstidspunkt, blir disse posjonert utover de kommende timene.
