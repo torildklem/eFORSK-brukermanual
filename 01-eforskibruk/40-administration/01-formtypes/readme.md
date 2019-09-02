@@ -3,6 +3,14 @@
 En skjematype er oppsettet og egenskaper av felter og regler det skal registreres på. 
 Man kan velge å opprette en ny skjematype, kopiere en allerede eksisterende skjematype eller bruke standardskjematyper.
 
+## Arkitektur
+
+Man må tenke grundig igjennom hvilke skjematyper man skal ha før man oppretter dem. 
+
+Alle spørsmål som skal besvare samtidig bør/må plasseres i en og samme skjematype. La oss si at man skal la forsningsobjekter besvare EQ5D, HeartQol og et egendefinert sett med spørsmål. Da bygger man ny skjematype med utgangspunkt i standardskjematyper, der man velger EQ5D og HeartQol. Deretter legger man i skjematypen til en ny gruppe hvor man plasserer alle de egendefinerte spørsmålene. Man kan nå bestille skjemautfyllelse en gang for alle spørsmålene, og forskningsobjektet får kun ett skjema (en skjemapakke) tilsendt.
+
+Har man avhengigheter mellom skjematyper, eksempelvis at et inklusjonsskjema har informasjon om forskningobjektet som fører til bestilling av et PROM skjema med relasjon tilbake til inklusjonsskjemaet. Se "Skjematypen skal være underskjematype av" nedenfor.
+
 ## Bygg ny skjematype
 
 Når man skal bygge ny skjematype må man gjøre noen valg som ikke kan gjøres om på senere. Unntaket er skjematypens navn, dette kan når som helst endres etter opprettelse.
