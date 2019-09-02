@@ -1,4 +1,4 @@
-# eFORSK endringslogg
+# Endringslogg
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
