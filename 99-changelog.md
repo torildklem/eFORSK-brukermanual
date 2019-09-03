@@ -2,6 +2,18 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Neste versjon (dato ikke bestemt)
+
+* Mulighet for å sende ut brev (pdf), digitalt eller fysisk post, til personer i personregisteret
+* Forbedringer i "Finn forskningsobjekt" funksjon. Kan nå laste opp fil med IDer
+* Nye systemutfylte felter:
+  * Forskningsobjektets navn
+  * Forskningsobjektets poststed ved skjemaopprettelse
+  * Forskningsobjektets bostedsgate ved skjemaopprettelse
+  * Brukeren som opprettet skjemaet sitt navn
+* Mulighet for stikkordsøk i brukermanual
+* ...
+
 ## Versjon 1.1 (26. august 2019)
 
 eFORSK lanseres, pilotperiode avsluttes.
