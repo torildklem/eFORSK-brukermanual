@@ -43,3 +43,7 @@ Utsendelse av papirskjema er naturligvis vanskelig å teste. Her vil man i testm
 Papirskjema blir tolket av en skanner, det er viktig å sammenligne den innskannede PDFen med de tolkede svarene i skjemaet at det faktisk er tolket riktig. Skanneren tolker alt annet enn avkryssning veldig dårlig. Skjema kan gjenåpnes og endres.
 
 
+## Pris
+
+Informajon om kostnader rundt ePROM utsendelse kommer.
+
