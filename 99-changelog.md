@@ -12,7 +12,8 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
   * Forskningsobjektets bostedsgate ved skjemaopprettelse
   * Brukeren som opprettet skjemaet sitt navn
 * Mulighet for stikkordsøk i brukermanual
-* ...
+* Tekstlig visning av skjemadata, kopierbar til andre systemer
+* ..mer kommer
 
 ## Versjon 1.1 (26. august 2019)
 
