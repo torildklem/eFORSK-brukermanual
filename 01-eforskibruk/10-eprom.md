@@ -45,5 +45,5 @@ Papirskjema blir tolket av en skanner, det er viktig å sammenligne den innskann
 
 ## Pris
 
-Informajon om kostnader rundt ePROM utsendelse kommer.
+Informasjon om kostnader rundt ePROM utsendelse kommer.
 
