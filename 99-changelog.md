@@ -5,11 +5,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 ## Versjon 1.2 (dato ikke bestemt)
 
 * Forbedringer i "Finn forskningsobjekt" funksjon. Kan nå laste opp fil med IDer. Antall samtidige i visning er satt til 1 000.
-* Nye systemutfylte felter:
-   * Forskningsobjektets navn
-   * Forskningsobjektets poststed ved skjemaopprettelse
-   * Forskningsobjektets bostedsgate ved skjemaopprettelse
-   * Brukeren som opprettet skjemaet sitt navn
+* Nye systemutfylte felter: Forskningsobjektets navn, Forskningsobjektets poststed ved skjemaopprettelse, Forskningsobjektets bostedsgate ved skjemaopprettelse, Brukeren som opprettet skjemaet sitt navn
 * Mulighet for å legge til flere systemutfylte felter i samme operasjon
 * Mulighet for stikkordsøk i brukermanual
 * Tekstlig visning av skjemadata, kopierbar til andre systemer
