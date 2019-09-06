@@ -26,3 +26,8 @@ Hvis det er flere samtykkespørsmål inne i skjemaet, signerer man for alle diss
 Skjemaer med samtykke blir merket i utlistinger. Går man inn på forskningsobjektet vil man også få en oppsummering av alle samtykker for alle dens skjemaer. 
 
 Skulle et forskningsobjekt levere ett skjema avkrysset "Jeg samtykker ikke", vil skjemaet levers tilbake til eFORSK med status "Til kontroll". Har man ikke hjemmel til å oppbevare data i disse tilfellene, må skjemaet da slettes.
+
+## Endre samtykke
+
+Hvis et forskningsobjektet ønsker å trekke sitt samtykke, må man slette skjemaet som samtykket er gitt på. 
+Har man benyttet seg av samtykkefelter i skjemaet og man har hjemmel til å lagre skjema uten at samtykke foreligger, kan man gjenåpne skjemaet og endre samtykkespørsmålet til "jeg samtykker ikke".
