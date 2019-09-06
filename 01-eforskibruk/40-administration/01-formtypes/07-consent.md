@@ -6,17 +6,23 @@
 
 For å komme i gang må man huke av for "Aktiver samtykkehåndtering" på skjemaversjonen man ønsker forespørsel om samtykke på.
 
-Det er ulike krav til samtykkeinnehentelse:
+## Ulike krav til samtykkeinnhentelse
 
-Noen steder er det godkjent at selve besvarelsen av et skjema er godkjent som et samtykke. 
+Noen personvernombud godkjenner at selve besvarelsen av et skjema er godkjent som et samtykke. 
 Man trenger da ikke gjøre noe annet enn å aktivere samtykkehåndtering, men man bør nevne med tekst et sted at man samtykker ved å besvare skjema.
 
-Noen steder kreves det at man aktivt må besvare et spørsmål om man samtykker. 
-Dette løses med å legge til elementet "Samtykkefelt" i skjemabyggeren. 
+Noen personvernombud krever at man aktivt må besvare et spørsmål om man samtykker. 
+Dette løses med å legge til elementet "Samtykkefelt" i skjemabyggeren (dette dukker opp når man aktiverer samtykkehåndtering). 
 Man kan legge til flere "Samtykkefelt", slik at man kan innhente flere ulike samtykker på ett og samme skjema.
 Videre kan man for eksempel legge på "vis hvis" regler som viser frem spørsmålene kun hvis man velger at man samtykker.
 
-Noen steder kreves det også signering, da må man krysse av for "Innhent signatur ved ePROM besvarelse".
+Noen personvernombud krever også signering, da må man krysse av for "Innhent signatur ved ePROM besvarelse".
 For digital besvarelse må man signere med BankID (medfører en kostnad), for papirskjema
-vil det komme et felt for signering på slutten av skjemaet. 
-Man signerer da for alle eventuelle samtykker gitt i skjemaet.
+vil det komme et felt for signering på slutten av skjemaet. Ved manuell utfyllelse inne i eFORSK har man ingen mulighet for å innhente eller importere signatur.
+Hvis det er flere samtykkespørsmål inne i skjemaet, signerer man for alle disse i en og samme signatur.
+
+## Innhentede samtykker
+
+Skjemaer med samtykke blir merket i utlistinger. Går man inn på forskningsobjektet vil man også få en oppsummering av alle samtykker for alle dens skjemaer. 
+
+Skulle et forskningsobjekt levere ett skjema avkrysset "Jeg samtykker ikke", vil skjemaet levers tilbake til eFORSK med status "Til kontroll". Har man ikke hjemmel til å oppbevare data i disse tilfellene, må skjemaet da slettes.
