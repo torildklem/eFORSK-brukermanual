@@ -12,17 +12,7 @@ Ved opprettelse av en skjematype låses den til en spesifikk forskningsobjekttyp
 Under "Forskningsobjekter" kan man se de siste forskningsobjektene som er behandlet skjema på i databasen, samt søke opp eller opprette nye forskningsobjekter. 
 
 ## Samtykke
-Lovverk krever at personer i Personregisteret må samtykke i at data om de kan lagres i eFORSK. Samtykket vil tilhøre personen i databasen. 
-Informasjonen ligger globalt og gjelder alle skjema registrert på personen uansett tilgangsenhet, og alle enheter kan oppdatere samtykket.
 
-Samtykkenivåer:
-* **Ikke forespurt** - Grunntilstand
-* **Forespurt** (ePROM) - Avventer svar. Kan løpe ut på tid.
-* **Forespørsel utløpt** (ePROM) - Antatt ikke samtykket.
-* **Ikke samtykket** - Man kan ikke registrere skjema på forskningsobjektet
-* **Samtykket** - Tillater opprettelse av skjema for forskningsobjektet 
-* **Trukket** - Forskningsobjektet ønsker ikke lenger å ha data om seg lagret. Samtykke kan ikke endres i etterkant.
+Hvordan samtykkehåndering fungerer kan leses under "Administrasjon/Skjematype/Samtykkehåndtering".
 
-Samtykke kan etterspørres automatisk ved bestilling av skjemautfyllelse (ePROM) eller settes på direkte på forskningsobjektet. Man kan gå inn på personen og gi/endre samtykke når som helst.
-
-Om samtykke håndteres utenfor databasen må administrator begrunne dette.
+Alle forskningsobjektets samtykker vises på forskningsobjektets side. Merk at skjemaer i kladd ikke telles som samtykker.
