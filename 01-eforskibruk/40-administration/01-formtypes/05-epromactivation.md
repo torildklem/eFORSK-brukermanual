@@ -4,20 +4,6 @@ Aktiverer man ePROM vil det i øyeblikket skjemaet publiseres bli kopiert til de
 I testmodus kan man umiddelbart bestille ePROM av skjematypen, mens utenfor testmodus må det testes og godkjennes 
 av eFORSK administrator før det kan bestilles.
 
-## Papirskjema
-
-Skal man støtte papirutsendelse av skjemaet må det aktivt velges, da dette medfører kostnader for etablering, utsendelse og innskanning. Prosessen med å få klargjort papirskjemaet vil ta flere uker. Digital utsendelse kan likevel godkjennes og tas i bruk i påvente av at papirskjemaet klargjøres.
-
-Skanning og tolkning av svar skjer hos ekstern leverandør, og her tolkes alt annet enn kryss dårlig. Det vil si at felter med tall og tekst må manuelt sjekkes opp og korrigeres inne i eFORSK etter at svaret er mottatt. Derfor er det ikke anbefalt å aktivere papirskjema på annet enn skjemaer som kun inneholder valgfelt og avkrysningsfelt hvis det forventes mange svar, da det krever etterarbeid å gå igjennom disse. 
-
-Veiledning for besvarelse av papirskjema
-*	Ikke returner forsiden
-*	Bruk blå penn, ikke rød penn
-*	Sett tydelige kryss
-*	Hvis du har krysset av feil, skraver feltet og sett et nytt kryss på riktig sted
-*	Skjemaet tolkes automatisk, håndskrevne tekster og vedlagte lapper blir ikke tatt hensyn til
-*	Vi setter pris på om du leverer alle arkene riktig orientert
-
 ## Informasjonstekst til mottaker og avsendernavn
 
 Når skjema skal fylles ut av mottaker i ePROM møter man en tekst som bør forklare hvorfor man har mottatt skjemaet
@@ -44,6 +30,20 @@ Selv om man har aktivert denne funksjonen kan man likevel bestille skjemautfylle
 Husk at det ved distribusjon av lenken ikke må avsløres mottakers sykdommer, helsetilstand eller lignende sensitive data. Sender man for eksempel lenken på e-post (ikke godkjent kanal for sensitive data), må informasjonen være veldig generell. Man kan for eksempel ikke skrive "Vi ønsker å inkludere deg i vår studie fordi du har diabetes type 2", men man kan formulere det slik: "Kjenner du noen som har diabetes type 2? Vi leter etter deltakere til en studie om dette.".
 
 Denne funksjonen er ikke tilgjengelig som standard i eFORSK og må etterspørres for aktivering.
+
+## Papirskjema
+
+Skal man støtte papirutsendelse av skjemaet må det aktivt velges, da dette medfører kostnader for etablering, utsendelse og innskanning. Prosessen med å få klargjort papirskjemaet vil ta flere uker. Digital utsendelse kan likevel godkjennes og tas i bruk i påvente av at papirskjemaet klargjøres.
+
+Skanning og tolkning av svar skjer hos ekstern leverandør, og her tolkes alt annet enn kryss dårlig. Det vil si at felter med tall og tekst må manuelt sjekkes opp og korrigeres inne i eFORSK etter at svaret er mottatt. Derfor er det ikke anbefalt å aktivere papirskjema på annet enn skjemaer som kun inneholder valgfelt og avkrysningsfelt hvis det forventes mange svar, da det krever etterarbeid å gå igjennom disse. 
+
+Veiledning for besvarelse av papirskjema
+*	Ikke returner forsiden
+*	Bruk blå penn, ikke rød penn
+*	Sett tydelige kryss
+*	Hvis du har krysset av feil, skraver feltet og sett et nytt kryss på riktig sted
+*	Skjemaet tolkes automatisk, håndskrevne tekster og vedlagte lapper blir ikke tatt hensyn til
+*	Vi setter pris på om du leverer alle arkene riktig orientert
 
 ## Bruk av standardskjematyper
 
