@@ -2,7 +2,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Version 2.0 (dato ikke bestemt)
+## Versjon 2.0 (dato ikke bestemt)
 
 * Mulighet for å sende ut brev (PDF) til personer i personregisteret (helsenorge, digipost eller i posten)
 * Nytt system for å samtykkehåndtering
