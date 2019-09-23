@@ -2,6 +2,13 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Version 2.0 (dato ikke bestemt)
+
+* Mulighet for å sende ut brev (PDF) til personer i personregisteret (helsenorge, digipost eller i posten)
+* Nytt system for å samtykkehåndtering
+* Hendelsesovervåking
+* *under utvikling*
+
 ## Versjon 1.2 (3. oktober 2019)
 
 * Forbedringer i "Finn forskningsobjekt" funksjon. Kan nå laste opp fil med IDer. Antall samtidige i visning er satt til 1 000.
