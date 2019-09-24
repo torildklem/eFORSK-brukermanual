@@ -4,9 +4,10 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 
 ## Versjon 2.0 (dato ikke bestemt)
 
-* Mulighet for å sende ut brev (PDF) til personer i personregisteret (helsenorge, digipost eller i posten)
+* Mulighet for å sende ut brev (PDF) til personer i personregisteret (helsenorge, sikker digital postkasse eller i posten)
 * Nytt system for samtykkehåndtering
 * Hendelsesovervåking
+* Bedre mulighet for å styre tekster i Helsenorge og sikker digital postkasse i skjemabyggeren
 * *under utvikling*
 
 ## Versjon 1.2 (3. oktober 2019)
