@@ -1,6 +1,6 @@
 # Samtykkehåndtering
 
-*Denne funksjonalitet er ikke tilgjengelig før i versjon 2.0.*
+*Denne funksjonaliteten er ikke tilgjengelig før i versjon 2.0.*
 
 Ønsker man å innhente samtykke gjøres dette med skjemaer. Man kan lage egen skjematype for samtykke, som kun har som oppgave å etterspørre samtykke. Man kan også inkludere samtykkeinnhenting i skjematyper med andre spørsmål som skal besvares for å minimere antall utsendelser.
 
