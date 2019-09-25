@@ -6,8 +6,10 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 
 * Mulighet for å sende ut brev (PDF) til personer i personregisteret (helsenorge, sikker digital postkasse eller i posten)
 * Nytt system for samtykkehåndtering
-* Hendelsesovervåking
+* System for hendelsesovervåking
 * Bedre mulighet for å styre tekster i Helsenorge og sikker digital postkasse i skjemabyggeren
+* Mulighet for å skjule fremdriftindikator i ePROM skjema
+* Ny regel for å kunne skjule utfyllingshjelp på papirskjema
 * *under utvikling*
 
 ## Versjon 1.2 (3. oktober 2019)
