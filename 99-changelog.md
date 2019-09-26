@@ -9,6 +9,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * System for hendelsesovervåking
 * Bedre mulighet for å styre tekster i Helsenorge og sikker digital postkasse i skjemabyggeren
 * Mulighet for å skjule fremdriftindikator i ePROM skjema
+* Mulighet for å skjule fjernede felter i skjemabygger
 * Ny regel for å kunne skjule utfyllingshjelp på papirskjema
 * *under utvikling*
 
