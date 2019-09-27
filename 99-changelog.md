@@ -13,7 +13,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Ny regel for å kunne skjule utfyllingshjelp på papirskjema
 * *under utvikling*
 
-## Versjon 1.2 (3. oktober 2019)
+## Versjon 1.2 (ca 8. oktober 2019)
 
 * Forbedringer i "Finn forskningsobjekt" funksjon. Kan nå laste opp fil med IDer. Antall samtidige i visning er satt til 1 000.
 * Nye systemutfylte felter: Forskningsobjektets navn, Forskningsobjektets poststed ved skjemaopprettelse, Forskningsobjektets bostedsgate ved skjemaopprettelse, Brukeren som opprettet skjemaet sitt navn
