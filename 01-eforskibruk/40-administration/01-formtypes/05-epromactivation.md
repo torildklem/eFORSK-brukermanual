@@ -4,22 +4,6 @@ Aktiverer man ePROM vil det i øyeblikket skjemaet publiseres bli kopiert til de
 I testmodus kan man umiddelbart bestille ePROM av skjematypen, mens utenfor testmodus må det testes og godkjennes 
 av eFORSK administrator før det kan bestilles.
 
-## Informasjonstekst til mottaker og avsendernavn
-
-Når skjema skal fylles ut av mottaker i ePROM møter man en tekst som bør forklare hvorfor man har mottatt skjemaet
-og hva dataene skal brukes til. Dette spesifiseres i "informasjonstekst til mottaker". Videre kan man spesifisere hvem 
-som forespør disse dataene i avsendernavnet.
-
-I informasjonsteksten kan man sende med verdier fra systemutfylte felter som blir beregnet ved skjemaopprettelse, eksempelvis alder. Hvis variabelnavnet er "Alder", skrives følgende kode i teksten for å få verdien:  [\_ALDER\_]  (med store bokstaver). Man kan også bruke verdier fra foreldreskjemaet, eksempelvis hvis det er et felt som heter "Sykehusnavn": [\_FORELDRESKJEMA\_SYKEHUSNAVN\_]. Hvis det ikke velges et eksisterende foreldreskjema ved bestilling, blir kodene blanket ut i teksten. For valgfelt og avkrysningsfelt vil man få tallverdier ved å bruke variabelnavnet direkte, men ved å legge på "\_txt" kan man få den tekstlige verdien: [\_KJOENN\_TXT\_].  Felter som er markert med at dem inneholder personopplysninger kan ikke brukes.
-
-Merk at disse ikke erstattes med verdier i forhåndsvisning, men først når man legger inn en bestilling.
-
-## Samtykkeforespørsel
-
-I tilfelle skjemaet bestilles med samtykkeforespørsel, vil en tekst presenteres sammen med forespørsel om signatur. 
-Det er viktig at denne teksten reflekterer hvilket samtykke som kreves for å ligge i databasen.
-Denne teksten spesifiseres under "Administrasjon/Databaseoppsett".
-
 ## Utfylling via lenke (Personinitiert utfylling)
 
 Huker man av for utfylling via lenke (personinitiert utfylling) vil man få en lenke som kan distribueres til forskningsobjekter man ønsker skal besvare skjemaet.
@@ -39,3 +23,12 @@ Skanning og tolkning av svar skjer hos ekstern leverandør, og her tolkes alt an
 
 Har man koblet inn en standardskjematype (eksempelvis EQ5D) i sin skjematype, vil ePROM skjematypen bli en sammensatt skjematype med noe spesiell utforming. Dette kan sees ved å bruke "ePROM forhåndsvisning" funksjonen.
 
+## Informasjonstekst til mottaker og avsendernavn
+
+Når skjema skal fylles ut av mottaker i ePROM møter man en tekst som bør forklare hvorfor man har mottatt skjemaet
+og hva dataene skal brukes til. Dette spesifiseres i "informasjonstekst til mottaker". Videre kan man spesifisere hvem 
+som forespør disse dataene i avsendernavnet.
+
+I informasjonsteksten kan man sende med verdier fra systemutfylte felter som blir beregnet ved skjemaopprettelse, eksempelvis alder. Hvis variabelnavnet er "Alder", skrives følgende kode i teksten for å få verdien:  [\_ALDER\_]  (med store bokstaver). Man kan også bruke verdier fra foreldreskjemaet, eksempelvis hvis det er et felt som heter "Sykehusnavn": [\_FORELDRESKJEMA\_SYKEHUSNAVN\_]. Hvis det ikke velges et eksisterende foreldreskjema ved bestilling, blir kodene blanket ut i teksten. For valgfelt og avkrysningsfelt vil man få tallverdier ved å bruke variabelnavnet direkte, men ved å legge på "\_txt" kan man få den tekstlige verdien: [\_KJOENN\_TXT\_].  Felter som er markert med at dem inneholder personopplysninger kan ikke brukes.
+
+Merk at disse ikke erstattes med verdier i forhåndsvisning, men først når man legger inn en bestilling.
