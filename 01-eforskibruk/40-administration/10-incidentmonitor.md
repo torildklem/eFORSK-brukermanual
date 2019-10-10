@@ -55,7 +55,7 @@ vil ikke hendelsesovervåking på denne statusen rapportere en hendelse.
 
 ## Videreutvikling
 
-Forslag til videreutvikling, ikke vedtatt implementert:
+Forslag til videreutvikling:
 
 Valg om at en hendelsesovervåking sine rapporter kun skal være synlig for den enheten den har oppstått på.
 
