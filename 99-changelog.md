@@ -7,12 +7,13 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Mulighet for å sende ut brev (PDF) til personer i personregisteret (helsenorge, sikker digital postkasse eller i posten)
 * Nytt system for samtykkehåndtering
 * System for hendelsesovervåking
-* Bedre mulighet for å styre tekster i Helsenorge og sikker digital postkasse i skjemabyggeren
-* Mulighet for å skjule fremdriftindikator i ePROM skjema
 * Mulighet for å skjule fjernede felter i skjemabygger
-* Ny regel for å kunne skjule utfyllingshjelp på papirskjema
-* Mulighet for å bestille ePROM utfylling via E-post og SMS hentet fra kontaktregisteret. 
-* Forbedret valg av varlingskanaler ved ePROM bestilling
+* ePROM: Bedre mulighet for å styre tekster i Helsenorge og sikker digital postkasse i skjemabyggeren
+* ePROM: Mulighet for å skjule fremdriftindikator i ePROM skjema
+* ePROM: Ny regel for å kunne skjule utfyllingshjelp på papirskjema
+* ePROM: Mulighet for å bestille ePROM utfylling via E-post og SMS hentet fra kontaktregisteret. 
+* ePROM: Forbedret valg av varlingskanaler ved ePROM bestilling
+* ePROM: Forbedret funksjonalitet for automatiske ePROM bestillinger
 
 ## Versjon 1.2 (8. oktober 2019)
 
