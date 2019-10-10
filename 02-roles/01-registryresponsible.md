@@ -9,6 +9,7 @@ Administrasjon
 *	Endre tilgangsenheter
 *	Endre skjematyper
 *	Endre typer av forskningsobjekt
+* Endre hendelsesovervåkinger
 
 Skjema
 *	Lese egne skjema
@@ -29,3 +30,4 @@ Verktøy
 *	Eksporter data
 *	Importer data
 * Behandle randomiseringer (Utføre hurtigrandomisering, avslutte og slette)
+* Håndtere hendelser
