@@ -23,3 +23,4 @@ Verktøy
 *	Eksporter data
 *	Importer data
 * Utføre hurtigrandomisering
+* Håndtere hendelser
