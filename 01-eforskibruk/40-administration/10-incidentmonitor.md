@@ -13,18 +13,18 @@ Man kan lytte på hendelser fra følgende objekter:
 
 For skjema kan man velge hvilke skjemastatus og hvilke verdier skjemaet skal ha for å utløse en hendelse.
 
-Eksempel på hendelse: Skjema oppnår statusen "til kontroll".
+Eksempel 1: Skjema oppnår statusen "til kontroll".
 
-Eksempel på hendelse: Ferdigstilt skjema med forskningsobjektets kjønn lik mann og forskningsobjektets alder over 90 år.
+Eksempel 2: Ferdigstilt skjema med forskningsobjektets kjønn lik mann og forskningsobjektets alder over 90 år.
 
 
 ### ePROM bestillinger
 
 For ePROM bestillinger kan man velge hvilken status og hvilken varslingskanal bestillingen skal ha for å utløse en hendelse.
 
-Eksempel på hendelse: Bestilling oppnår status "utgått".
+Eksempel 1: Bestilling oppnår status "utgått".
 
-Eksempel på hendelse: Bestilling sendt som fysisk post oppnår status "besvart".
+Eksempel 2: Bestilling sendt som fysisk post oppnår status "besvart".
 
 ## Hendelse
 
@@ -38,7 +38,7 @@ Utover hendelsesvisningen kan man opprette varsling når en hendelse oppstår. V
 * SMS
 
 Man kan velge at brukeren som opprettet objektet blir varslet. 
-Ellers kan også velge blandt brukerene som har vært pålogget databasen.
+Ellers kan også velge blant brukerene som har vært pålogget databasen.
 I tillegg kan man legge til hvilken e-post adresse eller telefonnummer som skal varsles.
 
 ## Begrensninger
