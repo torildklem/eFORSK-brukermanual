@@ -57,7 +57,7 @@ vil ikke hendelsesovervåking på denne statusen rapportere en hendelse.
 
 Forslag til videreutvikling:
 
-Valg om at en hendelsesovervåking sine rapporter kun skal være synlig for den enheten den har oppstått på.
+Valg om at en hendelsesovervåking sine rapporter kun skal være synlig på enheten den har oppstått på.
 
 Valg om at en hendelsesovervåking sine rapporter kun skal kunne håndteres på den enheten den har oppstått på (her kan den da være synlig oppover i tilgangshierarkiet slik at disse kan se at hendelsen har inntruffet)
 
