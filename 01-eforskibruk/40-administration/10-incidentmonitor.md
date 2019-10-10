@@ -43,6 +43,8 @@ I tillegg kan man legge til e-postadresser og telefonnumre som skal varsles.
 
 ## Begrensninger
 
+Hendelsesovervåking skjer kun på fremtidige hendelser etter at den er opprettet, den sjekker ikke om hendelsen har skjedd blant eksisterende data før dem eventuelt oppdateres.
+
 En hendelsesovervåking kan varsle en gang per objekt som utløser en hendelse. Eksempelvis, 
 hvis man overvåker skjema som får status "til kontroll", 
 vil hendelsesovervåkingen kun varsle første gangen skjemaet får status "til kontroll", men ikke de påfølgende gangene.
