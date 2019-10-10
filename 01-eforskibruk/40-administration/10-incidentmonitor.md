@@ -52,3 +52,15 @@ vil hendelsesovervåkingen kun varsle første gangen skjemaet får status "til k
 Overvåkingen har en forsinkelse på ett minutt før den sjekker et oppdatert objekt. 
 Eksempelvis kan et skjema være innom statusen "til kontroll", men blir dette endret til en annen status før det har gått ett minutt 
 vil ikke hendelsesovervåking på denne statusen rapportere en hendelse.
+
+## Videreutvikling
+
+Forslag til videreutvikling:
+
+Valg om at en hendelsesovervåking sine rapporter kun skal være synlig for den enheten den har oppstått på.
+
+Valg om at en hendelsesovervåking sine rapporter kun skal kunne håndteres på den enheten den har oppstått på (her kan den da være synlig oppover i tilgangshierarkiet slik at disse kan se at hendelsen har inntruffet)
+
+Valg om hvilke tilgangsenheter en hendelsesovervåking er aktivert for. Som standard overvåker alle.
+
+Valg om hvem hendelsesovårvåkingen sin rapport er synlig for, eksempelvis kun for den som opprettet objektet det er en hendelse for.
