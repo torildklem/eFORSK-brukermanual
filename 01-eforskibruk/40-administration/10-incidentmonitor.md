@@ -38,8 +38,8 @@ Utover hendelsesvisningen kan man opprette varsling når en hendelse oppstår. V
 * SMS
 
 Man kan velge at brukeren som opprettet objektet blir varslet. 
-Ellers kan også velge blant brukerene som har vært pålogget databasen.
-I tillegg kan man legge til hvilken e-post adresse eller telefonnummer som skal varsles.
+Ellers kan også velge blant brukerne som har vært pålogget databasen.
+I tillegg kan man legge til e-postadresser og telefonnumre som skal varsles.
 
 ## Begrensninger
 
