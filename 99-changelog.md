@@ -11,7 +11,8 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Mulighet for å skjule fremdriftindikator i ePROM skjema
 * Mulighet for å skjule fjernede felter i skjemabygger
 * Ny regel for å kunne skjule utfyllingshjelp på papirskjema
-* *under utvikling*
+* Mulighet for å bestille ePROM utfylling via E-post og SMS hentet fra kontaktregisteret. 
+* Forbedret valg av varlingskanaler ved ePROM bestilling
 
 ## Versjon 1.2 (8. oktober 2019)
 
