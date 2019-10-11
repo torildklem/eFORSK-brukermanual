@@ -25,13 +25,13 @@ I sikker digital postkasse kan mottaker ha satt opp varsling på SMS eller e-pos
 
 Denne kanalen kan nyttes hvis mottaker har en e-postadresse oppført i kontaktregistret (difi).
 E-post er en usikret kanal, og informasjonen som sendes hit er veldig begrenset. Den er prioritert over SMS da det er mulighet for mer tekst i en e-post. 
-Les mer om hvordan e-post er utformet: <a href="https://eprom.hemit.org/PasientskjemaViaEpostSms" target="_blank">Pasientskjema via Epost og SMS</a>.
+Les mer om hvordan e-post er utformet: <a href="https://eprom.hemit.org/PasientskjemaViaEpostSms" target="_blank">ePROM dokumentasjon</a>.
 
 #### 4. SMS *(kommer i v2.0)*
 
 Denne kanalen kan nyttes hvis mottaker har et telefonnummer oppført i kontaktregistret (difi).
 SMS er som e-post en usikret kanal, og hit sendes det en veldig kort tekst.
-Les mer om hvordan SMSen er utformet: <a href="https://eprom.hemit.org/PasientskjemaViaEpostSms" target="_blank">Pasientskjema via Epost og SMS</a>.
+Les mer om hvordan SMSen er utformet: <a href="https://eprom.hemit.org/PasientskjemaViaEpostSms" target="_blank">ePROM dokumentasjon</a>.
 
 #### 5. Papirskjema i posten
 
