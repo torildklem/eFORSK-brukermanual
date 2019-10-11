@@ -7,6 +7,38 @@ enten digitalt eller via papirskjema sendt i posten. Digital utfylling er tilpas
 Skjemaet vil bli opprettet i databasen når personen besvarer skjemaet. 
 I samme prosess må vedkommende velge å samtykke til at data lagres i databasen, hvis samtykke ikke allerede foreligger. 
 
+## Varslingskanaler
+
+Ved bestilling av skjemautfyllelse bestemmer man om man vil varsle mottaker selv eller om ePROM skal sende ut varsel. Mottaker kan forsøkes nås på følgende kanaler i prioritert rekkefølge via ePROM:
+
+#### 1. Helsenorge
+
+Hvis mottaker har registrert seg på Helsenorge er dette den høyest prioriterte kanalen, da denne er sikker og ikke medfører kostnader. 
+I Helsenorge kan mottaker ha satt opp varsling på SMS eller e-post når det kommer en melding.
+
+#### 2. Sikker digital postkasse
+
+Dette er også en sikker kanal, og består av tjenestene Digipost og E-box. Hvis mottaker har registrert seg på noen av disse vil dette brukes som varslingskanal.
+I sikker digital postkasse kan mottaker ha satt opp varsling på SMS eller e-post når det kommer en melding.
+
+#### 3. E-post
+
+Denne kanalen kan nyttes hvis mottaker har en e-postadresse oppført i kontaktregistret (difi).
+E-post er en usikret kanal, og informasjonen som sendes hit er veldig begrenset. Den er prioritert over SMS da det er mulighet for mer tekst i en e-post. 
+Les mer om hvordan e-post er utformet: <a href="https://eprom.hemit.org/PasientskjemaViaEpostSms" target="_blank">Pasientskjema via Epost og SMS</a>.
+
+#### 4. SMS
+
+Denne kanalen kan nyttes hvis mottaker har et telefonnummer oppført i kontaktregistret (difi).
+SMS er som e-post en usikret kanal, og hit sendes det en veldig kort tekst.
+Les mer om hvordan SMSen er utformet: <a href="https://eprom.hemit.org/PasientskjemaViaEpostSms" target="_blank">Pasientskjema via Epost og SMS</a>.
+
+#### 5. Papirskjema i posten
+
+For å kunne bruke denne kanalen må man ha aktivert papirskjema ved skjemabygging.
+Denne kanalen er prioritert nederst da det er den dyreste måten å nå mottaker på.
+Sist kjente bosted i personregisteret brukes som adresse.
+
 ## Status på bestillinger
 
 En bestilling kan ha følge statuser:
