@@ -41,6 +41,10 @@ Man kan velge at brukeren som opprettet objektet blir varslet.
 Ellers kan også velge blant brukerne som har vært pålogget databasen.
 I tillegg kan man legge til e-postadresser og telefonnumre som skal varsles.
 
+Det "beskrivende navnet" som oppgis ved opprettelse av overvåkingen brukes i varselet som sendes ut.
+
+Det er per nå ikke mulig å samle opp varsler til en daglig eller ukentlig oppsummert varsling, det bør derfor ikke lages regler som medfører større mengder varsler enn man kan håndtere.
+
 ## Begrensninger
 
 Hendelsesovervåking skjer kun på fremtidige hendelser etter at den er opprettet, den sjekker ikke om hendelsen har skjedd blant eksisterende data før dem eventuelt oppdateres.
@@ -63,4 +67,6 @@ Valg om at en hendelsesovervåking sine rapporter kun skal kunne håndteres på 
 
 Valg om hvilke tilgangsenheter en hendelsesovervåking er aktivert for. Som standard overvåkes alle.
 
-Valg om hvem hendelsesovårvåkingen sin rapport er synlig for, eksempelvis kun for den som opprettet objektet det er en hendelse for.
+Valg om hvem hendelsesovervåkingen sin rapport er synlig for, eksempelvis kun for den som opprettet objektet det er en hendelse for.
+
+Valg om at en hendelsesovervåking kun skal varsle oppsummert en gang per dag eller en gang per uke.
