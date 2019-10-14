@@ -19,7 +19,7 @@ I Helsenorge kan mottaker ha satt opp varsling på SMS eller e-post når det kom
 #### 2. Sikker digital postkasse
 
 Dette er også en sikker kanal, og består av tjenestene Digipost og E-box. Hvis mottaker har registrert seg på noen av disse vil dette brukes som varslingskanal.
-I sikker digital postkasse kan mottaker ha satt opp varsling på SMS eller e-post når det kommer en melding.
+I sikker digital postkasse kan mottaker ha satt opp varsling på SMS eller e-post når det kommer en melding. Bruk av denne kanalen medfører kostnader.
 
 #### 3. E-post *(kommer i v2.0)*
 
@@ -84,7 +84,7 @@ Veiledning for besvarelse av papirskjema:
 
 Papirskjema vil alltid komme tilbake til eFORSK med status "Til kontroll".
 
-## Pris
+## Kostnader
 
 Informasjon om kostnader rundt ePROM utsendelse kommer.
 
