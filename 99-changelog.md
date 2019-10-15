@@ -14,6 +14,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * ePROM: Mulighet for å bestille ePROM utfylling via E-post og SMS hentet fra kontaktregisteret. 
 * ePROM: Forbedret valg av varlingskanaler ved ePROM bestilling
 * ePROM: Forbedret funksjonalitet for automatiske ePROM bestillinger
+* ePROM: Forbedret søkefiltre for bestillinger
 
 ## Versjon 1.2 (8. oktober 2019)
 
