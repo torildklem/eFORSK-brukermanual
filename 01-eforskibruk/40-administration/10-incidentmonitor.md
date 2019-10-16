@@ -43,7 +43,8 @@ I tillegg kan man legge til e-postadresser og telefonnumre som skal varsles.
 
 Det "beskrivende navnet" som oppgis ved opprettelse av overvåkingen brukes i varselet som sendes ut.
 
-Det er per nå ikke mulig å samle opp varsler til en daglig eller ukentlig oppsummert varsling, det bør derfor ikke lages regler som medfører større mengder varsler enn man kan håndtere.
+Velger man varsling oppsummert daglig, vil denne gå ut ca kl 7 hver dag hvis det har vært hendelser siden forrige varsling. 
+Velger man varsling oppsummert ukentlig, vil denne gå ut ca kl 7 hver mandag hvis det har vært hendelser siden forrige varsling.
 
 ## Begrensninger
 
@@ -68,5 +69,3 @@ Valg om at en hendelsesovervåking sine rapporter kun skal kunne håndteres på 
 Valg om hvilke tilgangsenheter en hendelsesovervåking er aktivert for. Som standard overvåkes alle.
 
 Valg om hvem hendelsesovervåkingen sin rapport er synlig for, eksempelvis kun for den som opprettet objektet det er en hendelse for.
-
-Valg om at en hendelsesovervåking kun skal varsle oppsummert en gang per dag eller en gang per uke.
