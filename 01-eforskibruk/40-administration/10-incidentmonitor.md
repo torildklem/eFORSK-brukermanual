@@ -43,6 +43,7 @@ I tillegg kan man legge til e-postadresser og telefonnumre som skal varsles.
 
 Det "beskrivende navnet" som oppgis ved opprettelse av overvåkingen brukes i varselet som sendes ut.
 
+Velger man varsling for hver hendelse, vil dette gjøres ca ett minutt etter at hendelses har skjedd. 
 Velger man varsling oppsummert daglig, vil denne gå ut ca kl 7 hver dag hvis det har vært hendelser siden forrige varsling. 
 Velger man varsling oppsummert ukentlig, vil denne gå ut ca kl 7 hver mandag hvis det har vært hendelser siden forrige varsling.
 
@@ -54,9 +55,7 @@ En hendelsesovervåking kan varsle en gang per objekt som utløser en hendelse. 
 hvis man overvåker skjema som får status "til kontroll", 
 vil hendelsesovervåkingen kun varsle første gangen skjemaet får status "til kontroll", men ikke de påfølgende gangene.
 
-Overvåkingen har en forsinkelse på ett minutt før den sjekker et oppdatert objekt. 
-Eksempelvis kan et skjema være innom statusen "til kontroll", men blir dette endret til en annen status før det har gått ett minutt 
-vil ikke hendelsesovervåking på denne statusen rapportere en hendelse.
+Overvåkingen har en forsinkelse på ca ett minutt før den sjekker et oppdatert objekt. Objektet kan i ett øyeblikk oppfylle reglene for en hendelse, men bli endret til å ikke oppfylle reglene før overvåkingen rekker å rapportere hendelsen.
 
 ## Videreutvikling
 
