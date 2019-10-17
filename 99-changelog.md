@@ -9,6 +9,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * System for hendelsesovervåking
 * Mulighet for å skjule fjernede felter i skjemabygger
 * Mulighet for å styre muligheten for å bestille skjemautfyllelse (ePROM) per tilgangsenhet
+* Stratifisert blokkrandomisering: mulighet for å velge registrerende tilgangenhets ID som stratifiseringskategori
 * ePROM: Bedre mulighet for å styre tekster i Helsenorge og sikker digital postkasse i skjemabyggeren
 * ePROM: Mulighet for å skjule fremdriftindikator i ePROM skjema
 * ePROM: Ny regel for å kunne skjule utfyllingshjelp på papirskjema
