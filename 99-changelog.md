@@ -8,6 +8,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Nytt system for samtykkehåndtering
 * System for hendelsesovervåking
 * Mulighet for å skjule fjernede felter i skjemabygger
+* Mulighet for å styre muligheten for å bestille skjemautfyllelse (ePROM) per tilgangsenhet
 * ePROM: Bedre mulighet for å styre tekster i Helsenorge og sikker digital postkasse i skjemabyggeren
 * ePROM: Mulighet for å skjule fremdriftindikator i ePROM skjema
 * ePROM: Ny regel for å kunne skjule utfyllingshjelp på papirskjema
