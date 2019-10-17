@@ -13,9 +13,11 @@ Man kan lytte på hendelser fra følgende objekter:
 
 For skjema kan man velge hvilke skjemastatus og hvilke verdier skjemaet skal ha for å utløse en hendelse.
 
-Eksempel 1: Skjema oppnår statusen "til kontroll".
+Eksempel 1: Skjema har status "til kontroll".
 
 Eksempel 2: Ferdigstilt skjema med forskningsobjektets kjønn lik mann og forskningsobjektets alder over 90 år.
+
+Eksempel 3: Forskningsobjektet er død. (Man må her overvåke at en skjematype med det systemutfylte feltet "forskningsobjektets dødsdato" blir besvart)
 
 
 ### ePROM bestillinger
@@ -56,6 +58,8 @@ hvis man overvåker skjema som får status "til kontroll",
 vil hendelsesovervåkingen kun varsle første gangen skjemaet får status "til kontroll", men ikke de påfølgende gangene.
 
 Overvåkingen har en forsinkelse på ca ett minutt før den sjekker et oppdatert objekt. Objektet kan i ett øyeblikk oppfylle reglene for en hendelse, men bli endret til å ikke oppfylle reglene før overvåkingen rekker å rapportere hendelsen.
+
+Overvåking av forskningsobjektets død har en forsinkelse fra personregisteret, og vil videre kun sjekkes nattlig i eFORSK.
 
 ## Videreutvikling
 
