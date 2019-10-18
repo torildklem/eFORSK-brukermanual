@@ -17,7 +17,7 @@ Eksempel 1: Skjema har status "til kontroll".
 
 Eksempel 2: Ferdigstilt skjema med forskningsobjektets kjønn lik mann og forskningsobjektets alder over 90 år.
 
-Eksempel 3: Forskningsobjektet er død. (Man må her overvåke at en skjematype med det systemutfylte feltet "forskningsobjektets dødsdato" blir besvart)
+Eksempel 3: Forskningsobjektet avgår med døden. (Man må her overvåke at en skjematype med det systemutfylte feltet "forskningsobjektets dødsdato" blir besvart)
 
 
 ### ePROM bestillinger
