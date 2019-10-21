@@ -17,14 +17,14 @@ Testpersoner i Personregisteret kan ikke regnes som stabile, da dem kan slettes 
 
 Her følger noen testpersoner som kan søkes opp i testmodus:
 
-* 28029726649 Lise Skaug
-* 18027125499 Maja Johansen
-* 18079914262 Emilie Moa
-* 17109461032 Rikke Vea (død)
-* 03089448998 Rune Børve
-* 08018792525 Eivind Carlsen
-* 07013911368 Gunnar Jensen
-* 14099963345 Johan Simon Ueland (død)
+* 29034402041 Millie Juliussen
+* 17094393213 Ina Dahl
+* 30044198025 Sonja Østerås
+* 01043948470 Hilde Solvang (død)
+* 03044418141 Konrad Isaksen
+* 19094405753 Øystein Kleveland Monstad
+* 03084298181 Jorge Løkken
+* 30030125521 Kai Axel Thomassen (død)
 
 Testpersoner med helsenorge.no konto (<a href="https://minhelse.hn2.test.nhn.no/" target="_blank">åpne helsenorge.no i testmodus</a>):
 
