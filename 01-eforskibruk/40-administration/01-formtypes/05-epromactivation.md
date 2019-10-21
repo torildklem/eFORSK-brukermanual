@@ -19,6 +19,14 @@ Skal man støtte papirutsendelse av skjemaet må det aktivt velges, da dette med
 
 Skanning og tolkning av svar skjer hos ekstern leverandør, og her tolkes alt annet enn kryss dårlig. Det vil si at felter med tall og tekst må manuelt sjekkes opp og korrigeres inne i eFORSK etter at svaret er mottatt. Derfor er det ikke anbefalt å aktivere papirskjema på annet enn skjemaer som kun inneholder valgfelt og avkrysningsfelt hvis det forventes mange svar, da det krever etterarbeid å gå igjennom disse. 
 
+Det anbefales å legges inn informasjonstekst i starten av skjemaet med utfyllingsveildere for papir (legg på regel "vis kun på papirskjema"). Dette bør være med:
+* Ikke returner forsiden
+* Bruk blå penn, ikke rød penn
+* Sett tydelige kryss
+* Hvis du har krysset av feil, skraver feltet og sett et nytt kryss på riktig sted
+* Skjemaet tolkes automatisk, håndskrevne tekster og vedlagte lapper blir ikke tatt hensyn til
+* Vi setter pris på om du leverer alle arkene riktig orientert
+
 ## Bruk av standardskjematyper
 
 Har man koblet inn en standardskjematype (eksempelvis EQ5D) i sin skjematype, vil ePROM skjematypen bli en sammensatt skjematype med noe spesiell utforming. Dette kan sees ved å bruke "ePROM forhåndsvisning" funksjonen.
