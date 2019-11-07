@@ -14,11 +14,11 @@ En versjon har en av følgende statuser:
 
 ### Kladd
 
-Det er kun i status kladd at innholdet i en versjon kan endres. Når en versjon har forlatt status kladd kan den aldri returnere tilbake til denne statusen, versjonen blir altså låst for endringer.
+Det er kun i status kladd at innholdet i en versjon kan endres. Når en versjon har forlatt status kladd kan den **aldri** returnere tilbake til denne statusen, versjonen blir altså låst for endringer.
 
 ### Publisert
 
-Når en skjematype er publisert kan det opprettes nye skjemaer av denne versjonen. Om ePROM er aktivert for skjematypen, kan man også bestille skjemautfyllelse fra personer i Personregisteret. I testmodus kan man gjøre dette umiddelbart, mens for ikke-test modus må versjonen godkjennes av en administrator først.
+Når en skjematype er publisert, kan man fylle ut skjemaer av denne typen. Om ePROM er aktivert for skjematypen, kan man også bestille skjemautfyllelse fra personer i Personregisteret. I testmodus kan man gjøre dette umiddelbart, mens for ikke-test modus må versjonen godkjennes av en administrator først.
 
 Versjoner som er publisert, avpublisert eller låst kan ikke endres; man er nødt til å opprette en ny versjon for å overholde korrekt versjonering av felter og regler.
 
