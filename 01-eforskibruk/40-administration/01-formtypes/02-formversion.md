@@ -30,9 +30,7 @@ Når en verjson er avpublisert kan det ikke opprettes nye skjemaer eller bestill
 
 Avpubliserte versjoner kan publiseres på nytt eller låses.
 
-### Låst *(ikke tilgjengelig)*
-
-*Det er ikke bestemt når eFORSK får denne muligheten*
+### Låst
 
 Når en versjon er låst, kan man verken opprette nye skjemaer, bestille utfyllelse eller endre på eksisterende skjemaer. Tilstanden er låst. Eventuelle svar på skjemabestillinger vil fortsatt komme inn, ønsker man ikke dette må man sørge for at alle ubesvarte bestillinger har løpt ut på tid. Merk at bestillinger som har blitt sendt som papirskjema i posten ikke har en utløpstid. Bruker man personinitiert ePROM, vil lenken til skjemaet ikke fungere lenger. 
 
