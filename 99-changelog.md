@@ -9,10 +9,6 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * System for hendelsesovervåking
 * Mulighet for å skjule fjernede felter i skjemabygger
 * Mulighet for å styre muligheten for å bestille skjemautfyllelse (ePROM) per tilgangsenhet
-* Mulighet for å ha registrering av klokkeslett på datofelt
-* Nye regler på datofelt: fortid, mindre enn (verdi), mindre enn annet felt, mindre enn eller lik (verdi), mindre enn eller lik annet felt, større enn (verdi), større enn annet felt, større enn eller lik (verdi), større enn eller lik annet felt, lik (verdi), ulik  (verdi)
-* Nye regler på tallfelt: mindre enn (verdi), mindre enn annet felt, mindre enn eller lik (verdi), mindre enn eller lik annet felt, større enn (verdi), større enn annet felt, større enn eller lik (verdi), større enn eller lik annet felt, lik (verdi), ulik (verdi)
-* Ny regel på avkryssningfelt: påkrevd svar
 * Stratifisert blokkrandomisering: utvidet mulig felter som kan brukes som stratifiseringskategorier til også å gjelde avkryssningsfelt, samtykkefelt og det systemutfylte feltet "registrerende tilgangenhets ID"
 * Ny hendelseslogg på forskningsobjekter, vist som tidslinje
 * ePROM: Bedre mulighet for å styre tekster i Helsenorge og sikker digital postkasse i skjemabyggeren
@@ -22,6 +18,13 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * ePROM: Forbedret valg av varlingskanaler ved ePROM bestilling
 * ePROM: Forbedret funksjonalitet for automatiske ePROM bestillinger
 * ePROM: Forbedret søkefiltre for bestillinger
+
+#### Hvis tid
+
+* Mulighet for å ha registrering av klokkeslett på datofelt
+* Nye regler på datofelt: fortid, mindre enn (verdi), mindre enn annet felt, mindre enn eller lik (verdi), mindre enn eller lik annet felt, større enn (verdi), større enn annet felt, større enn eller lik (verdi), større enn eller lik annet felt, lik (verdi), ulik  (verdi)
+* Nye regler på tallfelt: mindre enn (verdi), mindre enn annet felt, mindre enn eller lik (verdi), mindre enn eller lik annet felt, større enn (verdi), større enn annet felt, større enn eller lik (verdi), større enn eller lik annet felt, lik (verdi), ulik (verdi)
+* Ny regel på avkryssningfelt: påkrevd svar
 
 ## Versjon 1.2 (8. oktober 2019)
 
