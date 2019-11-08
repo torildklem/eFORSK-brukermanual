@@ -8,7 +8,7 @@ Dette er typisk brukt for metadata som skjemaets unike nøkkel, alder, kjønn og
 
 *Dette er funksjonalitet som ikke er tilgjengelig enda*
 
-I formler kan man hente inn verdier fra andre felter. Hvis man har et tallfelt med variabelnavn Tall, skriver man \[\_Tall\_\] i formelen for å få feltets verdi.
+I formler kan man hente inn verdier fra andre felter. Hvis man har et tallfelt med variabelnavn Tall, skriver man \[\_Tall\_\] i formelen for å få feltets verdi. Har ikke feltet en verdi (ubesvart/tomt), vil den beregnes med verdien 0 i formelen.
 
 Eksempel på formel: max(\[\_Tall1\_\], \[\_Tall2\_\], \[\_Tall3\_\]) / 2E-3
 
