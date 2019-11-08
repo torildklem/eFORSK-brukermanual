@@ -16,7 +16,7 @@ Det finnes ikke en egen felttype for **flervalgsfelt**, da analyse av eksportert
 Alle felt vil ha et variabelnavn som brukes ved eksport, og en visningstekst som gjør det enkelt for bruker å vite hva som skal fylles ut.
 
 ### Systemutfylte felt
-Man har også muligheten til å legge til systemutfylte felt. Et systemutfylt felt vil automatisk fylles ut ved opprettelse, endring eller ferdigstillelse. Vedkommende som fyller ut skjema har ikke muligheten til å fylle ut eller endre disse feltene. Dette er typisk brukt for metadata som skjemaets unike nøkkel, alder, kjønn og lignende.
+Et systemutfylt felt vil automatisk fylles ut ved opprettelse, endring eller ferdigstillelse. Les mer i egen artikkel.
 
 ### Randomiseringsfelt
 Et randomiseringsfelt kan settes opp til å utføres på tre måter;
