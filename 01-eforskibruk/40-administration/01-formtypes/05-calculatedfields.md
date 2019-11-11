@@ -10,9 +10,9 @@ Dette er typisk brukt for metadata som skjemaets unike nøkkel, alder, kjønn og
 
 I formler kan man hente inn verdier fra andre felter. Hvis man har et tallfelt med variabelnavn Tall, skriver man \[\_Tall\_\] i formelen for å få feltets verdi. Har ikke feltet en verdi (ubesvart/tomt), vil den beregnes med verdien 0 i formelen.
 
-Datoer vil oversettes til antall sekunder siden 1970 slik at dem kan brukes i formler, se eksempel under.
+Datoer vil transformeres til antall sekunder siden 1970 slik at dem kan brukes i formler, se eksempel under.
 
-Lager man en formel (B) som skal hente verdien fra en annen formel (A), er det viktig at feltet med formel (A) opprettes først.
+Lager man en formel (B) som skal hente verdien fra en annen formel (A), er det viktig at feltet med formel (A) opprettes før formel (B).
 
 <a href="https://github.com/pieterderycke/Jace/wiki" target="_blank">Detaljert informasjon om bygging av formler</a>
 
