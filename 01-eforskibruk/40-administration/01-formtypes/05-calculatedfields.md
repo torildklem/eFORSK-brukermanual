@@ -19,7 +19,7 @@ Lager man en formel (B) som skal hente verdien fra en annen formel (A), er det v
 #### Eksempel 1: enkel formel
 `([_Tall1_] + [_Tall2_]) / [_Tall3_]`
 
-#### Eksempel 2: funksjonen max()
+#### Eksempel 2: bruk av funksjoner
 `max([_Tall1_], [_Tall2_], [_Tall3_])`
 
 Gir høyeste verdi av de tre feltene
