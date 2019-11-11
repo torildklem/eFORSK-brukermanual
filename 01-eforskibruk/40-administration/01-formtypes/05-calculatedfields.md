@@ -16,15 +16,15 @@ Lager man en formel (B) som skal hente verdien fra en annen formel (A), er det v
 
 <a href="https://github.com/pieterderycke/Jace/wiki" target="_blank">Detaljert informasjon om bygging av formler</a>
 
-#### Eksempel 1 - enkel formel
+#### Eksempel 1: enkel formel
 `([_Tall1_] + [_Tall2_]) / [_Tall3_]`
 
-#### Eksempel 2 - funksjonen max()
+#### Eksempel 2: funksjonen max()
 `max([_Tall1_], [_Tall2_], [_Tall3_])`
 
 Gir høyeste verdi av de tre feltene
 
-#### Eksempel 3 - antall dager mellom to datoer
+#### Eksempel 3: bruk av datoer
 `([_Datofelt2_] - [_Datofelt1_]) / 86400`
 
 Antall dager mellom datoene Datofelt1 og Datofelt2
