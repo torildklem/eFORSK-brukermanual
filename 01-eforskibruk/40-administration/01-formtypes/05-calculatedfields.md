@@ -17,7 +17,7 @@ Lager man en formel (B) som skal hente verdien fra en annen formel (A), er det v
 <a href="https://github.com/pieterderycke/Jace/wiki" target="_blank">Detaljert informasjon om bygging av formler</a>
 
 #### Eksempel 1 - enkel formel
-`\([\_Tall1\_\] + \[\_Tall2\_\]) / \[\_Tall3\_\]`
+`([_Tall1\_\] + [_Tall2_]) / [_Tall3_]`
 
 #### Eksempel 2 - funksjonen max()
 `max(\[\_Tall1\_\], \[\_Tall2\_\], \[\_Tall3\_\])`
