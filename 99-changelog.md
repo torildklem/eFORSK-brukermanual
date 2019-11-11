@@ -11,6 +11,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Mulighet for å styre muligheten for å bestille skjemautfyllelse (ePROM) per tilgangsenhet
 * Stratifisert blokkrandomisering: utvidet mulig felter som kan brukes som stratifiseringskategorier til også å gjelde avkryssningsfelt, samtykkefelt og det systemutfylte feltet "registrerende tilgangenhets ID"
 * Ny hendelseslogg på forskningsobjekter, vist som tidslinje
+* Mulighet for å ha registrering av klokkeslett på datofelt
 * ePROM: Bedre mulighet for å styre tekster i Helsenorge og sikker digital postkasse i skjemabyggeren
 * ePROM: Mulighet for å skjule fremdriftindikator i ePROM skjema
 * ePROM: Ny regel for å kunne skjule utfyllingshjelp på papirskjema
@@ -21,7 +22,6 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 
 #### Hvis tid
 
-* Mulighet for å ha registrering av klokkeslett på datofelt
 * Nye regler på datofelt: fortid, mindre enn (verdi), mindre enn annet felt, mindre enn eller lik (verdi), mindre enn eller lik annet felt, større enn (verdi), større enn annet felt, større enn eller lik (verdi), større enn eller lik annet felt, lik (verdi), ulik  (verdi)
 * Nye regler på tallfelt: mindre enn (verdi), mindre enn annet felt, mindre enn eller lik (verdi), mindre enn eller lik annet felt, større enn (verdi), større enn annet felt, større enn eller lik (verdi), større enn eller lik annet felt, lik (verdi), ulik (verdi)
 * Ny regel på avkryssningfelt: påkrevd svar
