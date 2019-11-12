@@ -12,6 +12,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Stratifisert blokkrandomisering: utvidet mulig felter som kan brukes som stratifiseringskategorier til også å gjelde avkryssningsfelt, samtykkefelt og det systemutfylte feltet "registrerende tilgangenhets ID"
 * Ny hendelseslogg på forskningsobjekter, vist som tidslinje
 * Mulighet for å ha registrering av klokkeslett på datofelt
+* Mulighet for å sammenligne med tallfelt på "Vis hvis" regler
 * ePROM: Bedre mulighet for å styre tekster i Helsenorge og sikker digital postkasse i skjemabyggeren
 * ePROM: Mulighet for å skjule fremdriftindikator i ePROM skjema
 * ePROM: Ny regel for å kunne skjule utfyllingshjelp på papirskjema
