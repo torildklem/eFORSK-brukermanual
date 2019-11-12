@@ -13,6 +13,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Ny hendelseslogg på forskningsobjekter, vist som tidslinje
 * Mulighet for å ha registrering av klokkeslett på datofelt
 * Mulighet for å sammenligne med tallfelt på "Vis hvis" regler
+* Nytt systemutfylt felt: Formel
 * ePROM: Bedre mulighet for å styre tekster i Helsenorge og sikker digital postkasse i skjemabyggeren
 * ePROM: Mulighet for å skjule fremdriftindikator i ePROM skjema
 * ePROM: Ny regel for å kunne skjule utfyllingshjelp på papirskjema
