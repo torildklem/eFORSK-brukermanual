@@ -24,7 +24,10 @@ Lager man en formel (B) som skal hente verdien fra en annen formel (A), er det v
 
 Gir høyeste verdi av de tre feltene
 
-#### Eksempel 3: bruk av datoer
+#### Eksempel 3: avansert formel
+`2 * median([_Tall1_], [_Tall2_], [_Tall3_]) / 2E-3`
+
+#### Eksempel 4: bruk av datoer
 `([_Datofelt2_] - [_Datofelt1_]) / 86400`
 
 Antall dager mellom datoene Datofelt1 og Datofelt2
