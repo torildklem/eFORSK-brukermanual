@@ -34,4 +34,6 @@ Antall dager mellom datoene Datofelt1 og Datofelt2
 
 #### Begrensninger
 
-Systemutfylte felter med formel kan ikke brukes til å sammenligne med i regler i skjematypen. Dette kommer av hvordan formlene blir kalkulert av systemet.
+Systemutfylte felter med formel kan ikke brukes til å sammenligne med i regler i skjematypen. Dette kommer av hvordan formlene blir beregnes av systemet.
+
+I et ePROM skjema vil ikke formlene beregnes før skjemaet er levert og ankommet eFORSK.
