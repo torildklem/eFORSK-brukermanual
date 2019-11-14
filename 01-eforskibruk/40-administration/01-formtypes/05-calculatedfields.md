@@ -4,9 +4,13 @@ Et systemutfylt felt vil automatisk fylles ut ved opprettelse, endring eller fer
 Vedkommende som fyller ut skjema har ikke muligheten til å fylle ut eller endre disse feltene. 
 Dette er typisk brukt for metadata som skjemaets unike nøkkel, alder, kjønn og lignende.
 
+## Registrerende tilgangenhets id/navn
+
+Anbefales å brukes hvis man har flere tilgangsenheter. Denne vil da sørge for at man kan se hvilken enhet skjemaer er registrert på.
+
 ## Formel
 
-*Dette er funksjonalitet som ikke er tilgjengelig enda*
+*Dette er funksjonalitet som blir tilgjengelig i v2.0*
 
 I formler kan man hente inn verdier fra andre felter. Hvis man har et tallfelt med variabelnavn Tall, skriver man \[\_Tall\_\] i formelen for å få feltets verdi. Har ikke feltet en verdi (ubesvart/tomt), vil den beregnes med verdien 0 i formelen.
 
@@ -37,7 +41,3 @@ Antall dager mellom datoene Datofelt1 og Datofelt2
 Systemutfylte felter med formel kan ikke brukes til å sammenligne med i regler i skjematypen. Dette kommer av hvordan formlene blir beregnes av systemet.
 
 I et ePROM skjema vil ikke formlene beregnes før skjemaet er levert og ankommet eFORSK.
-
-## Registrerende tilgangenhets id/navn
-
-Anbefales å brukes hvis man har flere tilgangsenheter. Denne vil da sørge for at man kan se hvilken enhet skjemaer er registrert på.
