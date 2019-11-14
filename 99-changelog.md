@@ -21,9 +21,6 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * ePROM: Forbedret valg av varlingskanaler ved ePROM bestilling
 * ePROM: Forbedret funksjonalitet for automatiske ePROM bestillinger
 * ePROM: Forbedret søkefiltre for bestillinger
-
-#### Hvis tid
-
 * Nye regler på datofelt: fortid, mindre enn (verdi), mindre enn annet felt, mindre enn eller lik (verdi), mindre enn eller lik annet felt, større enn (verdi), større enn annet felt, større enn eller lik (verdi), større enn eller lik annet felt, lik (verdi), ulik  (verdi)
 * Nye regler på tallfelt: mindre enn (verdi), mindre enn annet felt, mindre enn eller lik (verdi), mindre enn eller lik annet felt, større enn (verdi), større enn annet felt, større enn eller lik (verdi), større enn eller lik annet felt, lik (verdi), ulik (verdi)
 * Ny regel på avkryssningfelt: påkrevd svar
