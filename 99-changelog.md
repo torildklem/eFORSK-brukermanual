@@ -24,6 +24,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Nye regler på datofelt: fortid, mindre enn (verdi), mindre enn annet felt, mindre enn eller lik (verdi), mindre enn eller lik annet felt, større enn (verdi), større enn annet felt, større enn eller lik (verdi), større enn eller lik annet felt, lik (verdi), ulik  (verdi)
 * Nye regler på tallfelt: mindre enn (verdi), mindre enn annet felt, mindre enn eller lik (verdi), mindre enn eller lik annet felt, større enn (verdi), større enn annet felt, større enn eller lik (verdi), større enn eller lik annet felt, lik (verdi), ulik (verdi)
 * Ny regel på avkryssningfelt: påkrevd svar
+* Nye kommunenummer for 2020 ved personsøk
 
 ## Versjon 1.2 (8. oktober 2019)
 
