@@ -2,7 +2,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 2.0 (planlagt 9. desember 2019)
+## Versjon 2.0 (planlagt 16. desember 2019)
 
 * Mulighet for å sende ut brev (PDF) til personer i personregisteret (helsenorge, sikker digital postkasse eller i posten)
 * Nytt system for samtykkehåndtering
