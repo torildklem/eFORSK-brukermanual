@@ -26,3 +26,7 @@ Skulle et forskningsobjekt levere ett skjema avkrysset "Jeg samtykker ikke", vil
 
 Hvis et forskningsobjektet ønsker å trekke sitt samtykke, må man slette skjemaet som samtykket er gitt på. 
 Har man benyttet seg av samtykkefelter i skjemaet og man har hjemmel til å lagre skjema uten at samtykke foreligger, kan man gjenåpne skjemaet og endre samtykkespørsmålet til "jeg samtykker ikke".
+
+## Trukket samtykke - slette data
+
+Har et forskningsobjekt trukket sitt samtykke må man manuelt slette skjemadataene. De historiske dataene er likevel tilgjengelig i loggen. En funksjon for å slette et helt forskningsobjekt er planlgt å komme i neste versjon av eFORSK (v2.1).
