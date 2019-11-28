@@ -23,7 +23,7 @@ Alle forskningsobjektets samtykker vises på forskningsobjektets side. Merk at s
 
 Databaseansvarlige har tilgang til å slette forskningsobjekter. Dette gjøres eksempelvis hvis et forskningsobjektet trekker sitt samtykke.
 
-Ved sletting beholdes all hendeleslogg på forskningsobjektets unike nøkkel for å overholde krav om sporing, men kobling mot identitet og all data registrert på forskningsobjektet vil slettes. Sletting av data skjer påfølgende natt etter man har slettet forskningsobjektet.
+Ved sletting beholdes all hendelseslogg på forskningsobjektets unike nøkkel for å overholde krav om sporing, men kobling mot identitet og all data registrert på forskningsobjektet vil slettes. Sletting av data skjer automatisk påfølgende natt etter man har slettet forskningsobjektet (årsaken er at et program med forhøyede rettigheter må kjøres for å slette historisk loggførte data).
 
 Hvis forskningsobjektet er en person fra personregisteret: 
 Slettes et slikt forskningsobjekt, fjernes koblingen mot personen for godt. 
