@@ -23,7 +23,7 @@ Lager man en formel (B) som skal hente verdien fra en annen formel (A), er det v
 #### Eksempel 1: enkel formel
 `([_Tall1_] + [_Tall2_]) / [_Tall3_]`
 
-OBS: er det en sjanse for at Tall3 kan være ubesvart, eller 0, vil det deles med 0 som gir feil i utregningen. En løsning kan være;
+OBS: deling på 0 gir feil (ubesvarte felter gir verdi 0 i formler). En løsning kan være;
 
 `([_Tall1_] + [_Tall2_]) / if([_Tall3_]==0, 1, [_Tall3_])`
 
