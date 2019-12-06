@@ -41,10 +41,7 @@ Et typisk eksempel på bruk av gjentagende bestilling er ønske om svar på hels
 
 ## Aktivering
 
-En bestillingsjobb har tre statuser:
-* **Stoppet**: Kun her kan jobben endres (konfigureres). Går man fra en annen status til "stoppet", vil alle bestillinger som er planlagt av jobben avbrytes. Bestillinger som allerede er bestilt røres ikke.
-* **Aktivert i testmodus**: Denne statusen eksisterer slik at man kan se hvordan bestillingsjobben planlegger bestillinger på skjemaer i testmodus.
-* **Aktivert**: I denne statusen vil bestillingsjobben planlegge bestillinger både i og utenfor testmodus.
+En bestilling jobb kan aktiveres individuelt for testmodus og ikke-testmodus. Er den aktivert for en av disse, kan den ikke redigeres. Deaktiveres jobben, vil alle bestillinger som er planlagt av jobben avbrytes. Bestillinger som allerede er bestilt røres ikke.
 
 Endrer man status, vil det startes en prosess med å planlegge og/eller avbryte bestillinger. Mens dette skjer, har man ikke mulighet til å gjøre nye statusendringer eller konfigurasjon. Tiden dette tar avhenger av hvor man skjemaer man har i sin database.
 
