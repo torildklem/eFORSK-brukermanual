@@ -12,6 +12,6 @@ Deaktiveres en tilgangsenhet, vil man ikke kunne logge på denne før den eventu
 
 ## Sletting
 
-Tilgangsenheter som ikke er øverst i treet, som man ikke er pålogget og som ikke har underenheter kan slettes. Dette vil ikke slette eventuelle data registrert på enheten. Det anbefales ikke å slette en tilgangsenheten hvis den har vært i bruk og har data på seg.
+Tilgangsenheter som ikke er øverst i treet, som man ikke er pålogget og som ikke har underenheter kan slettes. Data på enheten kan ikke aksesseres etter sletting. Det anbefales ikke å slette en tilgangsenheten hvis den har vært i bruk og har data på seg.
 
 Tilganger i Falk må slettes manuelt.
