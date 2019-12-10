@@ -40,6 +40,10 @@ Gir høyeste verdi av de tre feltene
 
 Antall dager mellom datoene Datofelt1 og Datofelt2
 
+`([_Datofelt2_] - [_Datofelt1_]) / 32000000`
+
+Antall år mellom datoene Datofelt1 og Datofelt2
+
 #### Begrensninger
 
 Systemutfylte felter med formel kan ikke brukes til å sammenligne med i regler i skjematypen. Dette kommer av hvordan formlene blir beregnes av systemet.
