@@ -42,7 +42,7 @@ Antall dager mellom datoene Datofelt1 og Datofelt2
 
 `([_Datofelt2_] - [_Datofelt1_]) / 32000000`
 
-Antall år mellom datoene Datofelt1 og Datofelt2: Obs: beregning av alder er utfordrende grunnet skuddår.
+Antall år mellom datoene Datofelt1 og Datofelt2. Obs: beregning av alder er utfordrende grunnet skuddår.
 
 #### Begrensninger
 
