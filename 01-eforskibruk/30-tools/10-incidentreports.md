@@ -1,7 +1,5 @@
 # Hendelser
 
-*Dette er funksjonalitet som kommer i v2.0, aktiveres på forespørsel.*
-
 En databaseansvarlig kan sette opp hendelsesovervåkinger. 
 Les mer om hvordan hendelsesovervåkinger fungerer under administrasjon i brukermanualen.
 
