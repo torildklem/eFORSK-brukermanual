@@ -10,8 +10,6 @@ Anbefales å brukes hvis man har flere tilgangsenheter. Denne vil da sørge for 
 
 ## Formel
 
-*Dette er funksjonalitet som blir tilgjengelig i v2.0*
-
 I formler kan man hente inn verdier fra andre felter. Hvis man har et tallfelt med variabelnavn Tall, skriver man \[\_Tall\_\] i formelen for å få feltets verdi. Har ikke feltet en verdi (ubesvart/tomt), vil den beregnes med verdien 0 i formelen.
 
 Datoer vil transformeres til antall sekunder siden 1970 slik at dem kan brukes i formler, se eksempel under.
