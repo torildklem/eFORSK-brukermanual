@@ -46,3 +46,19 @@ Et typisk eksempel er at skjematypen "Spørreskjema 30 dager etter utskrivelse" 
 Skjemaer som fylles ut av skjematypen må være tilknyttet en forskningsobjekttype. Forskningsobjekttyper settes opp under "Administrasjon". Skal man samle inn data på medisiner, må man opprette en forskningsobjekttype som heter "Medisiner", og deretter velge denne ved opprettelse av skjematypen. 
 
 Skal man bruke ePROM er man nødt til å velge "Personer fra personregisteret". "Personer fra personregisteret" gir også en del ekstra muligheter for data med systemutfylte felter, for eksempel kjønn og adresse.
+
+## Bygg ny skjematype fra regneark
+
+En alternativ måte å raskt komme i gang med å bygge en skjematype er å lage seg et regneark med variabler og eksempeldata.
+
+| Spoersmal1 |	EtTall |	EtAnnetTall |	FriTekst |	Skala |	BesoksDato |
+| -- |	-- |	-- |	-- |	-- |	-- |
+| 1: Ja	| -5	| 1.01 | Tekst| 	1: Veldig bra| 	22.10.2019 |
+| 2: Nei	| 10	| | 	|	2: Ganske bra	| |
+| 9: Ukjent  | | | 	|		3: Middels	
+| | | | | 			4: Ganske dårlig	| |
+| | | | | 				5: Veldig dårlig	| |
+
+Regnearket importerer man så under "Verktøy" og "Importer data". Der velger man "Opprett ny skjematype fra importdata". Variablene anaylseres, og man må gå over og velge riktig felttype før man går videre til skjemabyggeren.
+
+Systemutfylte felter (fødselsnummer, kjønn osv), samtykkefelter og randomiserte felter skal ikke tas med i regnearket, men opprettes i skjemabyggeren etterpå.
