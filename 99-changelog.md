@@ -2,7 +2,17 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 2.0 (planlagt 16. desember 2019)
+## Versjon 2.1 (dato ikke bestemt)
+
+* Mulighet for å slette forskningsobjekter
+* Mulighet for å deaktivere og slette tilgangsenheter
+* Forbedringer rundt visning av tilgangsenhet
+* ePROM: Nytt valg i skjemabygger for å ikke sende kopi av besvart skjema til utfyller sin Helsenorge-konto eller digitale postkasse
+* Skjemabygger: mulighet for  å flytte til topp eller bunn av gruppe
+* Separat applikasjon for å lese brukermanualen
+* Monitorfunksjon?
+
+## Versjon 2.0 (16. desember 2019)
 
 * Mulighet for å sende ut brev (PDF) til personer i personregisteret (helsenorge, sikker digital postkasse eller i posten)
 * Nytt system for samtykkehåndtering
