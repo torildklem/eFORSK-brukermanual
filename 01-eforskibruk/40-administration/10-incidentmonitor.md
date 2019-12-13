@@ -1,7 +1,5 @@
 # Hendelsesovervåking
 
-*Dette er funksjonalitet som kommer i v2.0, aktiveres på forespørsel.*
-
 Dette er et system for å lytte på hendelser i eFORSK og varsle om dette.
 
 ## Typer overvåking
