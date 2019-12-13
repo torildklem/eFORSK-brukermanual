@@ -21,13 +21,13 @@ I Helsenorge kan mottaker ha satt opp varsling på SMS eller e-post når det kom
 Dette er også en sikker kanal, og består av tjenestene Digipost og E-box. Hvis mottaker har registrert seg på noen av disse vil dette brukes som varslingskanal.
 I sikker digital postkasse kan mottaker ha satt opp varsling på SMS eller e-post når det kommer en melding. Bruk av denne kanalen medfører kostnader.
 
-#### 3. E-post *(kommer i v2.0)*
+#### 3. E-post
 
 Denne kanalen kan nyttes hvis mottaker har en e-postadresse oppført i kontaktregistret (difi).
 E-post er en usikret kanal, og informasjonen som sendes hit er veldig begrenset. Den er prioritert over SMS da det er mulighet for mer tekst i en e-post. 
 Les mer om hvordan e-post er utformet: <a href="https://eprom.hemit.org/PasientskjemaViaEpostSms" target="_blank">ePROM dokumentasjon</a>.
 
-#### 4. SMS *(kommer i v2.0)*
+#### 4. SMS
 
 Denne kanalen kan nyttes hvis mottaker har et telefonnummer oppført i kontaktregistret (difi).
 SMS er som e-post en usikret kanal, og hit sendes det en veldig kort tekst.
