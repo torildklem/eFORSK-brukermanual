@@ -8,7 +8,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Mulighet for å deaktivere og slette tilgangsenheter
 * Forbedringer rundt visning av tilgangsenhet
 * ePROM: Nytt valg i skjemabygger for å ikke sende kopi av besvart skjema til utfyller sin Helsenorge-konto eller digitale postkasse
-* ePROM: når papirskjema i posten ikke kommer frem til mottaker og blir returneret (grunnet feil adresse f.eks.) blir status på bestillingen nå "Feilet" istedenfor "Utgått", da status "Utgått" kun burde brukes for digitale bestillinger der mottaker har hatt en mulighet til å svare.
+* ePROM: når papirskjema i posten ikke kommer frem til mottaker og blir returneret (grunnet feil adresse f.eks.) blir status på bestillingen nå "Feilet" istedenfor tidligere "Utgått", da status "Utgått" kun burde brukes for digitale bestillinger der mottaker har hatt en mulighet til å svare.
 * Skjemabygger: mulighet for  å flytte til topp eller bunn av gruppe
 * Separat applikasjon for å lese brukermanualen
 * Monitorfunksjon?
