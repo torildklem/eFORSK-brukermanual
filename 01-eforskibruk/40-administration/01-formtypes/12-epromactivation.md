@@ -2,7 +2,7 @@
 
 Aktiverer man ePROM vil det i øyeblikket skjemaet publiseres bli kopiert til den eksterne ePROM-løsningen.
 I testmodus kan man umiddelbart bestille ePROM av skjematypen, mens utenfor testmodus må det testes og godkjennes 
-av eFORSK administrator før det kan bestilles.
+av eFORSK fagansvarlig før det kan bestilles. Send e-post til eforsk@hemit.no når man har testet ferdig det digitale ePROM skjemaet for å få det aktivert.
 
 ## Utfylling via lenke (Personinitiert utfylling)
 
@@ -15,7 +15,7 @@ Husk at det ved distribusjon av lenken ikke må avsløres mottakers sykdommer, h
 
 ## Papirskjema
 
-Skal man støtte papirutsendelse av skjemaet må det aktivt velges, da dette medfører kostnader for etablering, utsendelse og innskanning. Prosessen med å få klargjort papirskjemaet vil ta flere uker. Digital utsendelse kan likevel godkjennes og tas i bruk i påvente av at papirskjemaet klargjøres.
+Skal man støtte papirutsendelse av skjemaet må det aktivt velges, da dette medfører kostnader for etablering, utsendelse og innskanning. Her må prosjektleder fra Hemit involveres, ta kontakt på eforsk@hemit.no for å komme i gang. Prosessen med å få klargjort papirskjemaet vil ta flere uker. Digital utsendelse kan likevel godkjennes og tas i bruk i påvente av at papirskjemaet klargjøres.
 
 Skanning og tolkning av svar skjer hos ekstern leverandør, og her tolkes alt annet enn kryss dårlig. Det vil si at felter med tall og tekst må manuelt sjekkes opp og korrigeres inne i eFORSK etter at svaret er mottatt. Derfor er det ikke anbefalt å aktivere papirskjema på annet enn skjemaer som kun inneholder valgfelt og avkrysningsfelt hvis det forventes mange svar, da det krever etterarbeid å gå igjennom disse. 
 
