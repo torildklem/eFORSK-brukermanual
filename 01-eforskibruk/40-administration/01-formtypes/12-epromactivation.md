@@ -4,9 +4,9 @@ Aktiverer man ePROM vil det i øyeblikket skjemaet publiseres bli kopiert til de
 I testmodus kan man umiddelbart bestille ePROM av skjematypen, mens utenfor testmodus må det testes og godkjennes 
 av eFORSK fagansvarlig før det kan bestilles. Send e-post til eforsk@hemit.no når man har testet ferdig det digitale ePROM skjemaet for å få det aktivert.
 
-## Utfylling via lenke (Personinitiert utfylling)
+## Utfylling via lenke
 
-Huker man av for utfylling via lenke (personinitiert utfylling) vil man få en lenke som kan distribueres til forskningsobjekter man ønsker skal besvare skjemaet.
+Huker man av for utfylling via lenke vil man få en lenke som kan distribueres til forskningsobjekter man ønsker skal besvare skjemaet.
 Her trenger det altså ikke å foreligge bestilling fra eFORSK for å få inn svar. Merk at det vil være en lenke for testmodus og en lenke for ikke-testmodus. Det er viktig å distribuere riktig lenke.
 
 Selv om man har aktivert denne funksjonen kan man likevel bestille skjemautfyllelse på vanlig måte i eFORSK. Funksjonene kan kombineres som man vil.
