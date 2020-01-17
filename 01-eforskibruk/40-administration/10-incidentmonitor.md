@@ -28,7 +28,7 @@ Eksempel 2: Bestilling sendt som fysisk post oppnår status "besvart".
 
 ## Hendelse
 
-Hendelser dukker opp under "Verktøy" i eFORSK. Dette kan leses om tilsvarende sted i brukermanualen.
+Hendelser dukker opp under "Verktøy" i eFORSK. Dette kan leses om tilsvarende sted i brukermanualen. Dette kan kun sees av databaseansvarlige, dataansvarlige og registrarer.
 
 ## Varsling
 
