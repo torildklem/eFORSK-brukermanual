@@ -8,7 +8,7 @@ Et skjema er en utfyllelse/besvarelse av en skjematype. Et skjema tilhører ett 
 * **Til kontroll** - Det er to scenarier for denne statusen: 1. Bruker med rollen *databaseansvarlig*, *dataansvarlig* eller *monitor* kan returnere skjema til kontroll av skjemaeier sammen med en årsakstekst. 2. Ved bestilling av skjemautfyllelse (ePROM), kan ePROM sende advarsler om mulige feil i skjemadata på svarskjema og skjemaet får dermed statusen "Til kontroll". For papirskjema må signert samtykke manuelt kontrolleres. Et skjema til kontroll må gjenåpnes før det kan redigeres og ferdigstilles på nytt. 
 * **Ferdigstilt** - Et ferdigstilt skjema kan ikke endres, men kan gjenåpnes til kladd eller sendes til kontroll. 
 * **Monitorert** - Kun brukere med rollen *monitor* eller *databaseansvarlig* kan føre ferdigstilte skjema til denne statusen.
-* **Slettet** - Et slettet skjema vil ikke lenger være tilgjengelig. 
+* **Slettet** - Et slettet skjema vil ikke lenger være tilgjengelig. Det eksisterer likevel i hendelsesloggen for å overholde krav om sporbarhet.
 
 Et skjema ønsker å oppnå statusen "ferdigstilt". Hvis man benytter monitorrollen ønsker skjemaet å oppnå statusen "monitorert". Et skjema som ikke er ferdigstilt eller monitorert sies å være i arbeid.
 
