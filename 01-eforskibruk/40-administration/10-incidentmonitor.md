@@ -72,3 +72,5 @@ Valg om at en hendelsesovervåking sine rapporter kun skal kunne håndteres på 
 Valg om hvilke tilgangsenheter en hendelsesovervåking er aktivert for. Som standard overvåkes alle.
 
 Valg om hvem hendelsesovervåkingen sin rapport er synlig for, eksempelvis kun for den som opprettet objektet det er en hendelse for.
+
+Mulighet for å automatisk sette en hendelses som håndtert enten momentant eller etter angitt antall dager
