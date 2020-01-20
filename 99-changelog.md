@@ -39,6 +39,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Nye kommunenummer for 2020 ved personsøk
 #### Kjente feil
 * Kan ikke se hendelser med rollen dataansvarlig
+* Ustabilitet/feil ved drag-drop sortering av felter inne på en skjematype
 
 ## Versjon 1.2 (8. oktober 2019)
 
