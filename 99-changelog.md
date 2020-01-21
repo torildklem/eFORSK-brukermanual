@@ -12,6 +12,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * ePROM: når papirskjema i posten ikke kommer frem til mottaker og blir returneret (grunnet feil adresse f.eks.) blir status på bestillingen nå "Feilet" istedenfor tidligere "Utgått", da status "Utgått" kun burde brukes for digitale bestillinger der mottaker har hatt en mulighet til å svare.
 * Skjemabygger: mulighet for  å flytte til topp eller bunn av gruppe
 * Separat applikasjon for å lese brukermanualen
+* Forbedret grensesnitt rundt redigering av rekkefølge på felter. Fikset feil ved lagring av ny rekkefølge
 * Monitorfunksjon?
 
 ## Versjon 2.0 (16. desember 2019)
@@ -39,7 +40,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Nye kommunenummer for 2020 ved personsøk
 #### Kjente feil
 * Kan ikke se hendelser med rollen dataansvarlig
-* Ustabilitet/feil ved drag-drop sortering av felter inne på en skjematype
+* Feil ved lagring av sortering av felter inne på en skjematype
 
 ## Versjon 1.2 (8. oktober 2019)
 
