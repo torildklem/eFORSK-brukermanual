@@ -9,7 +9,7 @@ Hvis man ønsker at det automatisk skal bestilles skjemautfyllelse fra personer
 eksempelvis 30 dager etter at et skjema ferdigstilles, må man sette opp en bestillingsjobb. 
 
 I utgangspunktet 
-kan man sette opp at et skjema av hvilken som helst skjematype trigger bestiller skjemautfyllelse av hvilken 
+kan man sette opp at et skjema av hvilken som helst skjematype automatisk bestiller skjemautfyllelse av hvilken 
 som helst ePROM aktiverte skjematype. Det vanligste eksempelet er at man har en foreldreskjematype som bestiller utfyllelse 
 av en tilknyttet skjematype:
 
