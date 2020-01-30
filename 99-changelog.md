@@ -11,6 +11,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * ePROM: Nytt valg i skjemabygger for å ikke sende kopi av besvart skjema til utfyller sin Helsenorge-konto eller digitale postkasse
 * ePROM: når papirskjema i posten ikke kommer frem til mottaker og blir returneret (grunnet feil adresse f.eks.) blir status på bestillingen nå "Feilet" istedenfor tidligere "Utgått", da status "Utgått" kun burde brukes for digitale bestillinger der mottaker har hatt en mulighet til å svare.
 * ePROM: mulighet for å spesifisere avsendernavn
+* ePROM: mulighet ved bestilling å forhindre bestilling hvis forskningsobjektet allerede har et skjema eller en aktiv (status: planlagt eller bestilt) bestilling av valgt skjematype
 * Skjemabygger: mulighet for  å flytte til topp eller bunn av gruppe
 * Separat applikasjon for å lese brukermanualen
 * Forbedret grensesnitt rundt redigering av rekkefølge på felter. Fikset feil ved lagring av ny rekkefølge
