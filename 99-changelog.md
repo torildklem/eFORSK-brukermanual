@@ -17,6 +17,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Forbedret grensesnitt rundt redigering av rekkefølge på felter. Fikset feil ved lagring av ny rekkefølge
 * Mulighet for å legge inn kommentarer på forskningsobjekter og i skjemaer
 * Massevisningsmodus for skjema, nytt valg under "bruk disse" i skjemautlistinger
+* Nye systemutfylte felter: Monitoreringsstatus og samtykkestatus
 * Monitorfunksjon?
 
 ## Versjon 2.0 (16. desember 2019)
