@@ -16,3 +16,6 @@ Leser kan kun lese data fra databasen og kan ikke registrere ny data.
 
 ## Leser anonymisert
 Leser anonymisert kan kun lese ikke-identifiserbar data fra databasen og kan ikke registrere ny data.
+
+## Monitor
+Monitor kan monitorere skjema.
