@@ -15,10 +15,11 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Skjemabygger: mulighet for  å flytte til topp eller bunn av gruppe
 * Separat applikasjon for å lese brukermanualen
 * Forbedret grensesnitt rundt redigering av rekkefølge på felter. Fikset feil ved lagring av ny rekkefølge
+* Forbedret grensesnitt på skjemasiden (statusendring)
 * Mulighet for å legge inn kommentarer på forskningsobjekter og i skjemaer
 * Massevisningsmodus for skjema, nytt valg under "bruk disse" i skjemautlistinger
+* Støtte for enkel monitorering av skjema
 * Nye systemutfylte felter: Monitoreringsstatus og samtykkestatus
-* Monitorfunksjon?
 
 ## Versjon 2.0 (16. desember 2019)
 
