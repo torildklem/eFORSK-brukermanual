@@ -20,3 +20,12 @@ I noen prosjekt velger man å ha flere koblede skjematyper; disse består av en 
 Et underskjema vil typisk være et oppfølgingsskjema og må kobles til et foreldreskjema (kan være hovedskjema eller underskjema). Et hovedskjema kan ikke kobles til andre skjema.
             
 Velger man å fylle ut et underskjema for et forskningsobjekt som ikke har sitt foreldreskjema registrert fra før, får man muligheten til å opprette en kladd og koble underskjemaet til dette. Foreldreskjemaet kan da fylles ut senere.
+
+## Monitorering
+
+Dette er en funksjon som man må få aktivert for sin database av eFORSK fagansvarlig.
+
+Brukere med rollen "Monitor" eller "Databaseansvarlig" får mulighet for å sette monitoreringsstatus på skjemaer. Følgende statuser finnes:
+* **Ikke vurdert** - Grunntilstanden til et skjema
+* **Til monitorering** - Skjemaet er under monitorering. Skjemaer kan aktiveres for monitorerings uansett skjemastatus. Ferdigstilte skjema med denne monitoreringsstatusen dukker opp på arbeidslista på startsiden.
+* **Godkjent** - Monitoreringen er godkjent. Skjemastatusen må være "Ferdigstilt" for at monitorering skal kunne bli "Godkjent". Hvis skjemaet gjenåpnes vil monitoreringsstatusen settes tilbake til "Til monitorering".
