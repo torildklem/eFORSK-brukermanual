@@ -16,7 +16,7 @@ ePROM
 
 Forskningsobjekter
 *	Lese identifisert
-*	Behandle forskningsobjekter (opprette, endre, sette samtykke)
+*	Behandle forskningsobjekter (opprette, endre)
 
 Verktøy
 *	Last ned metadata
