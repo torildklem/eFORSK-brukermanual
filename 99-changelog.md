@@ -20,6 +20,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Massevisningsmodus for skjema, nytt valg under "bruk disse" i skjemautlistinger
 * Støtte for enkel monitorering av skjema
 * Nye systemutfylte felter: Monitoreringsstatus og samtykkestatus
+* Wysiwig tekstredigering på enkelte steder
 
 ## Versjon 2.0 (16. desember 2019)
 
