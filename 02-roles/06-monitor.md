@@ -10,3 +10,6 @@ Skjema
 
 Forskningsobjekter
 *	Lese identifisert
+
+Verktøy
+* Håndtere hendelser 
