@@ -4,10 +4,10 @@ Et skjema er en utfyllelse/besvarelse av en skjematype. Et skjema tilhører ett 
 
 ## Skjemastatus
 
-* **Kladd** - Grunntilstand når et nytt skjema blir opprettet. Dette er den eneste statusen hvor skjemadata kan endres. 
-* **Til kontroll** - Det er to scenarier for denne statusen: 1. Bruker med rollen *databaseansvarlig*, *dataansvarlig* eller *monitor* kan returnere skjema til kontroll av skjemaeier sammen med en årsakstekst. 2. Ved bestilling av skjemautfyllelse (ePROM), kan ePROM sende advarsler om mulige feil i skjemadata på svarskjema og skjemaet får dermed statusen "Til kontroll". For papirskjema må signert samtykke manuelt kontrolleres. Et skjema til kontroll må gjenåpnes før det kan redigeres og ferdigstilles på nytt. 
-* **Ferdigstilt** - Et ferdigstilt skjema kan ikke endres, men kan gjenåpnes til kladd eller sendes til kontroll. 
-* **Slettet** - Et slettet skjema vil ikke lenger være tilgjengelig. Det eksisterer likevel i hendelsesloggen for å overholde krav om sporbarhet.
+* **Kladd** (0) - Grunntilstand når et nytt skjema blir opprettet. Dette er den eneste statusen hvor skjemadata kan endres. 
+* **Til kontroll** (2) - Det er to scenarier for denne statusen: 1. Bruker med rollen *databaseansvarlig*, *dataansvarlig* eller *monitor* kan returnere skjema til kontroll av skjemaeier sammen med en årsakstekst. 2. Ved bestilling av skjemautfyllelse (ePROM), kan ePROM sende advarsler om mulige feil i skjemadata på svarskjema og skjemaet får dermed statusen "Til kontroll". For papirskjema må signert samtykke manuelt kontrolleres. Et skjema til kontroll må gjenåpnes før det kan redigeres og ferdigstilles på nytt. 
+* **Ferdigstilt** (1) - Et ferdigstilt skjema kan ikke endres, men kan gjenåpnes til kladd eller sendes til kontroll. 
+* **Slettet** (9) - Et slettet skjema vil ikke lenger være tilgjengelig. Det eksisterer likevel i hendelsesloggen for å overholde krav om sporbarhet.
 
 Et skjema ønsker å oppnå statusen "ferdigstilt". Et skjema som ikke er ferdigstilt sies å være i arbeid.
 
@@ -26,6 +26,6 @@ Velger man å fylle ut et underskjema for et forskningsobjekt som ikke har sitt 
 Dette er en funksjon som man må få aktivert for sin database av eFORSK fagansvarlig.
 
 Brukere med rollen "Monitor" eller "Databaseansvarlig" får mulighet for å sette monitoreringsstatus på skjemaer. Følgende statuser finnes:
-* **Ikke vurdert** - Grunntilstanden til et skjema
-* **Til monitorering** - Skjemaet er under monitorering. Skjemaer kan aktiveres for monitorerings uansett skjemastatus. Ferdigstilte skjema med denne monitoreringsstatusen dukker opp på arbeidslista på startsiden.
-* **Godkjent** - Monitoreringen er godkjent. Skjemastatusen må være "Ferdigstilt" for at monitorering skal kunne bli "Godkjent". Hvis skjemaet gjenåpnes vil monitoreringsstatusen settes tilbake til "Til monitorering".
+* **Ikke vurdert** (0) - Grunntilstanden til et skjema
+* **Til monitorering** (8) - Skjemaet er under monitorering. Skjemaer kan aktiveres for monitorerings uansett skjemastatus. Ferdigstilte skjema med denne monitoreringsstatusen dukker opp på arbeidslista på startsiden.
+* **Godkjent** (1) - Monitoreringen er godkjent. Skjemastatusen må være "Ferdigstilt" for at monitorering skal kunne bli "Godkjent". Hvis skjemaet gjenåpnes vil monitoreringsstatusen settes tilbake til "Til monitorering".
