@@ -19,7 +19,7 @@ Alle forskningsobjektets samtykker vises på forskningsobjektets side. Merk at s
 
 ## Sletting
 
-*Funksjonalitet for sletting kommer i versjon 2.1.*
+*Funksjonalitet for sletting kommer i versjon 3.0.*
 
 Databaseansvarlige har tilgang til å slette forskningsobjekter. Dette gjøres eksempelvis hvis et forskningsobjekt trekker sitt samtykke.
 
