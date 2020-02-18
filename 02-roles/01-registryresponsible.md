@@ -16,6 +16,7 @@ Skjema
 *	Behandle egne skjema (opprette, endre, slette, ferdigstille og returnere)
 *	Lese alle skjema
 *	Behandle alle skjema (opprette, endre, slette, ferdigstille og returnere)
+* Eksportere skjema
 * Monitorere
 
 ePROM
