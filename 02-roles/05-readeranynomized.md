@@ -8,6 +8,7 @@ databasen og kan ikke registrere ny data.
 Skjema
 *	Lese egne skjema
 *	Lese alle skjema
+* Eksportere skjema
 
 ePROM
 *	Lese skjemabestillinger
