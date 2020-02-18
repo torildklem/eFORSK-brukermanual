@@ -7,6 +7,7 @@ En bruker med rollen *leser* kan kun lese data fra databasen og kan ikke registr
 Skjema
 *	Lese egne skjema
 *	Lese alle skjema
+* Eksportere skjema
 
 ePROM
 *	Lese skjemabestillinger
