@@ -9,6 +9,7 @@ registrerte skjema, og kun se eksistens (ikke data) av andres skjema.
 Skjema
 *	Lese egne skjema
 *	Behandle egne skjema (opprette, endre, slette, ferdigstille og returnere)
+* Eksportere skjema
 
 ePROM
 *	Lese skjemabestillinger
