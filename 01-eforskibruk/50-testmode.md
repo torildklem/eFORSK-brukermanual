@@ -15,7 +15,7 @@ Testmodus slås av og på oppe i høyre hjørne.
 
 Testpersoner i Personregisteret kan ikke regnes som stabile, da dem kan slettes eller lages på nytt. Det kan derfor skje at man ikke får treff på testpersonene man søker opp.
 
-Her følger noen testpersoner som kan søkes opp i testmodus:
+Her følger noen testpersoner som kan søkes opp i testmodus (disse har ikke BankID, skal man fylle ut ePROM må velge "jeg vil varsle selv" og bruke koden sammen med fødselsdato):
 
 * 29034402041 Millie Juliussen
 * 17094393213 Ina Dahl
