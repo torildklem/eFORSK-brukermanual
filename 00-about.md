@@ -1,4 +1,4 @@
-# HVa er eFORSK?
+# Hva er eFORSK?
 
 eFORSK er en løsning for innsamling av forskningsdata ved bruk av et skjema, elektronisk eller på papir (CRF). Som forsker kan du utforme skjema selv og det er mulig å hente inn svar fra pasienter/innbyggere elektronisk.
 
