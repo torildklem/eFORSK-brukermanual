@@ -2,7 +2,7 @@
 
 eFORSK er en løsning for innsamling av forskningsdata ved bruk av et skjema, elektronisk eller på papir (CRF). Som forsker kan du utforme skjema selv og det er mulig å hente inn svar fra pasienter/innbyggere elektronisk.
 
-eForsk er plattformuavhengig og kan benyttes fra alle datamaskiner med internett-tilgang uten ekstra installasjoner på den lokale PC'en. eForsk tillater nedlasting av data etter studieavslutning for statistisk behandling.
+eFORSK er plattformuavhengig og kan benyttes fra alle datamaskiner med internett-tilgang uten ekstra installasjoner på den lokale PC'en. eForsk tillater nedlasting av data etter studieavslutning for statistisk behandling.
 
 ## Bruksområde
 eFORSK er tilpasset nasjonale multisenterstudier med enkel randomisering av pasientene, og tilbyr elektronisk pasientrapportering.
