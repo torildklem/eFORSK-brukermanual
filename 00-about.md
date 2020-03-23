@@ -12,4 +12,4 @@ Det er laget en <a href="https://www.youtube.com/watch?v=gLJuXp_MljA" target="_b
 samt et <a href="https://github.com/HemitSystemutvikling/eFORSK/raw/master/eFORSK_produktark.pdf" target="_blank">produktark</a> med mer utfyllende informasjon om funksjoner og eksempler på skjermbilder.
 
 ## Jeg ønsker å ta i bruk eFORSK
-Bruk av løsningen er gratis for ansatte ved Helse Midt-Norge og NTNU. Dersom du ønsker å bruke eFORSK til ditt forskningsprosjekt, ta kontakt med forskningsavdeling i ditt foretak. Kontaktinformasjon finner du på <a href="https://www.helseforskningsportalen.no/#" target="_blanck">https://www.helseforskningsportalen.no/</a>.
+Bruk av løsningen er gratis for ansatte ved Helse Midt-Norge og NTNU. Dersom du ønsker å bruke eFORSK til ditt forskningsprosjekt, ta kontakt med forskningsavdeling i ditt foretak. Kontaktinformasjon finner du på <a href="https://www.helseforskningsportalen.no/#" target="_blanck">helseforskningsportalen.no</a>.
