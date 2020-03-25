@@ -50,6 +50,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Ny regel på avkryssningfelt: påkrevd svar
 * Nye kommunenummer for 2020 ved personsøk
 #### Kjente feil
+* Eksport av ePROM bestillinger eksporetet maksimum 25 stk
 * Kan ikke se hendelser med rollen dataansvarlig
 * Feil ved lagring av sortering av felter inne på en skjematype
 
