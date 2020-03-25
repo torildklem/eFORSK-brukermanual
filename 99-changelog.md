@@ -22,9 +22,11 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Nye systemutfylte felter: Monitoreringsstatus og samtykkestatus
 * Wysiwig tekstredigering på enkelte steder
 #### Feilretting
-* Rettet feil der eksport av ePROM bestillinger eksporterte maksimum 25 stk
 * Rettet feil der dataansvarlig ikke kunne se hendelser
 * Rettet feil ved lagring av sortering av felter inne på en skjematype
+
+## Versjon 2.0.1 (mars 2019)
+* Rettet feil der eksport av ePROM bestillinger eksporterte maksimum 25 stk
 
 ## Versjon 2.0 (16. desember 2019)
 
