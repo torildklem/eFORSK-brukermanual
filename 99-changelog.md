@@ -25,7 +25,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Rettet feil der dataansvarlig ikke kunne se hendelser
 * Rettet feil ved lagring av sortering av felter inne på en skjematype
 
-## Versjon 2.0.1 (mars 2019)
+## Versjon 2.0.1 (mars 2020)
 * Rettet feil der eksport av ePROM bestillinger eksporterte maksimum 25 stk
 
 ## Versjon 2.0 (16. desember 2019)
