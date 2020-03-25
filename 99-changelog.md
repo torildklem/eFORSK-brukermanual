@@ -2,7 +2,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 3.0 (planlagt slutten av mars 2020)
+## Versjon 3.0 (~april 2020 - forsinkelser pga covid19)
 
 * Mulighet for å slette forskningsobjekter
 * Mulighet for å deaktivere og slette tilgangsenheter
@@ -21,6 +21,10 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Støtte for enkel monitorering av skjema
 * Nye systemutfylte felter: Monitoreringsstatus og samtykkestatus
 * Wysiwig tekstredigering på enkelte steder
+#### Feilretting
+* Rettet feil der eksport av ePROM bestillinger eksporterte maksimum 25 stk
+* Rettet feil der dataansvarlig ikke kunne se hendelser
+* Rettet feil ved lagring av sortering av felter inne på en skjematype
 
 ## Versjon 2.0 (16. desember 2019)
 
