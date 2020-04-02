@@ -10,9 +10,9 @@ I samme prosess må vedkommende velge å samtykke til at data lagres i databasen
 ## Varslingskanaler
 
 Ved bestilling av skjemautfyllelse bestemmer man om man vil varsle mottaker selv eller om ePROM skal sende ut varsel.
-Velger man å varsle mottar selv er man selv ansvarlig for at dette gjøres på et lovlig vis uten å eksponere sensitiv data om mottaker. Velger man å sende varsel til mottar vil systemene sørge for å varsle på en trygg måte, så lenge man har satt opp avsendernavn og tekster på riktig måte.
+Velger man å varsle mottaker selv er man selv ansvarlig for at dette gjøres på et lovlig vis uten å eksponere sensitive data om mottaker. Velger man å sende varsel til mottaker vil systemene sørge for å varsle på en trygg måte, så lenge man har satt opp avsendernavn og tekster på riktig måte.
 
-### Jeg vil varsle mottar selv
+### Jeg vil varsle mottaker selv
 
 Her vil man få en kode som man sammen med fødselsdatoen til mottaker kan bruke for å logge seg på og besvare skjemaet. Denne koden må man selv distribuere til mottaker.
 Dette valget får man ikke på samtykkeskjema der man skal innhente signatur ved ePROM besvarelse, for her kreves det at mottaker identifiserer seg med BankID.
