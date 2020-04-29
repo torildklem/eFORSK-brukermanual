@@ -55,7 +55,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Eksport av ePROM bestillinger eksporterer maksimum 25 stk
 * Kan ikke se hendelser med rollen dataansvarlig
 * Feil ved lagring av sortering av felter inne på en skjematype
-* Lang avsendernavn på brevutsendelse vil skape feil ved utsendelse i ePROM, bør holde seg innenfor 21 tegn inntil videre
+* Lang avsendernavn på brevutsendelse vil skape feil ved utsendelse i ePROM, bør holde seg innenfor 21 tegn inntil videre (løses sansynligvis med ny versjon av ePROM 14. mai)
 
 ## Versjon 1.2 (8. oktober 2019)
 
