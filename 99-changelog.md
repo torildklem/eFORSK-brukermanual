@@ -2,7 +2,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 3.0 (kommer i 2020 - forsinkelser pga kapasitet)
+## Versjon 3.0 (26. oktober 2020)
 
 * Mulighet for å slette forskningsobjekter
 * Mulighet for å deaktivere og slette tilgangsenheter
