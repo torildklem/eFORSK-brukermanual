@@ -19,8 +19,6 @@ Alle forskningsobjektets samtykker vises på forskningsobjektets side. Merk at s
 
 ## Sletting
 
-*Funksjonalitet for sletting kommer i versjon 3.0.*
-
 Databaseansvarlige har tilgang til å slette forskningsobjekter. Dette gjøres eksempelvis hvis et forskningsobjekt trekker sitt samtykke.
 
 Sletter man et forskningsobjekt vil det i praksis kun deaktiveres. For å overholde krav om sporing vil forskningsobjektet eksistere videre, men all skjemadata vil slettes og forskningsobjektet vil ikke kunne brukes. All hendelseslogg forblir urørt. Sletting av skjemadata skjer automatisk påfølgende natt etter man har slettet forskningsobjektet (årsaken er at et program med forhøyede rettigheter må kjøres for å slette historisk loggførte data).
