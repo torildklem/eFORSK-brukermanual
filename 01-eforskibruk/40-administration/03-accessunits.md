@@ -8,13 +8,9 @@ En database av enkleste form vil kun ha en stykk tilgangsenhet, man trenger da i
 
 ## Deaktivering
 
-*Dette blir tilgjengelig v2.1*
-
 Deaktiveres en tilgangsenhet, vil man ikke kunne logge på denne før den eventuelt reaktiveres igjen. Man kan ennå velge tilgangsenheten i Falk, men pålogging vil ikke føre frem.
 
 ## Sletting
-
-*Dette blir tilgjengelig v2.1*
 
 Man kan slette tilgangsenheter som ikke er øverst i treet, som man ikke er pålogget og som ikke har underenheter. Data på tilgangsenheten blir ikke tilgjengelig etter sletting. Det anbefales ikke å slette en tilgangsenheten hvis den har vært i bruk og har data på seg.
 
