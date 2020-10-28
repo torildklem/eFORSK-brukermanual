@@ -2,6 +2,10 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Versjon 3.0.1 (kommer asap)
+### Feilretting
+* Rettet feil ved bruk av LeserAnonymisert rollen
+
 ## Versjon 3.0 (26. oktober 2020)
 
 * Mulighet for å slette forskningsobjekter
