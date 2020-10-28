@@ -66,7 +66,9 @@ Bestillingen er sendt ut, og det ventes på svar.
 Et svar har ankommet eFORSK.
 
 #### Utgått
-Bestilling er ikke besvart innen utløpsfristen. Merk at en ubesvart papirskjemabestilling aldri løper ut på dato, svaret kan komme inn når som helst frem i tid. Et unntak er hvis brevet til mottaker kommer i retur på grunn av feil adresse, bestillingen vil da i eFORSK få statusen "utløpt" med en kommentar.
+Bestilling er ikke besvart innen utløpsfristen. 
+For påstartede besvarelser via lenke som ikke blir fullført, vil det dukke opp en bestilling med denne statusen i eFORSK to dager etterpå.
+Merk at en ubesvart papirskjemabestilling aldri løper ut på dato, svaret kan komme inn når som helst frem i tid.
 
 #### Feilet
 Se mer spesifikk feilmelding ved siden av statusen.
