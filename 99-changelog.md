@@ -3,9 +3,9 @@
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
 ## Versjon 3.0.1 (kommer 5. november)
+* Hvis en person starter utfylling av ePROM via lenke, men ikke fullfører/leverer, vil dette dukke opp som en utløpt ePROM bestilling i eFORSK to dager etterpå
 ### Feilretting
 * Rettet feil ved bruk av LeserAnonymisert rollen
-* Hvis en person starter utfylling av ePROM via lenke, men ikke fullfører/leverer, vil dette dukke opp som en utløpt ePROM bestilling i eFORSK to dager etterpå
 
 ## Versjon 3.0 (26. oktober 2020)
 
