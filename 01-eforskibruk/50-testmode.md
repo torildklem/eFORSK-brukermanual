@@ -26,7 +26,7 @@ Her følger noen testpersoner som kan søkes opp i testmodus (disse har ikke Ban
 * 03084298181 Jorge Løkken
 * 30030125521 Kai Axel Thomassen (død)
 
-Testpersoner med helsenorge.no konto (<a href="https://minhelse.hn2.test.nhn.no/" target="_blank">åpne helsenorge.no i testmodus</a>):
+Testpersoner med helsenorge.no konto (<a href="https://minhelse.hn2.test.nhn.no/" target="_blank">åpne helsenorge.no i testmodus</a> - kan kun nåes fra helsenettet):
 
 * 16059492563
 * 16059498324
