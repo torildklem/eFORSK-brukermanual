@@ -2,7 +2,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 3.1 (under planlegging)
+## Versjon 3.1 (under utvikling)
 * Skjemabygger: Mulighet for å kopiere grupper
 * Brevutsendelse: Mulighet for farger
 * Mulighet for å opprette skjema på flere forskningsobjekter samtidig, for videre utfylling i massevisningsmodus
