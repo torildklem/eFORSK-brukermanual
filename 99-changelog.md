@@ -6,6 +6,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Skjemabygger: Mulighet for å kopiere grupper
 * Brevutsendelse: Mulighet for farger
 * Mulighet for å opprette skjema på flere forskningsobjekter samtidig, for videre utfylling i massevisningsmodus
+* Randomisering: Randomiseringsresulateter vil nå vises ved eksport av skjemadata selv om randomiseringen ikke er avsluttet, mens blokkstørrelsene vil skjules isteden
 
 ## Versjon 3.0.1 (kommer 5. november)
 * Hvis en person starter utfylling av ePROM via lenke, men ikke fullfører/leverer, vil dette dukke opp som en utløpt ePROM bestilling i eFORSK to dager etterpå
