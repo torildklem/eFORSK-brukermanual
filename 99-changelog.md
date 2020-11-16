@@ -8,7 +8,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Mulighet for å opprette skjema på flere forskningsobjekter samtidig, for videre utfylling i massevisningsmodus
 * Randomisering: Randomiseringsresulateter vil nå vises ved eksport av skjemadata selv om randomiseringen ikke er avsluttet, mens blokkstørrelsene vil skjules isteden
 
-## Versjon 3.0.1 (kommer 5. november)
+## Versjon 3.0.1 (5. november 2020)
 * Hvis en person starter utfylling av ePROM via lenke, men ikke fullfører/leverer, vil dette dukke opp som en utløpt ePROM bestilling i eFORSK to dager etterpå
 ### Feilretting
 * Rettet feil ved bruk av LeserAnonymisert rollen
