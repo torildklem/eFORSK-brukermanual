@@ -21,6 +21,10 @@ Et underskjema vil typisk være et oppfølgingsskjema og må kobles til et forel
             
 Velger man å fylle ut et underskjema for et forskningsobjekt som ikke har sitt foreldreskjema registrert fra før, får man muligheten til å opprette en kladd og koble underskjemaet til dette. Foreldreskjemaet kan da fylles ut senere.
 
+## Randomisering
+
+Det finnes mekanismer for å forebygge forskningsjuks for skjemaer med randomisering. Sletter man et skjema kan det likevel finnes i sin helhet i hendelsesloggen.
+
 ## Monitorering
 
 Dette er en funksjon som man må få aktivert for sin database av eFORSK fagansvarlig.
