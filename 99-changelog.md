@@ -2,7 +2,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 3.1.1
+## Versjon 3.1.1 (kommer)
 ### Feilretting
 * Kopiering av grupper skapte problemer når fjernede regler var involvert
 
