@@ -2,7 +2,11 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 3.1 (planlagt 15. desember 2020)
+## Versjon 3.1.1
+### Feilretting
+* Kopiering av grupper skapte problemer når fjernede regler var involvert
+
+## Versjon 3.1 (15. desember 2020)
 * Skjemabygger: Mulighet for å kopiere grupper
 * Brevutsendelse: Mulighet for farger
 * Mulighet for å opprette skjema på flere forskningsobjekter samtidig, for videre utfylling i massevisningsmodus
