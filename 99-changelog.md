@@ -4,7 +4,8 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 
 ## Versjon 3.1.1 (kommer)
 ### Feilretting
-* Kopiering av grupper skapte problemer når fjernede regler var involvert
+* Kopiering av grupper i skjemabygger skapte problemer når fjernede regler var involvert
+* Skjemabygger: Forhåndsvisning av formler (systemutfylt felt) ble ikke beregnet
 
 ## Versjon 3.1 (15. desember 2020)
 * Skjemabygger: Mulighet for å kopiere grupper
