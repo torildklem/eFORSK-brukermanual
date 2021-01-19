@@ -2,7 +2,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 3.1.1 (21.01.2021)
+## Versjon 3.1.1 (21. januar 2021)
 ### Feilretting
 * Kopiering av grupper i skjemabygger skapte problemer når fjernede regler eller fjernede felt var involvert
 * Skjemabygger: Forhåndsvisning av formler (systemutfylt felt) ble ikke beregnet
