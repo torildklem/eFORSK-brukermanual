@@ -2,6 +2,12 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Versjon 4.0 (Kommer)
+* Mulighet for å skifte rolle eller enhet direkte i header
+* Ekstra advarsel ved bekreftelse av brevutsendelse
+* Mulighet for å eksportere liste over utsendte brev til excel
+* Mulighet for å filtrere på tilgangsenhet i skjemasøk
+
 ## Versjon 3.1.1 (21. januar 2021)
 ### Feilretting
 * Kopiering av grupper i skjemabygger skapte problemer når fjernede regler eller fjernede felter var involvert
