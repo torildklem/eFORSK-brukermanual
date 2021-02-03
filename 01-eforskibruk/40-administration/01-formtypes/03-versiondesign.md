@@ -30,8 +30,6 @@ For stratifisert blokkrandomisering er utførelse 3 anbefalt, da felter med data
 
 En opprettet randomisering kan brukes på tvers av felter og skjematyper. Unntaket her er stratifisert blokkrandomisering, som kun kan brukes innad skjematypen den er opprettet på.
 
-Ved eksportering av skjemadata, vil ikke randomiseringsresultatet bli med før randomiseringen er avsluttet i tilfelle blokkrandomisering og stratifisert blokkrandomisering.
-
 Les mer om randomisering under "Verktøy" i brukermanualen.
 
 ## Skjemaregler
