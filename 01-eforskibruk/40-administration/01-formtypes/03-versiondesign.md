@@ -15,6 +15,7 @@ Det finnes ikke en egen felttype for **flervalgsfelt**, da analyse av eksportert
 
 ### Variabelnavn og eksport
 Alle felt vil ha et variabelnavn som brukes ved eksport, og en visningstekst som gjør det enkelt for bruker å vite hva som skal fylles ut.
+
 For eksport av data som skal videre skal importeres til Stata eller SPSS, er det viktig å merke seg at Stata har en maks lengde på variabelnavn på 32 karakter, mens SPSS har maks lengde på 64 karakter. Derfor er det viktig å holde variabelnavnene kortere enn 32/64 karakterer hvis dataen skal importeres videre til noen av disse formatene.
 
 ### Systemutfylte felt
