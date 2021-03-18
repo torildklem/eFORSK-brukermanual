@@ -6,4 +6,4 @@ Brukermanualen for eFORSK er stadig i utvikling. Send oss gjerne tilbakemelding 
 
 Hvis du trenger hjelp skal du ta kontakt med din superbruker.
 
-Har du tekniske problemer, for eksempel at du ikke får opp eFORSK i nettleseren, ta kontakt med driftsleverandør Norsk Helsenett på kundesenter@nhn.no.
+Har du tekniske problemer, for eksempel at du ikke får opp eFORSK i nettleseren, ta kontakt med driftsleverandør Norsk helsenett på kundesenter@nhn.no.
