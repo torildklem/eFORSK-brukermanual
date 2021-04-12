@@ -7,6 +7,9 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Ekstra advarsel ved bekreftelse av brevutsendelse
 * Mulighet for å eksportere liste over utsendte brev til excel
 * Mulighet for å filtrere på tilgangsenhet i skjemasøk
+* Mulighet for å aksessere ePROM bestillingsjobberfra Verktøy-menyen
+* ePROM: Tydeliggjort informasjon i ePROM-oppsett og samstemt variabelnavn med forhåndsvisning av skjema i ePROM
+* ePROM: Fjernet mulighet for å "ikke sende kopi av besvart skjema til utfyller" hvis man har valgt innhenting av samtykke-signatur i ePROM-besvarelse
 
 ## Versjon 3.1.1 (21. januar 2021)
 ### Feilretting
