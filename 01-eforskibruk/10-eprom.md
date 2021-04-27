@@ -15,8 +15,12 @@ Velger man å varsle mottaker selv er man selv ansvarlig for at dette gjøres p�
 
 ### Jeg vil varsle mottaker selv
 
-Her vil man få en kode som man sammen med fødselsdatoen til mottaker kan bruke for å logge seg på og besvare skjemaet. Denne koden må man selv distribuere til mottaker.
+Her vil man få en kode som man sammen med fødselsdatoen til mottaker kan bruke for å logge seg på og besvare skjemaet, gjennom en nettadresse som oppgis i skjemabestillingen. Denne koden må man selv distribuere til mottaker.
 Dette valget får man ikke på samtykkeskjema der man skal innhente signatur ved ePROM besvarelse, for her kreves det at mottaker identifiserer seg med BankID.
+
+#### Mottakere under 18 år
+
+For mottakere under 18 år er dette per nå eneste mulighet for at enten mottaker eller noen på vegne av mottaker kan fylle ut skjema. De andre alternativene for utsending av varsel til mottaker listet nedenfor kan ikke brukes for mottakere under 18 år.
 
 ### Send varsel til mottaker
 
