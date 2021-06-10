@@ -2,7 +2,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 4.0 (10. juni 2021)
+## Versjon 4.0 (Utsatt, kommer snart)
 * Mulighet for å skifte rolle eller enhet direkte i header
 * Ekstra advarsel ved bekreftelse av brevutsendelse
 * Mulighet for å eksportere liste over utsendte brev til excel
