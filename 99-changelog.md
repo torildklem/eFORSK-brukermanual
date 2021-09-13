@@ -5,7 +5,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 ## Versjon 5.0 (Under utvikling)
 * Randomisering lagt til som en feature som kan velges på databasenivå, kan velges bort for databaser som ikke trenger randomisering. (NB! Må aktiveres igjen for allerede eksisterende databaser ved produksjonssetting av versjon 5.0)
 
-## Versjon 4.0 (September)
+## Versjon 4.0 (19. september 2021)
 * Mulighet for å skifte rolle eller enhet direkte i header
 * Ekstra advarsel ved bekreftelse av brevutsendelse
 * Mulighet for å eksportere liste over utsendte brev til excel
