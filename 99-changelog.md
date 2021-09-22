@@ -4,6 +4,11 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 
 ## Versjon 5.0 (Planlagt til oktober)
 * Randomisering lagt til som en feature som kan velges på databasenivå, kan velges bort for databaser som ikke trenger randomisering. (NB! Må aktiveres igjen for allerede eksisterende databaser ved produksjonssetting av versjon 5.0)
+* ### Feilretting
+* Import av skjemadefinisjon med samtykkefelt feilet.
+* Skjemabygger: Randomsering som "Utføres ved skjemaopprettelse" forårsaket kræsj i "Test regler og beregninger" i forhåndsvisning.
+* Skjemabygger: "Slett skjematype" bekreftelses-knapp fungerte ikke optimalt.
+* ePROM: ePROM-bestillingsjobber feilet hvis regler som tidligere var lagt til ble fjernet.
 
 ## Versjon 4.0 (19. september 2021)
 * Mulighet for å skifte rolle eller enhet direkte i header
