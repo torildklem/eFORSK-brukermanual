@@ -9,7 +9,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Brevutsendelse: Mulighet for å søke i listen over brevutsendinger
 * Brevutsendelse: Lagt til informasjon om størrelsesbregrensninger og prissteg for utsending.
 * Skjemabygger: Nytt valideringssystem for feilmeldinger og advarsler i skjemabyggeren.
-* Skjemabygger: Mulighet for å slette grupper inkludert innholdert i de.
+* Skjemabygger: Mulighet for å slette grupper inkludert innholdet i de.
 * ePROM: Mulighet for å ikke ikke sende ut purring på ePROM-bestillinger og automatisk bestillingsjobber.
 * ePROM: Utsending til personer under 18 år godtar bare "Jeg vil varsle mottaker selv", da andre kanaler ikke kan brukes.
 ### Feilretting
