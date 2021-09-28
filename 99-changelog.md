@@ -3,13 +3,21 @@
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
 ## Versjon 5.0 (Planlagt til oktober)
-* Randomisering lagt til som en feature som kan velges på databasenivå, kan velges bort for databaser som ikke trenger randomisering. (NB! Må aktiveres igjen for allerede eksisterende databaser ved produksjonssetting av versjon 5.0)
+* Randomisering: Randomisering er lagt til som en feature som kan velges på databasenivå, som nå kan velges bort for databaser som ikke trenger randomisering. (NB! Må aktiveres igjen for allerede eksisterende databaser ved produksjonssetting av versjon 5.0)
+* Randomisering: Tilbakemelding i skjema hvis manuell randomisering ikke gir noe resultat.
+* Randomisering: Mulighet for å sette spesifikk størrelse på første randomiseringsblokk.
+* Brevutsendelse: Mulighet for å søke i listen over brevutsendinger
+* Brevutsendelse: Lagt til informasjon om størrelsesbregrensninger og prissteg for utsending.
+* Skjemabygger: Nytt valideringssystem for feilmeldinger og advarsler i skjemabyggeren.
+* Skjemabygger: Mulighet for å slette grupper inkludert innholdert i de.
 * ePROM: Mulighet for å ikke ikke sende ut purring på ePROM-bestillinger og automatisk bestillingsjobber.
+* ePROM: Utsending til personer under 18 år godtar bare "Jeg vil varsle mottaker selv", da andre kanaler ikke kan brukes.
 ### Feilretting
 * Import av skjemadefinisjon med samtykkefelt feilet.
 * Skjemabygger: Randomsering som "Utføres ved skjemaopprettelse" forårsaket kræsj i "Test regler og beregninger" i forhåndsvisning.
 * Skjemabygger: "Slett skjematype" bekreftelses-knapp fungerte ikke optimalt.
 * Skjemabygger: Man kunne tidligere redigere felter i skjemabygger utenfor redigerings-modus.
+* Skjemabygger: ePROM-oppsett hadde påkrevde felter som man kunne omgå.
 * ePROM: ePROM-bestillingsjobber feilet hvis tillagte regler ble fjernet.
 * ePROM: ePROM-bestillingsjobber krevde ikke valg av hvilken skjemastatus som skull trigge bestilling.
 * Filhåndtering: Filnavn som genereres for filnedlasting håndterte tidligere ikke norske tegn "æøå".
