@@ -18,6 +18,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Skjemabygger: "Slett skjematype" bekreftelses-knapp fungerte ikke optimalt.
 * Skjemabygger: Man kunne tidligere redigere felter i skjemabygger utenfor redigerings-modus.
 * Skjemabygger: ePROM-oppsett hadde påkrevde felter som man kunne omgå.
+* ePROM: Eksport av ePROM-bestillinger feilet ved et stort nok antall bestillinger.
 * ePROM: ePROM-bestillingsjobber feilet hvis tillagte regler ble fjernet.
 * ePROM: ePROM-bestillingsjobber krevde ikke valg av hvilken skjemastatus som skull trigge bestilling.
 * Filhåndtering: Filnavn som genereres for filnedlasting håndterte tidligere ikke norske tegn "æøå".
