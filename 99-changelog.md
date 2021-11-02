@@ -3,6 +3,12 @@
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
 ## Versjon 5.0 (Planlagt til oktober)
+
+### Merk:
+* Anbefalt antall forskningsobjekter per ePROM-utsending er justert til 500 (tidligere 1000). Dette er en midlertidig løsning for å unngå problemer med ePROM-bestilling, permanent løsning er under arbeid.
+* Randomisering må aktiveres igjen for allerede eksisterende databaser ved produksjonssetting av versjon 5.0
+
+### Ny funksjonalitet
 * Randomisering: Randomisering er lagt til som en feature som kan velges på databasenivå, som nå kan velges bort for databaser som ikke trenger randomisering. (NB! Må aktiveres igjen for allerede eksisterende databaser ved produksjonssetting av versjon 5.0)
 * Randomisering: Tilbakemelding i skjema hvis manuell randomisering ikke gir noe resultat.
 * Randomisering: Mulighet for å sette spesifikk størrelse på første randomiseringsblokk.
