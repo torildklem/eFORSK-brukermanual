@@ -19,6 +19,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Skjemabygger: Mulighet for å slette grupper inkludert innholdet i de.
 * ePROM: Mulighet for å ikke ikke sende ut purring på ePROM-bestillinger og automatisk bestillingsjobber.
 * ePROM: Utsending til personer under 18 år godtar bare "Jeg vil varsle mottaker selv", da andre kanaler ikke kan brukes.
+
 ### Feilretting
 * Import av skjemadefinisjon med samtykkefelt feilet.
 * Skjemabygger: Randomsering som "Utføres ved skjemaopprettelse" forårsaket kræsj i "Test regler og beregninger" i forhåndsvisning.
