@@ -7,6 +7,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 ### Merk:
 * Anbefalt antall forskningsobjekter per ePROM-utsending er justert til 500 (tidligere 1000). Dette er en midlertidig løsning for å unngå problemer med ePROM-bestilling, permanent løsning er under arbeid.
 * Randomisering må aktiveres igjen for allerede eksisterende databaser ved produksjonssetting av versjon 5.0
+* Det legges nå til en tom side på alle brev som blir sendt på papir, så det er lenger ikke nødvendig å sette av plass på første side for addresseinformasjon i brevutsending. Digitale utsendinger og papirutsending vil være like.
 
 ### Ny funksjonalitet
 * Randomisering: Randomisering er lagt til som en feature som kan velges på databasenivå, som nå kan velges bort for databaser som ikke trenger randomisering. (NB! Må aktiveres igjen for allerede eksisterende databaser ved produksjonssetting av versjon 5.0)
