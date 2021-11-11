@@ -19,6 +19,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Skjemabygger: Mulighet for å slette grupper inkludert innholdet i de.
 * ePROM: Mulighet for å ikke ikke sende ut purring på ePROM-bestillinger og automatisk bestillingsjobber.
 * ePROM: Utsending til personer under 18 år godtar bare "Jeg vil varsle mottaker selv", da andre kanaler ikke kan brukes.
+* ePROM: Nytt symbol for valgte mottakere som er under 18 år i ePROM bestillinger.
 
 ### Feilretting
 * Import av skjemadefinisjon med samtykkefelt feilet.
@@ -26,10 +27,10 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Skjemabygger: "Slett skjematype" bekreftelses-knapp fungerte ikke optimalt.
 * Skjemabygger: Man kunne tidligere redigere felter i skjemabygger utenfor redigerings-modus.
 * Skjemabygger: ePROM-oppsett hadde påkrevde felter som man kunne omgå.
+* Skjemabygger: Grupper og informasjonstekster i skjulte elementer var tidligere synlig i ePROM-skjemaet
 * ePROM: Eksport av ePROM-bestillinger feilet ved et stort nok antall bestillinger.
 * ePROM: ePROM-bestillingsjobber feilet hvis tillagte regler ble fjernet.
 * ePROM: ePROM-bestillingsjobber krevde ikke valg av hvilken skjemastatus som skull trigge bestilling.
-* Filhåndtering: Filnavn som genereres for filnedlasting håndterte tidligere ikke norske tegn "æøå".
 
 ## Versjon 4.0 (19. september 2021)
 * Mulighet for å skifte rolle eller enhet direkte i header
