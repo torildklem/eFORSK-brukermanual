@@ -1,6 +1,6 @@
-# Leser anonymisert
+# Leser avidentifisert
 
-En bruker med rollen *leser anonymisert* kan kun lese ikke-identifiserbar data fra 
+En bruker med rollen *leser avidentifisert* kan kun lese ikke-identifiserbar data fra 
 databasen og kan ikke registrere ny data.
 
 ## Tilganger og rettigheter:
