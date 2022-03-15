@@ -1,7 +1,9 @@
-# Databaseansvarlig
+# Databaseansvarlig og DatabaseansvarligAvidentifisert
 
-En bruker med rollen *databaseansvarlig* har tilgang til alle funksjoner i eFORSK og er den
+En bruker med rollen *Databaseansvarlig* eller *DatabaseansvarligAvidentifisert* har tilgang til alle funksjoner i eFORSK og er den
 eneste som kan endre databaseoppsett og bygge skjematyper.
+
+*DatabaseansvarligAvidentifisert* har kun mulighet til å se avidentifisert informasjon om forskningsobjekter. For øvrig er disse to rollene helt like.
 
 ## Tilganger og rettigheter:
 Administrasjon
@@ -24,7 +26,7 @@ ePROM
 *	Bestille skjemautfyllelse
 
 Forskningsobjekter
-*	Lese identifisert
+*	Lese identifisert/avidentifisert
 *	Behandle forskningsobjekter (opprette, endre)
 * Slette
 
