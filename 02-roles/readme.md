@@ -8,9 +8,6 @@ Databaseansvarlig har tilgang til alle funksjoner i eFORSK og er den eneste som 
 ## Databaseansvarlig avidentifisert
 Databaseansvarlig avidentifisert har samme tilgang som Databaseansvarlig men kan kun se avidentifiserte data fra databasen
 
-## Superbruker
-Superbruker har samme tilgang som Databaseansvarlig. Superbruker er eneste rolle som har tilgang til å opprette og endre randomisering, samt legge til randomisering i skjema. Superbruker kan godkjenne digitale skjema.
-
 ## Dataansvarlig
 Dataansvarlig har tilgang til alle funksjoner som omhandler datainnsamling og -behandling, men har ikke rettigheter til å administrere databasen (for eksempel kan ikke opprette/endre skjematyper). 
 
@@ -25,3 +22,6 @@ Leser anonymisert kan kun lese ikke-identifiserbar data fra databasen og kan ikk
 
 ## Monitor
 Monitor kan monitorere skjema.
+
+## Superbruker
+Superbruker har samme tilgang som DatabaseansvarligAvidentifisert. Superbruker kan godkjenne digitale skjema for sine enheter.
