@@ -11,6 +11,9 @@ Alle spørsmål som skal besvare samtidig bør/må plasseres i en og samme skjem
 
 Har man avhengigheter mellom skjematyper, eksempelvis at et inklusjonsskjema har informasjon om forskningobjektet som fører til bestilling av et PROM skjema med relasjon tilbake til inklusjonsskjemaet. Se "Skjematypen skal være underskjematype av" nedenfor.
 
+### Om antall felter i skjema
+Skjemabyggeren fungerer optimalt hvis man holder totalt antall felt under 100. For skjema med flere felter enn dette bør det vurderes å dele skjemaet opp i flere mindre skjema
+
 ## Bygg ny skjematype
 
 Når man skal bygge ny skjematype må man gjøre noen valg som ikke kan gjøres om på senere. Unntaket er skjematypens navn, dette kan når som helst endres etter opprettelse.
