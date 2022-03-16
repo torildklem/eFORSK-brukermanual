@@ -2,6 +2,23 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Versjon 6.0 (april 2022)
+
+### Merk
+* Det er nå mulig å opprette bestillingsjobber med opptil 30 gjentagende bestilllinger, mot tidligere 10.
+
+### Ny funksjonalitet
+* Roller: Ny rolle DatabaseansvarligAvidentifisert
+* Roller: Ny rolle Superbruker
+* Automatisk bestilling: utvidet til max 30 bestillinger
+
+### Feilretting
+* Forskningsobjekt: søk på forskningsobjekt med fødselsdato fungerer
+* Eksport: eksport av ePROM-bestillinger fungerer med slettede skjematyper
+* ePROM: tidspunkt for ePROM-bestilling kan nå benyttes som metadatafelt i følgebrev
+* ePROM: sliderintervall på slider fungerer også på ePROM-skjema
+
+
 ## Versjon 5.0 (11. november 2021)
 
 ### Merk:
