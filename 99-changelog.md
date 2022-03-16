@@ -6,11 +6,13 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 
 ### Merk
 * Det er nå mulig å opprette bestillingsjobber med opptil 30 gjentagende bestilllinger, mot tidligere 10.
+* Rollen som tidligere het LeserAnonymisert heter nå LeserAvidentfisert
 
 ### Ny funksjonalitet
 * Roller: Ny rolle DatabaseansvarligAvidentifisert
 * Roller: Ny rolle Superbruker
 * Automatisk bestilling: utvidet til max 30 bestillinger
+* Ved eksport av skjemadata kan man velge å inkludere metadata for skjematypene som inngår i eksporten (i separate filer)
 
 ### Feilretting
 * Forskningsobjekt: søk på forskningsobjekt med fødselsdato fungerer
