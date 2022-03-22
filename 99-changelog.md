@@ -2,6 +2,26 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Versjon 6.0 (Kommer)
+
+### Ny funksjonalitet
+* Lagt til mulighet for nye roller Databaseansvarlig Avidentifisert og Superbruker
+* Superbrukere får oversikt over databaser personen er superbruker for
+* Superbrukere får mulighet til å godkjenne digitale ePROM-skjema for databaser personen er superbruker for
+* Forbedret og optimalisert utlisting av brukerinformasjon
+* ePROM: Økt antallet automatisk bestillingsjobber med ePROM som kan opprettes (fra 10 til 30)
+* Skjema: Mulighet for å inkludere metadata av skjematype sammen med eksport av skjemadata.
+
+### Feilretting
+* Fikset at utlisting av brukerinformasjon kunne henge seg.
+* Søk på forskningsobjekter fungerer nå med fødselsdato og navn.
+* Eksport av alle skjemabestillinger fungerer nå hvis noen av skjemaene tidligere er slettet.
+* ePROM: Verdiintervall på slider i skjemafelt fungerer nå i utsendt ePROM-skjema.
+* ePROM: Systemutfylt felt "EPromBestiltTidspunkt" vil kunne legges til og vises i følgebrev
+* ePROM: ePROM-bestillinger som feiler underveis i utsending vil stoppe utsending, og gi mulighetene for å fortsette utsending.
+
+
+
 ## Versjon 5.0 (11. november 2021)
 
 ### Merk:
