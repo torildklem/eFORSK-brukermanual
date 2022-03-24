@@ -5,20 +5,24 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 ## Versjon 6.0 (Kommer)
 
 ### Ny funksjonalitet
-* Lagt til mulighet for nye roller Databaseansvarlig Avidentifisert og Superbruker
-* Superbrukere får oversikt over databaser personen er superbruker for
-* Superbrukere får mulighet til å godkjenne digitale ePROM-skjema for databaser personen er superbruker for
-* Forbedret og optimalisert utlisting av brukerinformasjon
+* Skjemabygger: Forbedret ytelse i skjemabygger. Begrenset til at bare en gruppe på toppnivå kan være åpen om gangen, for å redusere treghet/problemer med større skjema. Alle grupper på toppnivå er nå automatisk lukket ved åpning av en skjematype i skjemabygger.
+* Roller: Lagt til nye roller Databaseansvarlig Avidentifisert og Superbruker
+* Roller: Superbrukere får oversikt over databaser personen er superbruker for
+* Roller: Superbrukere får mulighet til å godkjenne digitale ePROM-skjema for databaser personen er superbruker for
+* Roller: Leser Anonymisert rollen heter nå Leser Avidentifisert.
+* Brukerdetaljer: Oppdatert utlisting av brukerinformasjon.
 * ePROM: Økt antallet automatisk bestillingsjobber med ePROM som kan opprettes (fra 10 til 30)
+* ePROM: ePROM-bestillinger som evt. feiler underveis i utsending vil pause utsending, og gi bruker mulighetene for å fortsette utsending.
 * Skjema: Mulighet for å inkludere metadata av skjematype sammen med eksport av skjemadata.
 
 ### Feilretting
-* Fikset at utlisting av brukerinformasjon kunne henge seg.
-* Søk på forskningsobjekter fungerer nå med fødselsdato og navn.
+* Brukerdetaljer: Optimalisert utlisting av brukerinformasjon så siden ikke skaper problemer.
+* Forskningsobjekter: Søk på forskningsobjekter fungerer nå med fødselsdato og navn.
 * Eksport av alle skjemabestillinger fungerer nå hvis noen av skjemaene tidligere er slettet.
 * ePROM: Verdiintervall på slider i skjemafelt fungerer nå i utsendt ePROM-skjema.
 * ePROM: Systemutfylt felt "EPromBestiltTidspunkt" vil kunne legges til og vises i følgebrev
-* ePROM: ePROM-bestillinger som feiler underveis i utsending vil stoppe utsending, og gi mulighetene for å fortsette utsending.
+* ePROM: Fikset feil med ePROM-bestillinger som ble avbrutt ved for stort antall bestillinger.
+* Oppdatert tekst for felter det ikke er mulig å legge til regler på.
 
 
 
