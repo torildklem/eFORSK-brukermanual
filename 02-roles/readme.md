@@ -24,4 +24,4 @@ Leser anonymisert kan kun lese ikke-identifiserbar data fra databasen og kan ikk
 Monitor kan monitorere skjema.
 
 ## Superbruker
-Superbruker har samme tilgang som DatabaseansvarligAvidentifisert. Superbruker kan godkjenne digitale skjema for sine enheter.
+Superbruker har samme tilgang som DatabaseansvarligAvidentifisert. Superbruker kan godkjenne digitale skjema for sine enheter. Superbruker kan administrere randomiseringer for databasen.
