@@ -34,5 +34,4 @@ Verktøy
 *	Last ned metadata
 *	Eksporter data
 *	Importer data
-* Behandle randomiseringer (Utføre hurtigrandomisering, avslutte og slette)
 * Håndtere hendelser
