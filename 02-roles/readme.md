@@ -18,10 +18,10 @@ Registrar har begrenset tilgang til funksjoner som omhandler datainnsamling og -
 Leser kan kun lese data fra databasen og kan ikke registrere ny data. 
 
 ## Leser avidentifisert 
-Leser anonymisert kan kun lese ikke-identifiserbar data fra databasen og kan ikke registrere ny data.
+Leser avidentifisert kan kun lese ikke-identifiserbar data fra databasen og kan ikke registrere ny data.
 
 ## Monitor
 Monitor kan monitorere skjema.
 
 ## Superbruker
-Superbruker kan godkjenne digitale skjema for sine enheter. Superbruker kan administrere randomiseringer sine enheter. Utover dette har superbruker samme tilgang som DatabaseansvarligAvidentifisert. 
+Superbruker kan godkjenne digitale skjema. Superbruker kan administrere randomiseringer. Utover dette har Superbruker samme tilgang som DatabaseansvarligAvidentifisert. 
