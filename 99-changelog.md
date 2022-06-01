@@ -2,6 +2,22 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Versjon 7.0 (juni 2022)
+
+### Merk
+* Roller: Superbruker kan godkjenne digitale skjema
+* Skjemabygger: mer fleksibel skjemabygger gir mulighet til å vise grupper som egne skjema i ePROM
+
+### Ny funksjonalitet
+* Randomisering: kun tilgjengelig for rollen Superbruker. Det inkluderer også å legge til randomiseringsfelt i skjematyper. 
+* Skjemabygger: det er mulig å legge til standardskjema etter at skjema er opprettet
+* ePROM: det blir mulig å bestille ePROM-skjema på forskningsobjekter ned til 16 år (tidligere 18 år).
+* Randomiseringsfelt blir ikke vist i eksport av skjemadata, med unntak av for rollen superbruker
+
+### Feilretting
+* ePROM: ePROM-skjema med randomisering blir levert tilbake til eFORSK uten feil
+* Skjemabygger: import av skjemadefinisjon inkluderer aktivering av samtykkehåndtering og ePROM
+
 ## Versjon 6.0 (april 2022)
 
 ### Merk
